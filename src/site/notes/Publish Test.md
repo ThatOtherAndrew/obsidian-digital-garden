@@ -29,7 +29,6 @@ graph LR
     A --> B
 ```
 Admonition:
-```ad-tip
-title: Title
+```ad-warning
 Content
 ```
