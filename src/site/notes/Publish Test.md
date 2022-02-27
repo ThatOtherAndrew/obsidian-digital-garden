@@ -2,7 +2,31 @@
 tags: gardenEntry
 ---
 
-### This is a test
-👋 Hello!
+# Size 1 Heading
+## Size 2 Heading
+### Size 3 Heading
+#### Size 4 Heading
+##### Size 5 Heading
 
-<h1 style="text-align: center">How does HTML look?</h1>
+Paragraph text
+[External Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- Unordered
+- List
+1. Ordered
+2. List
+- [ ] Unchecked checkbox
+- [x] Checked checkbox
+
+Embedded Image:
+![](https://thatother.dev/favicon.ico)
+
+Mermaid Graph:
+```mermaid
+graph LR
+    A --> B
+```
+Admonition:
+```ad-tip
+title: Title
+Content
+```
