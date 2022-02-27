@@ -14,8 +14,11 @@ Paragraph text
 - List
 1. Ordered
 2. List
-- [ ] Unchecked checkbox
-- [x] Checked checkbox
+
+Code block:
+```python
+print('Hello, World!')
+```
 
 Embedded Image:
 ![](https://thatother.dev/favicon.ico)
