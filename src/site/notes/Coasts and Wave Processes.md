@@ -32,4 +32,4 @@ A water depth of 1.3 times the wave height (or less) causes the wave to break.
 - Waves hurl sediment at cliffs, grinding it away like sandpaper.
 
 ##### Attrition
-Rocks bump against each other and the sea bed, making them smaller and rounder, and creating sand.
+- Rocks bump against each other and the sea bed, making them smaller and rounder, and creating sand.
