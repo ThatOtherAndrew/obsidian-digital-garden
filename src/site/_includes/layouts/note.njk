@@ -1,3 +1,7 @@
+---
+title: "/{{ page.fileSlug }}/"
+permalink: "notes/{{ page.fileSlug | slugify }}/"
+---
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -10,7 +14,7 @@
 
     <div class="content">
       <a href="/">&larr; Back to garden entry</a>
-      {{ content | link | safe}}
+      {{ content | safe}}
     </div>
 
   </body>

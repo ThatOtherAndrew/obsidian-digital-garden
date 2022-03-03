@@ -1,11 +1,13 @@
+const slugify = require("@sindresorhus/slugify");
+const markdownIt = require("markdown-it");
+const fs = require('fs');
+const matter = require('gray-matter')
+module.exports = function(eleventyConfig) {
 
-module.exports = function (eleventyConfig) {
-
-    let markdownIt = require("markdown-it");
     let markdownLib = markdownIt({
         breaks: true,
         html: true
-    }).use(function (md) {
+    }).use(function(md) {
         //https://github.com/DCsunset/markdown-it-mermaid-plugin
         const origRule = md.renderer.rules.fence.bind(md.renderer.rules);
         md.renderer.rules.fence = (tokens, idx, options, env, slf) => {
@@ -27,11 +29,11 @@ module.exports = function (eleventyConfig) {
             return origRule(tokens, idx, options, env, slf);
         };
 
-        const defaultRender = md.renderer.rules.link_open || function (tokens, idx, options, env, self) {
+        const defaultRender = md.renderer.rules.link_open || function(tokens, idx, options, env, self) {
             return self.renderToken(tokens, idx, options);
         };
 
-        md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
+        md.renderer.rules.link_open = function(tokens, idx, options, env, self) {
             const aIndex = tokens[idx].attrIndex('target');
             const classIndex = tokens[idx].attrIndex('class');
 
@@ -56,9 +58,26 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.setLibrary("md", markdownLib);
 
+    eleventyConfig.addTransform('link', function(str) {
+        return str && str.replace(/\[\[(.*?)\]\]/g, function(match, p1) {
+            const linksplit = p1.split("|");
+            const fileName = linksplit[0];
 
-    eleventyConfig.addFilter('link', function (str) {
-        return str && str.replace(/\[\[(.*?)\]\]/g, '<a class="internal-link" href="/notes/$1">$1</a>');
+            let permalink = linksplit.length > 1 ? linksplit[0] : `/notes/${slugify(linksplit[0])}`;
+            const title = linksplit.length > 1 ? p1.split("|")[1] : p1;
+
+            try {
+                const file = fs.readFileSync(`./src/site/notes/${fileName}.md`, 'utf8');
+                const frontMatter = matter(file);
+                if (frontMatter.data.permalink) {
+                    permalink = frontMatter.data.permalink;
+                }
+            } catch {
+                //Ignore if file doesn't exist
+            }
+
+            return `<a class="internal-link" href="${permalink}">${title}</a>`;
+        });
     })
 
     return {
