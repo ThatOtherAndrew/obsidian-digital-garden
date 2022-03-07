@@ -1,3 +1,7 @@
+---
+{"dg-publish":true}
+---
+
 ### Formation of a Beach
 Deposition occurs in low-energy environments by [[Coasts and Wave Processes#Constructive and Destructive Waves|constructive waves]], forming a beach. The largest beaches usually form in bays, due to wave diffraction. Beaches are composed of rock fragments from eroded cliffs broken down by [[Coasts and Wave Processes#Hydraulic Action|hydraulic action]].
 
