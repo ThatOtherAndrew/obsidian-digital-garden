@@ -1,3 +1,7 @@
+---
+{"dg-publish":true}
+---
+
 ### Wave Formation
 Wind blows over the ocean which creates friction. This drags the surface of the ocean and the water in a circular motion creating waves.
 
