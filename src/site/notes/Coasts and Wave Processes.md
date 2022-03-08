@@ -16,7 +16,7 @@ These factors can increase how much energy is transferred from the wind, increas
 As the water becomes shallower near the coast, friction against the sea bed opposes the rotational energy of the wave, causing it to grow in height as the water piles up against itself. Eventually, gravity brings the tall wave crashing down, which is called "breaking".
 
 ![[! Obsidian/Excalidraw/Coasts and Wave Processes_2022-02-08 09.32.14.excalidraw.md|600]]
-```ad-info
+```ad-question
 title: Where exactly does a wave break?
 A water depth of 1.3 times the wave height (or less) causes the wave to break.
 ```
