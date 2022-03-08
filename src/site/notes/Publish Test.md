@@ -13,3 +13,4 @@ Credit to [oleeskild](https://github.com/oleeskild/) for creating and maintainin
 - [[Formation of Cliffs and Wave-cut Platforms]]
 - [[Formation of Bays, Headlands and Coves]]
 - [[Depositional Features]]
+- [[Coastal Land Uses]]
