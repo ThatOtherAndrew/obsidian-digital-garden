@@ -12,9 +12,6 @@ Credit to [oleeskild](https://github.com/oleeskild/) for creating and maintainin
 ```transclusion
 # Physical Environments
 
----
-dg-publish: true
----
 1. 🌊 [[School/S4/Geography/Physical Environments/Coasts and Wave Processes|Coasts and Wave Processes]]
 2. 🧗‍♀️[[School/S4/Geography/Physical Environments/Formation of Cliffs and Wave-cut Platforms|Formation of Cliffs and Wave-cut Platforms]]
 3. 〰️[[School/S4/Geography/Physical Environments/Formation of Bays, Headlands and Coves|Formation of Bays, Headlands and Coves]]
