@@ -18,7 +18,8 @@ These factors can increase how much energy is transferred from the wind, increas
 As the water becomes shallower near the coast, friction against the sea bed opposes the rotational energy of the wave, causing it to grow in height as the water piles up against itself. Eventually, gravity brings the tall wave crashing down, which is called "breaking".
 
 
-```transclusion
+<div class="transclusion">
+
 # 600
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
@@ -10567,7 +10568,7 @@ As the water becomes shallower near the coast, friction against the sea bed oppo
 }
 ```
 %%
-```
+</div>
 
 ```ad-question
 title: Where exactly does a wave break?
