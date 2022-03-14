@@ -19,7 +19,8 @@
 Bays are formed when a band of softer rock is eroded faster, creating a concave shape. The adjacent harder rock is left sticking outwards, and becomes a headland.
 
 
-```transclusion
+<div class="transclusion">
+
 # 900
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
@@ -3067,7 +3068,7 @@ quicker, creating bays ^2qikGzAS
 }
 ```
 %%
-```
+</div>
 
 
 ### Concordant and Discordant Coastlines
@@ -3075,7 +3076,8 @@ quicker, creating bays ^2qikGzAS
 A concordant coastline has bands of different rock types running parallel to the coast, resulting in straight, smooth coastlines. A discordant coastline has alternating rock types perpendicular to the coastline, creating many bays and headlands.
 
 
-```transclusion
+<div class="transclusion">
+
 # 600
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
@@ -3476,7 +3478,7 @@ DISCORDANT ^397UTuET
 }
 ```
 %%
-```
+</div>
 
 
 ### Formation of a Cove
