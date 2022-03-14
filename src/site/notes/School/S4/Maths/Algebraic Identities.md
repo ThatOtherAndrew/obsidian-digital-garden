@@ -22,5 +22,9 @@ title: Starter Questions
 ### Identi-what?
 The above are examples of **identities**, where the equation is true for any possible value of $x$.
 
+### Trigonometric Identities
+1. Show that $\sin{x}\degree \tan{x}\degree = \frac{\sin^2{x\degree}}{\cos{x\degree}}$
+    - ...
+
 ---
 [[School/S4/Maths/Maths|⬅️ Back to Maths]]
