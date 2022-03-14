@@ -10,8 +10,8 @@ Credit to [oleeskild](https://github.com/oleeskild/) for creating and maintainin
 # Class Notes
 ## Geography
 
-```transclusion
-# ##Physical Environments
+<div class="transclusion">
+
 
 1. 🌊 [[School/S4/Geography/Physical Environments/Coasts and Wave Processes|Coasts and Wave Processes]]
 2. 🧗‍♀️[[School/S4/Geography/Physical Environments/Formation of Cliffs and Wave-cut Platforms|Formation of Cliffs and Wave-cut Platforms]]
@@ -20,14 +20,15 @@ Credit to [oleeskild](https://github.com/oleeskild/) for creating and maintainin
 5. 🏖️[[School/S4/Geography/Physical Environments/Formation of Depositional Features|Formation of Depositional Features]]
 6. 📊[[School/S4/Geography/Physical Environments/Coastal Land Uses|Coastal Land Uses]]
 
-```
+</div>
 
 
 ## Maths
 
-```transclusion
+<div class="transclusion">
+
 
 1. ✅ [[School/S4/Maths/Algebraic Identities|Algebraic Identities]]
 
-```
+</div>
 
