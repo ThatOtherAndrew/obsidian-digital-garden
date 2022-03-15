@@ -44,5 +44,16 @@ Farmers may invest in renewable energy near the coast for diversification purpos
 Nuclear fission power plants are often constructed near the coast due to the vast quantities of water needed to pump through the reactor, however it's not renewable.
 ```
 
+### Managing Impacts of Tourism
+| Activity                     | Impact                                  | Attempts to manage the problems                                                                      | Effectiveness of attempts                                  |
+| ---------------------------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Litter from beach users      | Safety hazard to visitors and animals   |                                                                                                      |                                                          |
+| Litter from boat users       |                                         |                                                                                                      |                                                          |
+| Barbecues                    | Greater risk of fires on heathland      |                                                                                                      |                                                          |
+| Sitting on sand dunes        | Damages the fragile dune ecosystem      |                                                                                                      |                                                          |
+| Footpath access to the beach |                                         |                                                                                                      |                                                          |
+| Beach horse-riding           | Horse excrement left behind on beach    |                                                                                                      |                                                          |
+| Boat anchors                 | Damages seagrass habitats for seahorses | [Ecomoorings](https://www.theseahorsetrust.org/ecomoorings/) installed which don't drag along seabed | Effective at preventing damage, but not enough installed |
+
 ---
 [[School/S4/Geography/Physical Environments/Physical Environments|⬅️ Back to Physical Environments]]
