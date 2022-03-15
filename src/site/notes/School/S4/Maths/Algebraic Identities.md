@@ -23,8 +23,7 @@ title: Starter Questions
 The above are examples of **identities**, where the equation is true for any possible value of $x$.
 
 ### Trigonometric Identities
-1. Show that $\sin{x}\degree \tan{x}\degree = \frac{\sin^2{x\degree}}{\cos{x\degree}}$
-    - ...
+1. Show that $\sin{x^\circ} \tan{x^\circ} = \frac{\sin^2{x^\circ}}{\cos{x^\circ}}$
 
 ---
 [[School/S4/Maths/Maths|⬅️ Back to Maths]]
