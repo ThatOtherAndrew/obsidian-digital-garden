@@ -45,15 +45,15 @@ Nuclear fission power plants are often constructed near the coast due to the vas
 ```
 
 ### Managing Impacts of Tourism
-| Activity                     | Impact                                  | Attempts to manage the problems                                                                      | Effectiveness of attempts                                  |
-| ---------------------------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| Litter from beach users      | Safety hazard to visitors and animals   |                                                                                                      |                                                          |
-| Litter from boat users       |                                         |                                                                                                      |                                                          |
-| Barbecues                    | Greater risk of fires on heathland      |                                                                                                      |                                                          |
-| Sitting on sand dunes        | Damages the fragile dune ecosystem      |                                                                                                      |                                                          |
-| Footpath access to the beach |                                         |                                                                                                      |                                                          |
-| Beach horse-riding           | Horse excrement left behind on beach    |                                                                                                      |                                                          |
-| Boat anchors                 | Damages seagrass habitats for seahorses | [Ecomoorings](https://www.theseahorsetrust.org/ecomoorings/) installed which don't drag along seabed | Effective at preventing damage, but not enough installed |
+| Activity                | Impact                                                 | Management attempts                                                                                  | Limitations of attempts                                                       |
+| ----------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Litter from beach users | Safety hazard to visitors and animals                  | Lots of easily accessible litter bins installed at beaches                                           | Very labourious and expensive to empty litter bins, which fill up frequently  |
+| Litter from boat users  | Harms sealife and outboard motors deposit oil in water | Ocean monitoring and cleanup by divers, to check on health of the seabed and litter amount           | Constant diving underwater is inconvenient and labourious                     |
+| Barbecues               | Greater risk of wildfires on heathland                 | Dedicated barbecue pits installed                                                                    | Not enough pits constructed for all the tourists with barbecues to use        |
+| Sitting on sand dunes   | Erodes and destabilises the sand dunes                 | Fences and signs installed at the edge of dunes                                                      | Requires maintenance, and can be easily bypassed by disobedient tourists      |
+| Access to the beach     | People trample on the dunes when getting to the beach  | Boardwalks installed to take stress off the dunes                                                    | Boardwalks can get buried, and installation and maintenence is very expensive |
+| Beach horse riding      | Horse excrement left behind on beach                   | Horse riding only in winter, or early morning / late evening                                         | Limitations negatively impact businesses centred around horse riding          |
+| Boat anchors            | Damages seagrass habitats for seahorses                | [Ecomoorings](https://www.theseahorsetrust.org/ecomoorings/) installed which don't drag along seabed | Nowhere near enough ecomoorings installed for all boats to be able to use     |
 
 ---
 [[School/S4/Geography/Physical Environments/Physical Environments|⬅️ Back to Physical Environments]]
