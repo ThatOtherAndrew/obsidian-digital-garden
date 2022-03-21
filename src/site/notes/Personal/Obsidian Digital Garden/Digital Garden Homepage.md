@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/personal/obsidian-digital-garden/digital-garden-homepage/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/personal/obsidian-digital-garden/digital-garden-homepage/","tags":"gardenEntry"}
 ---
 
 ```ad-warning
@@ -10,9 +10,14 @@ Credit to [oleeskild](https://github.com/oleeskild/) for creating and maintainin
 # Class Notes
 ## Geography
 
-<div class="transclusion">
+<div class="transclusion internal-embed is-loaded">
 
 
+### Glaciation
+1. 🏔️ [[School/S4/Geography/Physical Environments/Glaciers and Erosional Processes|Glaciers and Erosional Processes]]
+2. 💺 [[School/S4/Geography/Physical Environments/Formation of a Corrie|Formation of a Corrie]]
+
+### Coasts
 1. 🌊 [[School/S4/Geography/Physical Environments/Coasts and Wave Processes|Coasts and Wave Processes]]
 2. 🧗‍♀️ [[School/S4/Geography/Physical Environments/Formation of Cliffs and Wave-cut Platforms|Formation of Cliffs and Wave-cut Platforms]]
 3. 〰️ [[School/S4/Geography/Physical Environments/Formation of Bays, Headlands and Coves|Formation of Bays, Headlands and Coves]]
@@ -25,7 +30,7 @@ Credit to [oleeskild](https://github.com/oleeskild/) for creating and maintainin
 
 ## Maths
 
-<div class="transclusion">
+<div class="transclusion internal-embed is-loaded">
 
 
 1. ✅ [[School/S4/Maths/Algebraic Identities|Algebraic Identities]]
