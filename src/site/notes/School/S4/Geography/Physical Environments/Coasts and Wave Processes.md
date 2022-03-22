@@ -4,6 +4,7 @@
 [[School/S4/Geography/Physical Environments/Physical Environments|⬅️ Back to Physical Environments]]
 # Coasts and Wave Processes
 ---
+
 ### Wave Formation
 Wind blows over the ocean which creates friction. This drags the surface of the ocean and the water in a circular motion creating waves.
 
