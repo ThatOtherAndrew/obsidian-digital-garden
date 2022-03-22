@@ -4,6 +4,7 @@
 [[School/S4/Geography/Physical Environments/Physical Environments|⬅️ Back to Physical Environments]]
 # Formation of Depositional Features
 ---
+
 ### Formation of a Beach
 Deposition occurs in low-energy environments by [[School/S4/Geography/Physical Environments/Coasts and Wave Processes|constructive waves]], forming a beach. The largest beaches usually form in bays, due to wave diffraction. Beaches are composed of rock fragments from eroded cliffs broken down by [[School/S4/Geography/Physical Environments/Coasts and Wave Processes|hydraulic action]].
 
