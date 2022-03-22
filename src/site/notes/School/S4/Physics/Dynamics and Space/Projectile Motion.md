@@ -11,7 +11,7 @@ A projectile in physics is an object which ==moves under the influence of gravit
 When we do calculations we must keep the horizontal and vertical quantities separate - the vertical acceleration is ==constant== as defined by the ==gravitational field strength==, and there is ==no horizontal acceleration== but a ==constant speed== (assuming no air resistance or other forms of friction).
 
 ```ad-example
-title: Example proejectile calculation
+title: Example projectile calculation
 
 An object is projected horizontally at **15ms<sup>-1</sup>**. It takes **3s** for it to hit the ground.
 
