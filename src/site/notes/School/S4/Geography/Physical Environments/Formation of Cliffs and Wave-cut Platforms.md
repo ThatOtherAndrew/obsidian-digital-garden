@@ -4,6 +4,7 @@
 [[School/S4/Geography/Physical Environments/Physical Environments|⬅️ Back to Physical Environments]]
 # Formation of Cliffs and Wave-cut Platforms
 ---
+
 ### Wave-cut Platform Formation
 - Cliffs of hard or resistant rock (e.g. granite or limestone) are eroded by the constant crashing of waves, especially by destructive waves in winter.
 - Erosion by [[School/S4/Geography/Physical Environments/Coasts and Wave Processes|hydraulic action]] and [[School/S4/Geography/Physical Environments/Coasts and Wave Processes|abrasion]] is concentrated at the base of the cliff cutting a wave cut notch.
