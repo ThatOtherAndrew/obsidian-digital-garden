@@ -4,6 +4,7 @@
 [[School/S4/Geography/Physical Environments/Physical Environments|⬅️ Back to Physical Environments]]
 # Formation of Bays, Headlands and Coves
 ---
+
 ### Starter Questions
 1. The two processes that are likely to erode a bay are what?
     - [[School/S4/Geography/Physical Environments/Coasts and Wave Processes|Hydraulic action]] and [[School/S4/Geography/Physical Environments/Coasts and Wave Processes|abrasion]]
