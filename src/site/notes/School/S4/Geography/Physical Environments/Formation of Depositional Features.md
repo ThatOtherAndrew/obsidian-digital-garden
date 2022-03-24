@@ -6,9 +6,9 @@
 ---
 
 ### Formation of a Beach
-Deposition occurs in low-energy environments by [[School/S4/Geography/Physical Environments/Coasts and Wave Processes|constructive waves]], forming a beach. The largest beaches usually form in bays, due to wave diffraction. Beaches are composed of rock fragments from eroded cliffs broken down by [[School/S4/Geography/Physical Environments/Coasts and Wave Processes|hydraulic action]].
+Deposition occurs in low-energy environments by [[School/S4/Geography/Physical Environments/Coasts and Wave Processes#Constructive and Destructive Waves|constructive waves]], forming a beach. The largest beaches usually form in bays, due to wave diffraction. Beaches are composed of rock fragments from eroded cliffs broken down by [[School/S4/Geography/Physical Environments/Coasts and Wave Processes#Hydraulic Action|hydraulic action]].
 
-Beach material can be sorted by size, since the largest material is deposited first by the backwash as it loses energy retreating into the sea. They are also sorted by shape, as rounder material in the inter-tidal zone is subject to [[School/S4/Geography/Physical Environments/Coasts and Wave Processes|attrition]] and flatter stones can be flipped higher up the beach onto the berm by turbulent water.
+Beach material can be sorted by size, since the largest material is deposited first by the backwash as it loses energy retreating into the sea. They are also sorted by shape, as rounder material in the inter-tidal zone is subject to [[School/S4/Geography/Physical Environments/Coasts and Wave Processes#Attrition|attrition]] and flatter stones can be flipped higher up the beach onto the berm by turbulent water.
 
 ```ad-example
 title: National 5 Example Question
@@ -26,7 +26,7 @@ A sandspit is an accumulation of sand or gravel sediment with one end attached t
 When the wind changes direction, it alters the direction of the waves, and this may result in some of the material at the end of the sandspit being forced inland to form a curved end. A salt marsh can often develop behind the sandspit.
 
 ### Formation of Sandbars and Tombolos
-If a sandspit is deposited across a [[School/S4/Geography/Physical Environments/Formation of Bays, Headlands and Coves|bay]], it blocks it off and forms a sandbar, with a lagoon formed behind it.
+If a sandspit is deposited across a [[School/S4/Geography/Physical Environments/Formation of Bays, Headlands and Coves#Formation of Bays and Headlands|bay]], it blocks it off and forms a sandbar, with a lagoon formed behind it.
 
 If a sandspit grows into open water and connects to an island, it forms a tombolo. Tombolos are usually quite short, as it is hard for large amounts of sediment to build up in open water.
 
