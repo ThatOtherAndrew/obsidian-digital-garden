@@ -10,8 +10,13 @@ Credit to [oleeskild](https://github.com/oleeskild/) for creating and maintainin
 # Class Notes
 ## Geography
 
-<div class="transclusion internal-embed is-loaded">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
+<div class="markdown-embed-title">
+
+
+
+</div>
 
 
 ### Glaciation
@@ -26,30 +31,40 @@ Credit to [oleeskild](https://github.com/oleeskild/) for creating and maintainin
 5. 🏖️ [[School/S4/Geography/Physical Environments/Formation of Depositional Features|Formation of Depositional Features]]
 6. 📊 [[School/S4/Geography/Physical Environments/Coastal Land Uses|Coastal Land Uses]]
 
-</div>
+</div></div>
 
 
 ## Physics
 
-<div class="transclusion internal-embed is-loaded">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
 
  ###
+
+
+</div>
 
 
 1. 💪 [[School/S4/Physics/Dynamics and Space/Energy, Work and Power|Energy, Work and Power]]
 2. 💨 [[School/S4/Physics/Dynamics and Space/Kinetic Energy|Kinetic Energy]]
 3. 🏹 [[School/S4/Physics/Dynamics and Space/Projectile Motion|Projectile Motion]]
 
-</div>
+</div></div>
 
 
 ## Maths
 
-<div class="transclusion internal-embed is-loaded">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
+<div class="markdown-embed-title">
+
+
+
+</div>
 
 
 1. ✅ [[School/S4/Maths/Algebraic Identities|Algebraic Identities]]
 
-</div>
+</div></div>
 
