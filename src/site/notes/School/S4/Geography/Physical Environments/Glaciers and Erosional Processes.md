@@ -6,7 +6,7 @@
 ---
 
 ### What is a glacier?
-A glacier is [TODO].
+A glacier is a large body of ice, which is formed from compressed snow at a high altitude, and moves downhill. Glaciers tend to have a very strong erosional capabilities, and can carve the land which they move through.
 
 ### Erosional Processes
 ##### Abrasion
