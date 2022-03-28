@@ -34,6 +34,22 @@ Credit to [oleeskild](https://github.com/oleeskild/) for creating and maintainin
 </div></div>
 
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+ ###
+
+
+</div>
+
+
+1. 📈 [[School/S4/Geography/Human Environments/Population Distribution and Population Pyramids|Population Distribution and Population Pyramids]]
+
+</div></div>
+
+
 ## Physics
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
