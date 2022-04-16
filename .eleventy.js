@@ -10,6 +10,16 @@ module.exports = function(eleventyConfig) {
             html: true
         })
         .use(require("markdown-it-footnote"))
+        .use(require('markdown-it-mathjax3'), {
+            tex: {
+                inlineMath: [
+                    ["$", "$"]
+                ]
+            },
+            options: {
+                skipHtmlTags: { '[-]': ['pre'] }
+            }
+        })
         .use(require('markdown-it-task-checkbox'), {
             disabled: true,
             divWrap: false,
@@ -94,12 +104,13 @@ module.exports = function(eleventyConfig) {
 
                 return defaultLinkRule(tokens, idx, options, env, self);
             };
+
         });
 
     eleventyConfig.setLibrary("md", markdownLib);
 
     eleventyConfig.addTransform('link', function(str) {
-        return str && str.replace(/\[\[(.*?)\]\]/g, function(match, p1) {
+        return str && str.replace(/\[\[(.*?\|.*?)\]\]/g, function(match, p1) {
             //Check if it is an embedded excalidraw drawing or mathjax javascript
             if (p1.indexOf("],[") > -1 || p1.indexOf('"$"') > -1) {
                 return match;
@@ -109,14 +120,14 @@ module.exports = function(eleventyConfig) {
             let fileName = fileLink;
             let header = "";
             let headerLinkPath = "";
-            if(fileLink.includes("#")){
+            if (fileLink.includes("#")) {
                 [fileName, header] = fileLink.split("#");
                 headerLinkPath = `#${headerToId(header)}`;
-            } 
+            }
 
             let permalink = `/notes/${slugify(fileName)}`;
             const title = linkTitle ? linkTitle : fileName;
-            
+
 
             try {
                 const file = fs.readFileSync(`./src/site/notes/${fileName}.md`, 'utf8');
@@ -138,6 +149,31 @@ module.exports = function(eleventyConfig) {
         });
     });
 
+
+    eleventyConfig.addTransform('callout-block', function(str) {
+        return str && str.replace(/<blockquote>((.|\n)*?)<\/blockquote>/g, function(match, content) {
+            let titleDiv = "";
+            let calloutType = "";
+            const calloutMeta = /\[!(\w*)\](\s?.*)/g;
+            if(!content.match(calloutMeta)){
+                return match;
+            }
+
+            content = content.replace(calloutMeta, function(metaInfoMatch, callout, title) {
+                calloutType = callout;
+                titleDiv = title.replace("<br>", "") ?
+                    `<div class="admonition-title">${title}</div>` :
+                    `<div class="admonition-title">${callout.charAt(0).toUpperCase()}${callout.substring(1).toLowerCase()}</div>`;
+                return "";
+            });
+
+            return `<div class="callout-${calloutType} admonition admonition-example admonition-plugin">
+                ${titleDiv}
+                ${content}
+            </div>`;
+        });
+    });
+
     eleventyConfig.addPassthroughCopy("src/site/img");
     eleventyConfig.addPlugin(faviconPlugin, { destination: 'dist' });
 
@@ -155,46 +191,46 @@ module.exports = function(eleventyConfig) {
 
 };
 
-function headerToId(heading){
+function headerToId(heading) {
     return slugify(heading);
 }
 
 //https://github.com/rstacruz/markdown-it-named-headings/blob/master/index.js
-function namedHeadingsFilter(md, options){
+function namedHeadingsFilter(md, options) {
     md.core.ruler.push('named_headings', namedHeadings.bind(null, md));
 }
 
-function namedHeadings (md, state) {
+function namedHeadings(md, state) {
 
-  var ids = {}
+    var ids = {}
 
-  state.tokens.forEach(function (token, i) {
-    if (token.type === 'heading_open') {
-      var text = md.renderer.render(state.tokens[i + 1].children, md.options)
-      var id = headerToId(text);
-      var uniqId = uncollide(ids, id)
-      ids[uniqId] = true
-      setAttr(token, 'id', uniqId)
+    state.tokens.forEach(function(token, i) {
+        if (token.type === 'heading_open') {
+            var text = md.renderer.render(state.tokens[i + 1].children, md.options)
+            var id = headerToId(text);
+            var uniqId = uncollide(ids, id)
+            ids[uniqId] = true
+            setAttr(token, 'id', uniqId)
+        }
+    })
+}
+
+function uncollide(ids, id) {
+    if (!ids[id]) return id
+    var i = 1
+    while (ids[id + '-' + i]) { i++ }
+    return id + '-' + i
+}
+
+function setAttr(token, attr, value, options) {
+    var idx = token.attrIndex(attr)
+
+    if (idx === -1) {
+        token.attrPush([attr, value])
+    } else if (options && options.append) {
+        token.attrs[idx][1] =
+            token.attrs[idx][1] + ' ' + value
+    } else {
+        token.attrs[idx][1] = value
     }
-  })
-}
-
-function uncollide (ids, id) {
-  if (!ids[id]) return id
-  var i = 1
-  while (ids[id + '-' + i]) { i++ }
-  return id + '-' + i
-}
-
-function setAttr (token, attr, value, options) {
-  var idx = token.attrIndex(attr)
-
-  if (idx === -1) {
-    token.attrPush([ attr, value ])
-  } else if (options && options.append) {
-    token.attrs[idx][1] =
-      token.attrs[idx][1] + ' ' + value
-  } else {
-    token.attrs[idx][1] = value
-  }
 }
