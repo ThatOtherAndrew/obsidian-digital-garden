@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/personal/obsidian-digital-garden/digital-garden-homepage/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/personal/obsidian-digital-garden/digital-garden-homepage/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 ```ad-warning
 There are still some minor rendering issues - hopefully they will be resolved soon!
