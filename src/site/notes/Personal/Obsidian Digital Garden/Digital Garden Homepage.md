@@ -49,6 +49,7 @@ Credit to [oleeskild](https://github.com/oleeskild/) for creating and maintainin
 
 
 1. 📈 [[Population Distribution and Population Pyramids]]
+2. 🧑‍🌾 [[Farm Diversification]]
 
 
 </div></div>
