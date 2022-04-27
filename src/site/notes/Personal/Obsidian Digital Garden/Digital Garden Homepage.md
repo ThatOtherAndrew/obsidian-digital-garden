@@ -3,10 +3,9 @@
 ---
 
 
-```ad-warning
-There are still some minor rendering issues - hopefully they will be resolved soon!
-Credit to [oleeskild](https://github.com/oleeskild/) for creating and maintaining this great publishing tool.
-```
+> [!warning]
+> There are still some minor rendering issues - hopefully they will be resolved soon!
+> Credit to [oleeskild](https://github.com/oleeskild/) for creating and maintaining this great publishing tool.
 
 # Class Notes
 ## Geography
@@ -51,6 +50,25 @@ Credit to [oleeskild](https://github.com/oleeskild/) for creating and maintainin
 
 1. 📈 [[Population Distribution and Population Pyramids]]
 2. 🧑‍🌾 [[Farm Diversification]]
+
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+ ###
+
+
+</div>
+
+
+
+1. 🔥 [[Impacts of Climate Change]]
+2. ❤️‍🩹 [[Solutions to Climate Change]]
 
 
 </div></div>
