@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/school/s4/geography/physical-environments/physical-environments/"}
+{"dg-publish":true,"permalink":"/school/s4/geography/physical-environments/physical-environments/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 ### Glaciation
 1. 🏔️ [[School/S4/Geography/Physical Environments/Glaciers and Erosional Processes|Glaciers and Erosional Processes]]

@@ -1,27 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/school/s4/geography/physical-environments/coastal-land-uses/"}
+{"dg-publish":true,"permalink":"/school/s4/geography/physical-environments/coastal-land-uses/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 [[School/S4/Geography/Physical Environments/Physical Environments|⬅️ Back to Physical Environments]]
 # Coastal Land Uses
 ---
 
-```ad-info
-title: Useful links
-[BBC Bitesize: The Dorset Coast](https://www.bbc.co.uk/bitesize/guides/z3ndmp3/revision/10)
-```
+> [!info] Useful links
+> 
+> [BBC Bitesize: The Dorset Coast](https://www.bbc.co.uk/bitesize/guides/z3ndmp3/revision/10)
 
 ### Coastal Land Uses in the UK
 In the UK, 23% of our total land area lies within 10km of the coast. 17 million people live within this coastal zone and this level of usage puts pressure on our natural coasts, leading to a need for coastal management schemes.
 
-```ad-question
-title: How is the land along the coast used?
-
-- 32% Pastoral farming
-- 25% Arable farming
-- 30% Buildings, roads and recreational facilities
-- 10% Woodland and heathland habitat
-- 3% Natural cliffs, beaches and mudflats
-```
+> [!question] How is the land along the coast used?
+> 
+> - 32% Pastoral farming
+> - 25% Arable farming
+> - 30% Buildings, roads and recreational facilities
+> - 10% Woodland and heathland habitat
+> - 3% Natural cliffs, beaches and mudflats
 
 ### Case Study: Tourism at the Dorset Coast
 The Dorset coast has many resorts such as Swanage, providing tourist services including hotels, souvenir shops and restaurants.
@@ -41,9 +39,8 @@ Wave power is suitable at the south-west coast of England because of the long fe
 
 Farmers may invest in renewable energy near the coast for diversification purposes, to boost their income.
 
-```ad-note
-Nuclear fission power plants are often constructed near the coast due to the vast quantities of water needed to pump through the reactor, however it's not renewable.
-```
+> [!note]
+> Nuclear fission power plants are often constructed near the coast due to the vast quantities of water needed to pump through the reactor, however it's not renewable.
 
 ### Managing Impacts of Tourism
 | Activity                | Impact                                                 | Management attempts                                                                                  | Limitations of attempts                                                       |

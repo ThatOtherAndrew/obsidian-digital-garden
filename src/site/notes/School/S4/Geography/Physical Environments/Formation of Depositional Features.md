@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/school/s4/geography/physical-environments/formation-of-depositional-features/"}
+{"dg-publish":true,"permalink":"/school/s4/geography/physical-environments/formation-of-depositional-features/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 [[School/S4/Geography/Physical Environments/Physical Environments|⬅️ Back to Physical Environments]]
 # Formation of Depositional Features
 ---
@@ -10,15 +11,13 @@ Deposition occurs in low-energy environments by [[School/S4/Geography/Physical E
 
 Beach material can be sorted by size, since the largest material is deposited first by the backwash as it loses energy retreating into the sea. They are also sorted by shape, as rounder material in the inter-tidal zone is subject to [[School/S4/Geography/Physical Environments/Coasts and Wave Processes#Attrition|attrition]] and flatter stones can be flipped higher up the beach onto the berm by turbulent water.
 
-```ad-example
-title: National 5 Example Question
-
-#### Explain, in detail, how particles on a beach become sorted according to size.
-
-The swash from waves transports particles of various sizes up the beach. As the backwash retreats back into the sea, it loses energy travelling down the slope, and drops the largest particles near the top of the beach. As it loses more energy retreating further back, more particles of decreasing size are deposited, leaving the smallest particles near the bottom of the beach.
-
-As a result, rocks and shingle are left near the top of the beach, with sand deposited closer to the sea. If the slope isn't too steep, silt and mud can also be deposited further below the sand.
-```
+> [!example] National 5 Example Question
+> 
+> #### Explain, in detail, how particles on a beach become sorted according to size.
+> 
+> The swash from waves transports particles of various sizes up the beach. As the backwash retreats back into the sea, it loses energy travelling down the slope, and drops the largest particles near the top of the beach. As it loses more energy retreating further back, more particles of decreasing size are deposited, leaving the smallest particles near the bottom of the beach.
+> 
+> As a result, rocks and shingle are left near the top of the beach, with sand deposited closer to the sea. If the slope isn't too steep, silt and mud can also be deposited further below the sand.
 
 ### Formation of a Sandspit
 A sandspit is an accumulation of sand or gravel sediment with one end attached to land and the other reaching across an estuary or into the sea. They are features of coastal deposition. Sandspits are formed when large amounts of sediment are transported by longshore drift and a shallow, sheltered area of water is left where the coastline suddenly changes direction. Over time, enough material is deposited to build up above sea level.

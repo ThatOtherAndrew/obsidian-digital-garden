@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/school/s4/geography/human-environments/farm-diversification/"}
+{"dg-publish":true,"permalink":"/school/s4/geography/human-environments/farm-diversification/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 [[School/S4/Geography/Human Environments/Human Environments|⬅️ Back to Human Environments]]
 # Farm Diversification
 ---

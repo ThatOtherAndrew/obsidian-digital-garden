@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/school/s4/geography/physical-environments/formation-of-cliffs-and-wave-cut-platforms/"}
+{"dg-publish":true,"permalink":"/school/s4/geography/physical-environments/formation-of-cliffs-and-wave-cut-platforms/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 [[School/S4/Geography/Physical Environments/Physical Environments|⬅️ Back to Physical Environments]]
 # Formation of Cliffs and Wave-cut Platforms
 ---

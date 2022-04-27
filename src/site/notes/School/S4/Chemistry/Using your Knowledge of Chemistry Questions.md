@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/school/s4/chemistry/using-your-knowledge-of-chemistry-questions/"}
+{"dg-publish":true,"permalink":"/school/s4/chemistry/using-your-knowledge-of-chemistry-questions/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 [[School/S4/Chemistry/Chemistry|⬅️ Back to Chemistry]]
 # Using your Knowledge of Chemistry Questions
 ---
