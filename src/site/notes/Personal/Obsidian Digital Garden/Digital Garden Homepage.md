@@ -20,11 +20,11 @@
 
 
 
-![[Physical Environments|]]
+![[Physical Environments]]
 
-![[Human Environments|###]]
+![[Human Environments]]
 
-![[Global Issues|###]]
+![[Global Issues]]
 
 
 </div></div>
