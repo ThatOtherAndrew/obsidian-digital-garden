@@ -35,7 +35,6 @@
 
 <div class="markdown-embed-title">
 
- ###
 
 
 </div>
@@ -54,7 +53,6 @@
 
 <div class="markdown-embed-title">
 
- ###
 
 
 </div>
