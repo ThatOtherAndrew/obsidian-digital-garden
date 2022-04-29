@@ -20,11 +20,11 @@
 
 
 
-![[Physical Environments]]
+![[School/S4/Geography/Physical Environments/Physical Environments|Physical Environments]]
 
-![[Human Environments]]
+![[School/S4/Geography/Human Environments/Human Environments|Human Environments]]
 
-![[Global Issues]]
+![[School/S4/Geography/Global Issues/Global Issues|Global Issues]]
 
 
 </div></div>
@@ -42,9 +42,9 @@
 
 
 
-1. 💪 [[Energy, Work and Power]]
-2. 💨 [[Kinetic Energy]]
-3. 🏹 [[Projectile Motion]]
+1. 💪 [[School/S4/Physics/Dynamics and Space/Energy, Work and Power|Energy, Work and Power]]
+2. 💨 [[School/S4/Physics/Dynamics and Space/Kinetic Energy|Kinetic Energy]]
+3. 🏹 [[School/S4/Physics/Dynamics and Space/Projectile Motion|Projectile Motion]]
 
 
 </div></div>
@@ -62,7 +62,7 @@
 
 
 
-1. ✅ [[Algebraic Identities]]
+1. ✅ [[School/S4/Maths/Algebraic Identities|Algebraic Identities]]
 
 
 </div></div>
@@ -81,7 +81,7 @@
 
 
 
-1. 🧪 [[Using your Knowledge of Chemistry Questions]]
+1. 🧪 [[School/S4/Chemistry/Using your Knowledge of Chemistry Questions|Using your Knowledge of Chemistry Questions]]
 
 
 </div></div>
