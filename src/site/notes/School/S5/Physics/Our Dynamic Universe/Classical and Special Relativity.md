@@ -95,3 +95,16 @@ $$\huge{l' = l{\sqrt{1-\frac{v^2}{c^2}}}}$$
 > - $l$ is normal length in metres
 > - $v$ is the velocity of the moving object in $ms^{-1}$
 > - $c$ is the speed of light in $ms^{-1}$ as a constant
+
+### Proof of Special Relativity
+Muons are high-energy lepton particles similar to an electron. They are formed in the Earth's upper atmosphere, at an altitude of about $10\ \textup{km}$ when cosmic rays collide with the nuclei of molecules in the air. They are very unstable and decay within a fraction of a second - with a half-life of $2.2\times10^6\ \textup{s}$.
+
+#### Using Classical Physics
+According to classical physics (physics pre-dating quantum and relativistic physics), the muon should decay before it reaches the ground. The probability of a muon reaching the Earth's surface without travelling faster than the speed of light is about zero.
+
+#### Using Special Relativity
+##### Ground observer's perspective
+An observer on the ground would observe dilated time when watching the muon, which would give it enough time to reach the ground without decaying.
+
+##### Muon's perspective
+The muon would observe the distance to the Earth's surface contract, so that it needs to cover less distance in order to reach the surface without decaying.
