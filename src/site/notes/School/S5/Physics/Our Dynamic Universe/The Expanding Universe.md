@@ -30,4 +30,6 @@ According to Hubble's Law, $v$ is directly proportional to $d$. However, in prac
 ### Dark Matter
 We can determine information about stars and galaxies in space by looking at the electromagnetic radiation emitted - but this means that if you have matter which does not emit any form of EM radiation, it is impossible for us to observe. We call this matter **dark matter**.
 
-Our galaxy is spinning faster than it should based on calculations using the visible mass, therefore we can determine that dark matter must exist inside of it (e.g. a supermassive black hole).
+The stars far away from the centre of the Milky Way are orbiting the centre faster than they should based on calculations using the visible mass. The only way this is possible is if a lot more hidden mass exists on the edge of the galaxy, proving the abundant existence of dark matter.
+
+Another proof of its existence is gravitational lensing - the bending of light around heavy objects. Light from some sources are bending a lot more than they should based on the visible mass around it, showing that there must be a lot more invisible mass.
