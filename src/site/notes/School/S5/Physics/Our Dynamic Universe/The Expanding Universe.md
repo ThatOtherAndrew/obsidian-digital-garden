@@ -28,4 +28,6 @@ To summarise, **the hotter the object, the shorter the peak wavelength, and the 
 According to Hubble's Law, $v$ is directly proportional to $d$. However, in practice, observerations show that the further away a galaxy is, the more it is accelerating away from us. There must be something causing this acceleration, which we call **dark energy**.
 
 ### Dark Matter
-Ouur galaxy is spinning faster than it should, based on calculations using the visible mass. This must mean there is some hidden mass within the galaxy, which we call **dark matter**.
+We can determine information about stars and galaxies in space by looking at the electromagnetic radiation emitted - but this means that if you have matter which does not emit any form of EM radiation, it is impossible for us to observe. We call this matter **dark matter**.
+
+Our galaxy is spinning faster than it should based on calculations using the visible mass, therefore we can determine that dark matter must exist inside of it (e.g. a supermassive black hole).
