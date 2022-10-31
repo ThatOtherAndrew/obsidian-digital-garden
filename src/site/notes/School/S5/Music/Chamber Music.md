@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"music/chamber-music","permalink":"/music/chamber-music/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-[]()
+
 ### History
 Chamber music is noramlly defined as music for **a small group of players** (3 or more). This is normally one player per part.
 
