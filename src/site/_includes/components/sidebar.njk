@@ -1,0 +1,69 @@
+<div x-init="isDesktop = window.innerWidth>=1100;" 
+            x-on:resize.window="isDesktop = (window.innerWidth>=1100) ? true : false;" 
+            x-data="sidebarData">
+
+      <div class="sidebar" :style="open && isDesktop ? 'box-shadow: -5px 0 15px rgba(0,0,0,0.3);' : ''">
+            <div x-show="isDesktop" class="expand-line">
+
+                  <button style="font-size: 48px; background: transparent; border:none; box-shadow: none;" @click="toggleOpen()">
+
+                        <i x-show="open" style="display: none;" class="fa fa-caret-right"></i>
+                        <i x-show="!open" class="fa fa-caret-left"></i>
+                  </button>
+            </div>
+
+            <div x-show="open || !isDesktop" class="sidebar-container" style="display: none;">
+
+                  {%if settings.dgShowLocalGraph === true%}
+                        <div x-show="isDesktop">
+                              <h3>Graph</h3>
+                              <div id="link-graph" style="margin-bottom:20px; background-color: var(--background-primary); border-radius: 10px; width: fit-content;"></div>
+                        </div>
+                        {%endif%}
+
+                        {%if settings.dgShowBacklinks === true %}
+                              <h3>Links to this page</h3>
+                              {%- if backlinks.length === 0 -%}
+                                    <div class="backlink-card">
+                                          No backlinks
+                                    </div>
+                              {%- endif -%}
+
+                              {%- for backlink in backlinks -%}
+                                    <div class="backlink-card">
+                                          <a href="{{backlink.url}}">{{backlink.title}}</a>
+                                    </div>
+                              {%- endfor -%}
+                              {%endif%}
+
+            </div>
+      </div>
+
+            {%if settings.dgShowLocalGraph === true %}
+                  {%include "components/graphScript.njk"%}
+            {% endif %}
+
+            <script>
+                  document.addEventListener('alpine:init', () => {
+
+                        const isDesktop = window.innerWidth >= 1100;
+                        {% if settings.dgShowLocalGraph === true %}
+                              renderGraph(600, 400);
+                        {% endif %}
+
+                        Alpine.data('sidebarData', () => ({
+                              open: false,
+                              isDesktop,
+                              toggleOpen() {
+                                    this.open = !this.open;
+                                    if (Graph) {
+                                          setTimeout(() => {
+                                                Graph.zoomToFit();
+                                                Graph.zoom(3);
+                                          }, 10);
+                                    }
+                              }
+
+                        }))
+                  })
+            </script>
