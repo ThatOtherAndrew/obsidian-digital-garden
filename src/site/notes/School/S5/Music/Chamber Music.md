@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"music/chamber-music","permalink":"/music/chamber-music/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"music/chamber-music","permalink":"/music/chamber-music/"}
 ---
 
 
