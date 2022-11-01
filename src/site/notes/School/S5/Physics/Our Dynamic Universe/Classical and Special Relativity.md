@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"physics/relativity","permalink":"/physics/relativity/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"physics/relativity","permalink":"/physics/relativity/"}
 ---
 
 
