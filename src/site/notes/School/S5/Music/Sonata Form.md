@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"music/sonata-form","permalink":"/music/sonata-form/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"music/sonata-form","permalink":"/music/sonata-form/"}
 ---
 
 
