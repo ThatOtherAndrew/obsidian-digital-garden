@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"omsi","permalink":"/omsi/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"omsi","permalink":"/omsi/"}
 ---
 
 
