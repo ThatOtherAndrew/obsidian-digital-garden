@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/obsidian-digital-garden/digital-garden-homepage/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/personal/obsidian-digital-garden/digital-garden-homepage/","tags":"gardenEntry"}
 ---
 
 
@@ -8,10 +8,15 @@
 > In an attempt to tidy things up a little, I've removed all my previous notes published on this site. Hopefully this means the quality of the site will be a little better!
 
 ## Physics
- [[School/S5/Physics/Our Dynamic Universe/Classical and Special Relativity|Classical and Special Relativity]]
- [[School/S5/Physics/Our Dynamic Universe/Doppler Effect|The Doppler Effect]]
-[[School/S5/Physics/Our Dynamic Universe/The Expanding Universe|The Expanding Universe]]
+
+#### Our Dynamic Universe
+> [[School/S5/Physics/Our Dynamic Universe/Classical and Special Relativity|Classical and Special Relativity]]
+> [[School/S5/Physics/Our Dynamic Universe/The Doppler Effect|The Doppler Effect]]
+> [[School/S5/Physics/Our Dynamic Universe/The Expanding Universe|The Expanding Universe]]
+
+#### Particles and Waves
+> [[School/S5/Physics/Particles and Waves/Electric Fields|Electric Fields]]
 
 ## Music
-[[School/S5/Music/Sonata Form|Sonata Form]]
-[[School/S5/Music/Chamber Music|Chamber Music]]
+> [[School/S5/Music/Sonata Form|Sonata Form]]
+> [[School/S5/Music/Chamber Music|Chamber Music]]
