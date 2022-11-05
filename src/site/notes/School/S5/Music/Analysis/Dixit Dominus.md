@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"dg-permalink":"music/dixit-dominus","permalink":"/music/dixit-dominus/"}
+---
+
+
+> [!info]+ Essay Prompts
+> 
+> 1. Handel’s Dixit Dominus was written for the Service of Vespers. Explain the context of vespers in terms of the daily offices of the Roman Catholic liturgy during the Baroque Period. List some other texts that form part of the liturgy of Vespers. (10 Marks)
+> 
+> 2. Write an analysis of the first movement of Dixit Dominus. You should mention structure, textures, performing forces, notable harmonic progressions, melody, word-setting. Remember to refer to the music using bar numbers and beat references if appropriate. (20 Marks)
+
+*Dixit Dominus* is a psalm written by Handel for the Service of Vespers. Vespers is the second-last service held in a Daily Office, usually occurring at around the time of sunset. It is one of seven daytime services, with lauds, prime, terce, sext and none happening before vespers, and compline happening after. There is a set order of psalms and canticles, which are performed during the service. Psalms are sometimes recited as song written by composers under patronage. *Dixit Dominus* uses the Latin text of Psalm 110 for its words. Other texts that form part of the liturgy of Vespers includes a doxology (a short hymn of praises to God usually performed after a psalm or canticle), a reading from the Bible, and antiphons (a short chant which precedes and follows a psalm or canticle).
+
+The first movement of *Dixit Dominus* is composed in a ritornello form, a structure used in a lot of Baroque music. It has a main theme which is repeatedly referenced throughout the movement, with contrasting episodes in between. In this case, there is an arpeggiated theme played by the first and second violin following a series of perfect cadences, followed by a progression following the circle of fifths (e.g. bars 3-5), and ending with diminished sevenths followed by a petite reprise. Unlike rondo form, ritornello form can reference the theme partially and in different keys. It is performed by a five-part SSATB chorus, and is accompanied by strings and continuo (a bass part performed by an instrument capable of playing chords, usually a harpsichord or lute).
+
+When the chorus part first enters, the chorus is singing in harmony creating a homophonic texture, with a syllabic word setting. However there are sections such as the solo from bar 29 beat 3 onwards, where the soloist sings very prominent melismas, and the texture is antiphonal - where there are multiple parts possessing a "dialogue" passed back and forth between them. For example, from bar 30 onwards, the soprano soloist and the first violin form the antiphonal texture. Another example is bars 40-41, where the antiphonal texture takes place between the voices and instruments. There is also polyphony present throughout the movement, for example at bar 63 onwards, where the different voices have interweaving melodic parts.
+
+Throughout the first movement there are several notable melodic, and harmonic elements. There is a Neapolitan sixth chord appearing in places such as bar 24 beat 3, directly following the diminished seventh on C# in the same bar. Bar 18 is a reference to intonation, which is where one part would perform a short introductory phrase to set the pitch. Bars 42-46 demonstrate a chain of suspensions, where the resolution of one suspended chord leads directly into the setup of the next. Bar 52 onwards is a cantus firmus - a reference to a well-known pre-existing melody. In this case, it references the tonus peregrinus (meaning "wandering tone"), a plainchant melody.
