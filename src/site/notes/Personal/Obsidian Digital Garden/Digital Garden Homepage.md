@@ -17,3 +17,4 @@
 ## Music
 > 🎼 [[School/S5/Music/Sonata Form\|Sonata Form]]  
 > 🎵 [[School/S5/Music/Chamber Music\|Chamber Music]]  
+> ⛪ [[School/S5/Music/Analysis/Dixit Dominus\|Dixit Dominus Essay]]
