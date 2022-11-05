@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/obsidian-digital-garden/digital-garden-homepage/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/personal/obsidian-digital-garden/digital-garden-homepage/","tags":"gardenEntry","dgShowInlineTitle":false}
 ---
 
 
