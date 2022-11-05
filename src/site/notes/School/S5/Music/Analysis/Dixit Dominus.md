@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"music/dixit-dominus","permalink":"/music/dixit-dominus/"}
+{"dg-publish":true,"dg-permalink":"music/dixit-dominus-analysis","permalink":"/music/dixit-dominus-analysis/"}
 ---
 
 
