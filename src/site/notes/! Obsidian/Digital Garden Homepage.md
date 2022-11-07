@@ -13,6 +13,7 @@
 #### Particles and Waves
 > 🔋 [[School/S5/Physics/2. Particles and Waves/Electric Fields\|Electric Fields]]  
 > 🧲 [[School/S5/Physics/2. Particles and Waves/Magnetic Fields\|Magnetic Fields]]  
+> 💥 [[School/S5/Physics/Particle Accelerators\|Particle Accelerators]]
 
 ## Music
 > 🎼 [[School/S5/Music/Sonata Form\|Sonata Form]]  
