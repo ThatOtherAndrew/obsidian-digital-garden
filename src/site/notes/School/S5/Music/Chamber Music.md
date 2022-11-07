@@ -6,14 +6,14 @@
 ### History
 Chamber music is noramlly defined as music for **a small group of players** (3 or more). This is normally one player per part.
 
-Chamber music would typically be performed in smaller, often private, rooms. In particular, within the palaces or castles of aristocratic [[Introduction to Classical Music#Patronage\|patrons]]. Originally, chamber music was **not** performed in large public concerts.
+Chamber music would typically be performed in smaller, often private, rooms. In particular, within the palaces or castles of aristocratic [[School/S5/Music/Classical Period#Patronage\|patrons]]. Originally, chamber music was **not** performed in large public concerts.
 
-Some chamber music was written for amateur performers. Some aristocrats were excellent musicians, and [[Introduction to Classical Music#Patronage\|patronage]] and commissions are important for the purpose of chamber music.
+Some chamber music was written for amateur performers. Some aristocrats were excellent musicians, and [[School/S5/Music/Classical Period#Patronage\|patronage]] and commissions are important for the purpose of chamber music.
 
 As the period progressed, chamber music became increasingly important.
 
 ### Trios, Quartets and Quintets
-Some ensembles were fixed and had specific names. These ensembles always had the same combination of instruments, and they became the most important genres for our [[Introduction to Classical Music#Famous Classical Composers\|3 composers]].
+Some ensembles were fixed and had specific names. These ensembles always had the same combination of instruments, and they became the most important genres for our [[School/S5/Music/Classical Period#Famous Classical Composers\|3 composers]].
 
 **String Trio**: Violin, Viola, Cello
 **String Quartet**: Violin 1, Violin 2, Viola, Cello
@@ -22,13 +22,13 @@ Some ensembles were fixed and had specific names. These ensembles always had the
 Other ensembles were more flexible, although names were similar. Some of these became important genres, and others were rarer, at times even unique for specific composers. For example:
 
 **Piano Trio**: Piano, Violin, Cello
-**Clarinet Quintet** ([[Introduction to Classical Music#Wolfgang Amadeus Mozart\|Mozart]]): Clarinet, Violin 1, Violin 2, Viola, Cello
-**Clarinet Trio** ([[Introduction to Classical Music#Wolfgang Amadeus Mozart\|Mozart]]): Clarinet, Viola, Piano
+**Clarinet Quintet** ([[School/S5/Music/Classical Period#Wolfgang Amadeus Mozart\|Mozart]]): Clarinet, Violin 1, Violin 2, Viola, Cello
+**Clarinet Trio** ([[School/S5/Music/Classical Period#Wolfgang Amadeus Mozart\|Mozart]]): Clarinet, Viola, Piano
 
 ### Chamber Music Forms
-The number and order of movements is fairly stable for many chamber music genres. This changed over time - [[Introduction to Classical Music#Wolfgang Amadeus Mozart\|Mozart]] and [[Introduction to Classical Music#Ludwig van Beethoven\|Beethoven]] expanded the size and number of movements.
+The number and order of movements is fairly stable for many chamber music genres. This changed over time - [[School/S5/Music/Classical Period#Wolfgang Amadeus Mozart\|Mozart]] and [[School/S5/Music/Classical Period#Ludwig van Beethoven\|Beethoven]] expanded the size and number of movements.
 
-Earlier works, particularly works by [[Introduction to Classical Music#Joseph Haydn\|Haydn]] and [[Introduction to Classical Music#Wolfgang Amadeus Mozart\|Mozart]] often had three movements:
+Earlier works, particularly works by [[School/S5/Music/Classical Period#Joseph Haydn\|Haydn]] and [[School/S5/Music/Classical Period#Wolfgang Amadeus Mozart\|Mozart]] often had three movements:
 
 | Movement | Tempo        | Form                      |
 | -------- | ------------ | ------------------------- |
@@ -36,7 +36,7 @@ Earlier works, particularly works by [[Introduction to Classical Music#Joseph Ha
 | Second   | Slow / Dance | Varied (often ternary)    |
 | Finale   | Fast         | Rondo or Theme/Variations |
 
-In later works, particularly by [[Introduction to Classical Music#Ludwig van Beethoven\|Beethoven]], an extra movement was often added:
+In later works, particularly by [[School/S5/Music/Classical Period#Ludwig van Beethoven\|Beethoven]], an extra movement was often added:
 
 | Movement | Tempo                 | Form                     |
 | -------- | --------------------- | ------------------------ |
