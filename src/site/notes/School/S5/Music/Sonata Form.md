@@ -29,7 +29,7 @@ The exposition has two main themes, which we call the **first and second subject
 The **first subject** is a statement of the melody in the tonic key. The **second subject** is a contrasting idea in a related key; normally the dominant or relative key. This results in a **modulation** between the subjects handled by the **transition**, usually `I -> V` in major and `i -> III` in minor.
 
 #### Development
-The development takes the ideas heard in the exposition and **develops** them. It can be understood as an exploration of the tension created by the contrasts between the first and second subject.
+The development takes the ideas heard in the exposition and **develops** them. It can be understood as an exploration of the tension created by the contrasts between the first and second subjects.
 
 ##### Examples of Development
 - **Motifs and short phrases** from the [[School/S5/Music/Sonata Form#Exposition\|exposition]] may be examined or extended.
