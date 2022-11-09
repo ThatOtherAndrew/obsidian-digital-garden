@@ -7,7 +7,7 @@
 The Big Bang theory suggests that the universe started at one point 13.8 billion years ago.
 
 There are a number of pieces of evidence for this:
-- [[School/S5/Physics/1. Our Dynamic Universe/The Doppler Effect#Redshift\|Redshift]] (Hubble's Law)
+- [[School/S5/Physics/1. Our Dynamic Universe/Doppler Effect#Redshift\|Redshift]] (Hubble's Law)
 - Cosmic Microwave Background Radiation (CMBR)
 - Abundance of Hydrogen and Helium
 - The darkness of the night sky (Olbers' Paradox)
