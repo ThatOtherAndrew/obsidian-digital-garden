@@ -13,6 +13,7 @@
 - **[[School/S5/Physics/2. Particles and Waves/Standard Model#Hadrons\|Hadrons]]**
 	- [[School/S5/Physics/2. Particles and Waves/Standard Model#Baryons\|Baryons]]
 	- [[School/S5/Physics/2. Particles and Waves/Standard Model#Mesons\|Mesons]]
+- **[[School/S5/Physics/2. Particles and Waves/Standard Model#Antimatter\|Antimatter]]**
 
 ### Definition
 The Standard Model is a theory of the elementary particles, the most fundamental particles which cannot be broken down into other particles and are the building blocks of the universe. Elementary  particles fall under one of two categories: [[School/S5/Physics/2. Particles and Waves/Standard Model#Fermions\|fermions]] and [[School/S5/Physics/2. Particles and Waves/Standard Model#Bosons\|bosons]]. There are multiple different interpretations and depictions of the Standard Model with slight variations.
@@ -27,10 +28,10 @@ Fermions are a type of elementary particle which **make up matter.** Elementary 
 Fermions follow the Pauli exclusion principle, which means that no two fermions can share a quantum state (which includes position in space) if they have the same quantum numbers, such as spin. Put simply, unlike [[School/S5/Physics/2. Particles and Waves/Standard Model#Bosons\|bosons]], fermions can collide with each other.
 
 #### Quarks
-Quarks are ~~dairy products~~ [[School/S5/Physics/2. Particles and Waves/Standard Model#Fermions\|fermions]] which experience the strong nuclear force - the force which holds [[School/S5/Physics/2. Particles and Waves/Standard Model#Hadrons\|hadrons]] together. There are six quarks: the **up**, **charm** and **top** quarks with a charge of $\frac{2}{3}$, and the **down**, **strange** and **bottom** quarks with a charge of $-\frac{1}{3}$. Up and down quarks are the most stable and make up protons and neutrons, and top and bottom quarks are the most massive and also the most unstable - usually decaying into other elementary particles in a split second. Each quark has an antiparticle counterpart with the opposite charge, i.e. $-\frac{2}{3}$ for the antiup, anticharm and antitop particles and $\frac{1}{3}$ for the antidown, antistrange and antibottom particles.
+Quarks are ~~dairy products~~ [[School/S5/Physics/2. Particles and Waves/Standard Model#Fermions\|fermions]] which experience the strong nuclear force - the force which holds [[School/S5/Physics/2. Particles and Waves/Standard Model#Hadrons\|hadrons]] together. There are six quarks: the **up**, **charm** and **top** quarks with a charge of $\frac{2}{3}$, and the **down**, **strange** and **bottom** quarks with a charge of $-\frac{1}{3}$. Up and down quarks are the most stable and make up protons and neutrons, and top and bottom quarks are the most massive and also the most unstable - usually decaying into other elementary particles in a split second. Each quark has an [[School/S5/Physics/2. Particles and Waves/Standard Model#Antimatter\|antiparticle]] counterpart with the opposite charge, i.e. $-\frac{2}{3}$ for the antiup, anticharm and antitop particles and $\frac{1}{3}$ for the antidown, antistrange and antibottom particles.
 
 #### Leptons
-Leptons are [[School/S5/Physics/2. Particles and Waves/Standard Model#Fermions\|fermions]] which, conversely to quarks, do *not* experience the strong nuclear force. There are six leptons: the **electron**, **muon** and **tau** particles, each with a charge of $-1$, and their associated **neutrinos** (with no charge). Each charged lepton also has an antiparticle counterpart with a charge of $1$: the **positron**, **antimuon** and **antitau** respectively.
+Leptons are [[School/S5/Physics/2. Particles and Waves/Standard Model#Fermions\|fermions]] which, conversely to quarks, do *not* experience the strong nuclear force. There are six leptons: the **electron**, **muon** and **tau** particles, each with a charge of $-1$, and their associated **neutrinos** (with no charge). Each charged lepton also has an [[School/S5/Physics/2. Particles and Waves/Standard Model#Antimatter\|antiparticle]]  counterpart with a charge of $1$: the **positron**, **antimuon** and **antitau** respectively.
 
 ### Bosons
 Bosons are **force-mediating particles**, and have integer spins. All elementary bosons are [[School/S5/Physics/2. Particles and Waves/Standard Model#Gauge Bosons\|gauge bosons]], with the exception of the [[School/S5/Physics/2. Particles and Waves/Standard Model#Higgs Boson\|Higgs boson]], a scalar boson which is so special that it is the only boson in its category. Other bosons, such as [[School/S5/Physics/2. Particles and Waves/Standard Model#Mesons\|mesons]], are composite particles.
@@ -79,3 +80,10 @@ Protons and neutrons are two common examples of baryons. Protons are formed from
 Mesons are [[School/S5/Physics/2. Particles and Waves/Standard Model#Hadrons\|hadrons]] which are **made up of an even number of [[School/S5/Physics/2. Particles and Waves/Standard Model#Quarks\|quarks]]**, usually a pairing of a quark and an antiquark. Unlike [[School/S5/Physics/2. Particles and Waves/Standard Model#Baryons\|baryons]], all mesons are very unstable, with the longest-lived mesons lasting for only a few hundredths of a microsecond. Larger mesons decay to other less massive mesons, which ultimately decay into stable electrons, neutrinos and photons.
 
 Mesons are also considered composite [[School/S5/Physics/2. Particles and Waves/Standard Model#Bosons\|bosons]] as they have an integer spin, and can act as force carriers under certain circumstances (e.g. pions can act as force carriers between <abbr title="Protons and neutrons">nucleons</abbr>).
+
+### Antimatter
+Antimatter has **the same properties of regular matter, but the opposite charge**.
+
+When matter comes into contact with antimatter, they **annihilate** - turning into a lot of pure energy in the form of photons. This process can also happen in reverse.
+
+The amount of mass and energy converted can be calculated using Albert Einstein's famous formula, $E=mc^2$.
