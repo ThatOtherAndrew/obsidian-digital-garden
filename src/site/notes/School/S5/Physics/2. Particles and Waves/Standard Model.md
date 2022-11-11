@@ -3,17 +3,17 @@
 ---
 
 
-### Index
-- **[[School/S5/Physics/2. Particles and Waves/Standard Model#Fermions\|Fermions]]**
-	- [[School/S5/Physics/2. Particles and Waves/Standard Model#Quarks\|Quarks]]
-	- [[School/S5/Physics/2. Particles and Waves/Standard Model#Leptons\|Leptons]]
-- **[[School/S5/Physics/2. Particles and Waves/Standard Model#Bosons\|Bosons]]**
-	- [[School/S5/Physics/2. Particles and Waves/Standard Model#Gauge Bosons\|Gauuge Bosons]]
-	- [[School/S5/Physics/2. Particles and Waves/Standard Model#Higgs Boson\|Higgs Boson]]
-- **[[School/S5/Physics/2. Particles and Waves/Standard Model#Hadrons\|Hadrons]]**
-	- [[School/S5/Physics/2. Particles and Waves/Standard Model#Baryons\|Baryons]]
-	- [[School/S5/Physics/2. Particles and Waves/Standard Model#Mesons\|Mesons]]
-- **[[School/S5/Physics/2. Particles and Waves/Standard Model#Antimatter\|Antimatter]]**
+> [!example]+ Index
+> - **[[School/S5/Physics/2. Particles and Waves/Standard Model#Fermions\|Fermions]]**
+> 	- [[School/S5/Physics/2. Particles and Waves/Standard Model#Quarks\|Quarks]]
+> 	- [[School/S5/Physics/2. Particles and Waves/Standard Model#Leptons\|Leptons]]
+> - **[[School/S5/Physics/2. Particles and Waves/Standard Model#Bosons\|Bosons]]**
+> 	- [[School/S5/Physics/2. Particles and Waves/Standard Model#Gauge Bosons\|Gauuge Bosons]]
+> 	- [[School/S5/Physics/2. Particles and Waves/Standard Model#Higgs Boson\|Higgs Boson]]
+> - **[[School/S5/Physics/2. Particles and Waves/Standard Model#Hadrons\|Hadrons]]**
+> 	- [[School/S5/Physics/2. Particles and Waves/Standard Model#Baryons\|Baryons]]
+> 	- [[School/S5/Physics/2. Particles and Waves/Standard Model#Mesons\|Mesons]]
+> - **[[School/S5/Physics/2. Particles and Waves/Standard Model#Antimatter\|Antimatter]]**
 
 ### Definition
 The Standard Model is a theory of the elementary particles, the most fundamental particles which cannot be broken down into other particles and are the building blocks of the universe. Elementary  particles fall under one of two categories: [[School/S5/Physics/2. Particles and Waves/Standard Model#Fermions\|fermions]] and [[School/S5/Physics/2. Particles and Waves/Standard Model#Bosons\|bosons]]. There are multiple different interpretations and depictions of the Standard Model with slight variations.
@@ -64,10 +64,7 @@ The Higgs boson is the only fundamental scalar boson, and it acts between matter
 ### Hadrons
 Hadrons are **composite subatomic particles made of two or more [[School/S5/Physics/2. Particles and Waves/Standard Model#Quarks\|quarks]]**, held together by the strong nuclear force. They can be subdivided into two categories, [[School/S5/Physics/2. Particles and Waves/Standard Model#Baryons\|baryons]] and [[School/S5/Physics/2. Particles and Waves/Standard Model#Mesons\|mesons]].
 
-The sum of charges of the quarks in a hadron determines the overall charge of the hadron.
-
-> [!question]- Charge Confusion
-> - Can hadrons have a non-whole charge (e.g. a charge of $\frac{4}{3}$)?
+The sum of charges of the quarks in a hadron determines the overall charge of the hadron. Hadrons must have an integer charge.
 
 #### Baryons
 Baryons are [[School/S5/Physics/2. Particles and Waves/Standard Model#Hadrons\|hadrons]] which are **made up of an odd number of [[School/S5/Physics/2. Particles and Waves/Standard Model#Quarks\|quarks]]**, usually three. Baryons are considered composite [[School/S5/Physics/2. Particles and Waves/Standard Model#Fermions\|fermions]] as they have odd half-integer spins.
