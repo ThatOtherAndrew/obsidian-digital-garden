@@ -25,8 +25,6 @@ The Standard Model is a theory of the elementary particles, the most fundamental
 ### Fermions
 Fermions are a type of elementary particle which **make up matter.** Elementary fermions can be subdivided into two categories, [[School/S5/Physics/2. Particles and Waves/Standard Model#Quarks\|quarks]] and [[School/S5/Physics/2. Particles and Waves/Standard Model#Leptons\|leptons]]. Fermions have **odd half-integer spins**, e.g. $\frac{1}{2}$, $\frac{3}{2}$, $\frac{5}{2}$ - with most common fermions having a spin of $\frac{1}{2}$.
 
-Fermions follow the Pauli exclusion principle, which means that no two fermions can share a quantum state (which includes position in space) if they have the same quantum numbers, such as spin. Put simply, unlike [[School/S5/Physics/2. Particles and Waves/Standard Model#Bosons\|bosons]], fermions can collide with each other.
-
 #### Quarks
 Quarks are ~~dairy products~~ [[School/S5/Physics/2. Particles and Waves/Standard Model#Fermions\|fermions]] which experience the strong nuclear force - the force which holds [[School/S5/Physics/2. Particles and Waves/Standard Model#Hadrons\|hadrons]] together. There are six quarks: the **up**, **charm** and **top** quarks with a charge of $\frac{2}{3}$, and the **down**, **strange** and **bottom** quarks with a charge of $-\frac{1}{3}$. Up and down quarks are the most stable and make up protons and neutrons, and top and bottom quarks are the most massive and also the most unstable - usually decaying into other elementary particles in a split second. Each quark has an [[School/S5/Physics/2. Particles and Waves/Standard Model#Antimatter\|antiparticle]] counterpart with the opposite charge, i.e. $-\frac{2}{3}$ for the antiup, anticharm and antitop particles and $\frac{1}{3}$ for the antidown, antistrange and antibottom particles.
 
@@ -35,8 +33,6 @@ Leptons are [[School/S5/Physics/2. Particles and Waves/Standard Model#Fermions\|
 
 ### Bosons
 Bosons are **force-mediating particles**, and have integer spins. All elementary bosons are [[School/S5/Physics/2. Particles and Waves/Standard Model#Gauge Bosons\|gauge bosons]], with the exception of the [[School/S5/Physics/2. Particles and Waves/Standard Model#Higgs Boson\|Higgs boson]], a scalar boson which is so special that it is the only boson in its category. Other bosons, such as [[School/S5/Physics/2. Particles and Waves/Standard Model#Mesons\|mesons]], are composite particles.
-
-Bosons are not bound by the Pauli exclusion principle, which means that ~~they have no hitbox~~ multiple identical fermion particles can exist in the same place at the same time.
 
 > [!question]- Boson Bamboozlement
 > - Do bosons interact with other bosons?
