@@ -7,8 +7,9 @@
 > - **[[School/S5/Physics/2. Particles and Waves/Standard Model#Fermions\|Fermions]]**
 > 	- [[School/S5/Physics/2. Particles and Waves/Standard Model#Quarks\|Quarks]]
 > 	- [[School/S5/Physics/2. Particles and Waves/Standard Model#Leptons\|Leptons]]
+> 		- [[School/S5/Physics/2. Particles and Waves/Standard Model#Neutrinos\|Neutrinos]]
 > - **[[School/S5/Physics/2. Particles and Waves/Standard Model#Bosons\|Bosons]]**
-> 	- [[School/S5/Physics/2. Particles and Waves/Standard Model#Gauge Bosons\|Gauuge Bosons]]
+> 	- [[School/S5/Physics/2. Particles and Waves/Standard Model#Gauge Bosons\|Gauge Bosons]]
 > 	- [[School/S5/Physics/2. Particles and Waves/Standard Model#Higgs Boson\|Higgs Boson]]
 > - **[[School/S5/Physics/2. Particles and Waves/Standard Model#Hadrons\|Hadrons]]**
 > 	- [[School/S5/Physics/2. Particles and Waves/Standard Model#Baryons\|Baryons]]
@@ -16,7 +17,7 @@
 > - **[[School/S5/Physics/2. Particles and Waves/Standard Model#Antimatter\|Antimatter]]**
 
 ### Definition
-The Standard Model is a theory of the elementary particles, the most fundamental particles which cannot be broken down into other particles and are the building blocks of the universe. Elementary  particles fall under one of two categories: [[School/S5/Physics/2. Particles and Waves/Standard Model#Fermions\|fermions]] and [[School/S5/Physics/2. Particles and Waves/Standard Model#Bosons\|bosons]]. There are multiple different interpretations and depictions of the Standard Model with slight variations.
+The Standard Model is a theory of the elementary particles, the most fundamental particles which cannot be broken down into other particles and are the building blocks of the universe. Elementary particles fall under one of two categories: [[School/S5/Physics/2. Particles and Waves/Standard Model#Fermions\|fermions]] and [[School/S5/Physics/2. Particles and Waves/Standard Model#Bosons\|bosons]]. There are multiple different interpretations and depictions of the Standard Model with slight variations.
 
 ![](https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/10/SM_graphic-FINAL_T02.svg)
 
@@ -29,7 +30,18 @@ Fermions are a type of elementary particle which **make up matter.** Elementary 
 Quarks are ~~dairy products~~ [[School/S5/Physics/2. Particles and Waves/Standard Model#Fermions\|fermions]] which experience the strong nuclear force - the force which holds [[School/S5/Physics/2. Particles and Waves/Standard Model#Hadrons\|hadrons]] together. There are six quarks: the **up**, **charm** and **top** quarks with a charge of $\frac{2}{3}$, and the **down**, **strange** and **bottom** quarks with a charge of $-\frac{1}{3}$. Up and down quarks are the most stable and make up protons and neutrons, and top and bottom quarks are the most massive and also the most unstable - usually decaying into other elementary particles in a split second. Each quark has an [[School/S5/Physics/2. Particles and Waves/Standard Model#Antimatter\|antiparticle]] counterpart with the opposite charge, i.e. $-\frac{2}{3}$ for the antiup, anticharm and antitop particles and $\frac{1}{3}$ for the antidown, antistrange and antibottom particles.
 
 #### Leptons
-Leptons are [[School/S5/Physics/2. Particles and Waves/Standard Model#Fermions\|fermions]] which, conversely to quarks, do *not* experience the strong nuclear force. There are six leptons: the **electron**, **muon** and **tau** particles, each with a charge of $-1$, and their associated **neutrinos** (with no charge). Each charged lepton also has an [[School/S5/Physics/2. Particles and Waves/Standard Model#Antimatter\|antiparticle]]  counterpart with a charge of $1$: the **positron**, **antimuon** and **antitau** respectively.
+Leptons are [[School/S5/Physics/2. Particles and Waves/Standard Model#Fermions\|fermions]] which, conversely to quarks, do *not* experience the strong nuclear force. There are six leptons: the **electron**, **muon** and **tau** particles, each with a charge of $-1$, and their associated [[School/S5/Physics/2. Particles and Waves/Standard Model#Neutrinos\|neutrinos]]. Each charged lepton also has an [[School/S5/Physics/2. Particles and Waves/Standard Model#Antimatter\|antiparticle]] counterpart with a charge of $1$: the **positron**, **antimuon** and **antitau** respectively. The neutrinos also have antineutrino counterparts, which while not having a charge, have a different type of charge negated - called the lepton number.
+
+> [!question] Lepton 
+
+##### Neutrinos
+Neutrinos are [[School/S5/Physics/2. Particles and Waves/Standard Model#Leptons\|leptons]] without a charge, which were first theorised to explain a loss of energy in beta decay.
+
+Below is an example of **neutron decay**, where a neutron turns into a proton, an electron and an electron antineutrino:
+
+$$\huge ^1_0\textup{n} \rightarrow {}^1_0\textup{p} + {}^{\ 0}_\textup{-1}\textup{e} + \overline{\textup{v}}_e$$
+
+Initially, physicists observed that neutrons decayed into protons and electrons, which conserves mass and charge. However, the total energy held by the proton and electron was observed to be less than the energy of the neutron. According to the law of [[School/S4/Physics/Dynamics and Space/Energy, Work and Power#Conservation of energy\|conservation of energy]] this isn't possible, and that energy has to go *somewhere* - leading to the existence of neutrinos first being theorised.
 
 ### Bosons
 Bosons are **force-mediating particles**, and have integer spins. All elementary bosons are [[School/S5/Physics/2. Particles and Waves/Standard Model#Gauge Bosons\|gauge bosons]], with the exception of the [[School/S5/Physics/2. Particles and Waves/Standard Model#Higgs Boson\|Higgs boson]], a scalar boson which is so special that it is the only boson in its category. Other bosons, such as [[School/S5/Physics/2. Particles and Waves/Standard Model#Mesons\|mesons]], are composite particles.
