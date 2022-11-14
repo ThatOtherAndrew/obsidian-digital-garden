@@ -19,5 +19,5 @@
 ## Music
 > 🎼 [[School/S5/Music/Sonata Form\|Sonata Form]]  
 > 🎵 [[School/S5/Music/Chamber Music\|Chamber Music]]  
-> ⛪ [[School/S5/Music/Analysis/Dixit Dominus\|Dixit Dominus Essay]]  
-> 🔍 [[School/S5/Music/Analysis/Sonata in G Major\|Sonata in G Major Analysis]]
+> ⛪ [[School/S5/Music/Essays/Dixit Dominus\|Dixit Dominus Essay]]  
+> 🔍 [[School/S5/Music/Essays/Sonata in G Major\|Sonata in G Major Analysis]]
