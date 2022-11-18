@@ -27,3 +27,8 @@
 #### Essays
 > ⛪ [[School/S5/Music/Essays/Dixit Dominus\|Dixit Dominus]]  
 > 🔍 [[School/S5/Music/Essays/Sonata in G Major\|Mozart's Piano Sonata in G Major]]
+
+## English
+
+#### Essays
+> 🗺 [[School/S5/English/Essays/The Great Gatsby Setting Essay\|The Great Gatsby - Setting]]
