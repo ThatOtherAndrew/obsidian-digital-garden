@@ -15,7 +15,7 @@
 > 🧲 [[School/S5/Physics/2. Particles and Waves/Magnetic Fields\|Magnetic Fields]]  
 > 💥 [[School/S5/Physics/2. Particles and Waves/Particle Accelerators\|Particle Accelerators]]  
 > 🔬 [[School/S5/Physics/2. Particles and Waves/Standard Model\|The Standard Model]]  
-> ☢️ [[Radiation\|Radiation]]
+> ☢️ [[School/S5/Physics/2. Particles and Waves/Nuclear Physics\|Nuclear Physics]]
 
 ## Music
 > 🎼 [[School/S5/Music/Sonata Form\|Sonata Form]]  
