@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/school/s5/music/operas-and-oratorios/"}
+{"dg-publish":true,"dg-permalink":"music/operas-and-oratorios","permalink":"/music/operas-and-oratorios/"}
 ---
 
 
