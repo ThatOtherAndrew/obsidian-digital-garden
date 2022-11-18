@@ -18,7 +18,12 @@
 > ☢️ [[School/S5/Physics/2. Particles and Waves/Nuclear Physics\|Nuclear Physics]]
 
 ## Music
+
+#### Class Notes
 > 🎼 [[School/S5/Music/Sonata Form\|Sonata Form]]  
-> 🎵 [[School/S5/Music/Chamber Music\|Chamber Music]]  
-> ⛪ [[School/S5/Music/Essays/Dixit Dominus\|Dixit Dominus Essay]]  
-> 🔍 [[School/S5/Music/Essays/Sonata in G Major\|Sonata in G Major Analysis]]
+> 🎵 [[School/S5/Music/Chamber Music\|Chamber Music]]
+> 🎭 [[School/S5/Music/Operas and Oratorios\|Operas and Oratorios]]
+
+#### Essays
+> ⛪ [[School/S5/Music/Essays/Dixit Dominus\|Dixit Dominus]]  
+> 🔍 [[School/S5/Music/Essays/Sonata in G Major\|Mozart's Piano Sonata in G Major]]
