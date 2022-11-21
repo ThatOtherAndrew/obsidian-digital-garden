@@ -26,7 +26,7 @@ These will turn on your interior lights - you'll find switches on the dashboard 
 #### <kbd>M</kbd> - IGNITION
 The combination for actually turning on the engine varies. For example, the StreetDeck, Citaro and the MAN lions city all have the 'press <kbd>E</kbd> 4 times' method of turning on the engine, with each press of <kbd>E</kbd> cycling a different stage of the ignition, and then <kbd>M</kbd> to go backwards, turning off the bus. However, most will use <kbd>E</kbd> to turn on the electricity and then <kbd>M</kbd> to start the engine.
 > [!hint] Engine not starting?
-> The bust must be in neutral with the handbrake on in order to start/stop the engine.
+> The bus must be in neutral with the handbrake on in order to start/stop the engine.
 
 #### <kbd>.</kbd> - HANDBRAKE
 Your handbrake (or park brake) is <kbd>.</kbd> (Yes, the full stop button next to <kbd>,</kbd> and <kbd>/</kbd>). Release this once the ignition is on - if you turn it off earlier you'll get a lot of beeping. Some buses may also require you to enable the handbrake in order to open the doors - this is to prevent the bus rolling away at bus stops. This is not universal though and older buses will generally require <kbd>-</kbd> or station brake in order to open the doors - this is for dual door buses as the rear doors are automatic. The front doors can be opened once the station brake is enabled. Please check the documentation for the bus you want to drive however as these are not catch-all rules.
