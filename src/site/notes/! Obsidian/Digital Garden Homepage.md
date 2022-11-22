@@ -15,13 +15,14 @@
 > 🧲 [[School/S5/Physics/2. Particles and Waves/Magnetic Fields\|Magnetic Fields]]  
 > 💥 [[School/S5/Physics/2. Particles and Waves/Particle Accelerators\|Particle Accelerators]]  
 > 🔬 [[School/S5/Physics/2. Particles and Waves/Standard Model\|The Standard Model]]  
-> ☢️ [[School/S5/Physics/2. Particles and Waves/Nuclear Reactions\|Nuclear Reactions]]
+> ☢️ [[School/S5/Physics/2. Particles and Waves/Nuclear Reactions\|Nuclear Reactions]]  
+> 🌊 [[School/S5/Physics/2. Particles and Waves/Interference\|Interference]]
 
 ## Music
 
 #### Class Notes
 > 🎼 [[School/S5/Music/Sonata Form\|Sonata Form]]  
-> 🎵 [[School/S5/Music/Chamber Music\|Chamber Music]]
+> 🎵 [[School/S5/Music/Chamber Music\|Chamber Music]]  
 > 🎭 [[School/S5/Music/Operas and Oratorios\|Operas and Oratorios]]
 
 #### Essays
