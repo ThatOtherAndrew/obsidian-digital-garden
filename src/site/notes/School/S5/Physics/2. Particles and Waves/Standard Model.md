@@ -32,8 +32,6 @@ Quarks are ~~dairy products~~ [[School/S5/Physics/2. Particles and Waves/Standar
 #### Leptons
 Leptons are [[School/S5/Physics/2. Particles and Waves/Standard Model#Fermions\|fermions]] which, conversely to quarks, do *not* experience the strong nuclear force. There are six leptons: the **electron**, **muon** and **tau** particles, each with a charge of $-1$, and their associated [[School/S5/Physics/2. Particles and Waves/Standard Model#Neutrinos\|neutrinos]]. Each charged lepton also has an [[School/S5/Physics/2. Particles and Waves/Standard Model#Antimatter\|antiparticle]] counterpart with a charge of $1$: the **positron**, **antimuon** and **antitau** respectively. The neutrinos also have antineutrino counterparts, which while not having a charge, have a different type of charge negated - called the lepton number.
 
-> [!question] Lepton 
-
 ##### Neutrinos
 Neutrinos are [[School/S5/Physics/2. Particles and Waves/Standard Model#Leptons\|leptons]] without a charge, which were first theorised to explain a loss of energy in beta decay.
 
