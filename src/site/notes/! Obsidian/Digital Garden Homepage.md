@@ -23,7 +23,9 @@
 #### Class Notes
 > 🎼 [[School/S5/Music/Sonata Form\|Sonata Form]]  
 > 🎵 [[School/S5/Music/Chamber Music\|Chamber Music]]  
-> 🎭 [[School/S5/Music/Operas and Oratorios\|Operas and Oratorios]]
+> 🎭 [[School/S5/Music/Operas and Oratorios\|Operas and Oratorios]]  
+> 🎶 [[School/S5/Music/Symphony\|Symphonies]]  
+> 🎹 [[School/S5/Music/Classical Concerto\|Classical Concertos]]
 
 #### Essays
 > ⛪ [[School/S5/Music/Essays/Dixit Dominus\|Dixit Dominus]]  
