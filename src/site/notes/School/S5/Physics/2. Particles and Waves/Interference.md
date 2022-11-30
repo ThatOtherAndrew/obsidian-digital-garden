@@ -70,9 +70,9 @@ $$\huge \textup{Path difference} = m\lambda$$
 ---
 
 > [!info] Variable Key
-> 
-> - $m$ is the order number of the maximum
-> - $\lambda$ is the wavelength of the wave
+> - $\textup{Path difference}$ is in any consistent unit of length.
+> - $m$ is the order number of the maximum.
+> - $\lambda$ is the wavelength of the wave, in any consistent unit of length.
 
 ### Diffraction Gratings
 A diffraction grating is a **panel which consists of many slits spaced close together**. They can be used to produce interference patterns, similar to a [[School/S5/Physics/2. Particles and Waves/Interference#Double-Slit Experiment\|double slit]].
@@ -89,7 +89,7 @@ $$\huge d\sin\theta = m\lambda$$
 
 > [!info] Variable Key
 > 
-> - $d$ is slit separation (distance between slits)
-> - $\theta$ is the angle from the central maximum
-> - $m$ is the order number of the maximum
-> - $\lambda$ is the wavelength of the wave
+> - $d$ is slit separation (distance between slits), in any consistent unit of length.
+> - $\theta$ is the angle from the central maximum.
+> - $m$ is the order number of the maximum.
+> - $\lambda$ is the wavelength of the wave, in any consistent unit of length.
