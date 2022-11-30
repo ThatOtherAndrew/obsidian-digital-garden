@@ -50,10 +50,10 @@ $$\huge{t' = \frac{t}{\sqrt{1-\frac{v^2}{c^2}}}}$$
 
 > [!info] Variable Key
 > 
-> - $t'$ is dilated time in seconds
-> - $t$ is normal time in seconds
-> - $v$ is the velocity of the moving object in $ms^{-1}$
-> - $c$ is the speed of light in $ms^{-1}$ as a constant
+> - $t'$ is dilated time, in seconds.
+> - $t$ is normal time, in seconds.
+> - $v$ is the velocity of the moving object, in metres per second.
+> - $c$ is the speed of light constant, in metres per second.
 
 > [!example]- Example Question
 > 
@@ -85,10 +85,10 @@ $$\huge{l' = l{\sqrt{1-\frac{v^2}{c^2}}}}$$
 ---
 > [!info] Variable Key
 > 
-> - $l'$ is contracted length in metres
-> - $l$ is normal length in metres
-> - $v$ is the velocity of the moving object in $ms^{-1}$
-> - $c$ is the speed of light in $ms^{-1}$ as a constant
+> - $l'$ is contracted length, in metres.
+> - $l$ is normal length, in metres.
+> - $v$ is the velocity of the moving object, in metres per second.
+> - $c$ is the speed of light constant, in metres per second.
 
 ### Proof of Special Relativity
 Muons are high-energy lepton particles similar to an electron. They are formed in the Earth's upper atmosphere, at an altitude of about $10\ \textup{km}$ when cosmic rays collide with the nuclei of molecules in the air. They are very unstable and decay within a fraction of a second - with a half-life of $2.2\times10^6\ \textup{s}$.
