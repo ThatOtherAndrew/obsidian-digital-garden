@@ -16,7 +16,8 @@
 > 💥 [[School/S5/Physics/2. Particles and Waves/Particle Accelerators\|Particle Accelerators]]  
 > 🔬 [[School/S5/Physics/2. Particles and Waves/Standard Model\|The Standard Model]]  
 > ☢️ [[School/S5/Physics/2. Particles and Waves/Nuclear Reactions\|Nuclear Reactions]]  
-> 🌊 [[School/S5/Physics/2. Particles and Waves/Interference\|Interference]]
+> 🌊 [[School/S5/Physics/2. Particles and Waves/Interference\|Interference]]  
+> 💡 [[School/S5/Physics/2. Particles and Waves/Photoelectric Effect\|The Photoelectric Effect]]
 
 ## Music
 
