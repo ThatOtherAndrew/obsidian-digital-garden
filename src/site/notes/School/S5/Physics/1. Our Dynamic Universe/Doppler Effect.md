@@ -19,10 +19,10 @@ $$\huge{f_o = f_s(\frac{v}{v \pm v_s})}$$
 
 > [!info] Variable Key
 > 
-> - $f_o$ is frequency observed in hertz
-> - $f_s$ is source frequency in hertz
-> - $v$ is speed of the wave in metres per second
-> - $v_s$ is speed of the source in metres per second
+> - $f_o$ is frequency observed, in hertz.
+> - $f_s$ is source frequency, in hertz.
+> - $v$ is speed of the wave, in metres per second.
+> - $v_s$ is speed of the source, in metres per second.
 
 > [!important] Plus or Minus?
 > - If the source is moving **towards you**, $v_s$ is **subtracted**.
@@ -46,7 +46,7 @@ $$\huge{z=\frac{v}{c}\ \ \ \ \ \ z=\frac{\lambda_{observed}\ -\ \lambda_{rest}}{
 > [!info] Variable Key
 > 
 > - $z$ is the redshift, with no units!
-> - $v$ is the recessional velocity in $ms^{-1}$
-> - $c$ is the speed of light in $ms^{-1}$ as a constant
-> - $\lambda_{observed}$ is the observed wavelength of a wave
-> - $\lambda_{rest}$ is the wavelength of an equivalent wave at rest
+> - $v$ is the recessional velocity, in metres per second.
+> - $c$ is the speed of light constant, in metres per second.
+> - $\lambda_{observed}$ is the observed wavelength of a wave, in any consistent unit of length.
+> - $\lambda_{rest}$ is the wavelength of an equivalent wave at rest, in any consistent unit of length.
