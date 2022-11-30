@@ -16,6 +16,8 @@ Using the theory of light being a wave, we can expect that:
 
 As a result, you'd expect that shining light of any wavelength would cause the gold leaf to fall, and a brighter light source would cause it to fall faster. However, this is **not what happens** - the gold leaf does not fall under even the brightest visible light sources. Electrons were only released from the electronscope when high-frequency light was used, e.g. ultraviolet light.
 
+![|500](https://cdn.savemyexams.co.uk/cdn-cgi/image/w=1920,f=auto/uploads/2021/05/22.1-Photoelectric-Experiment-2.png)
+
 #### Explanation
 This phenomenon can be explained by the following:
 
