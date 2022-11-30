@@ -40,9 +40,9 @@ $$\huge W=QV$$
 
 > [!info] Variable Key
 > 
-> - $W$ is work done (energy) in joules, $\textup{J}$
-> - $Q$ is charge in coulombs, $\textup{C}$
-> - $V$ is potential difference or voltage in volts, $\textup{V}$
+> - $W$ is work done (energy), in joules.
+> - $Q$ is charge, in coulombs.
+> - $V$ is potential difference or voltage, in volts.
 
 ### The Electronvolt
 Energy is sometimes measured in electronvolts instead of joules, usually when talking about very small amounts of energy relevant to charged particles. One electronvolt is **one volt times the charge of an electron**, about $1.6 \times 10^{-19}\ \textup{C}$ (provided on the SQA exam data sheet).
