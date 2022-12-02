@@ -9,12 +9,7 @@ The gold leaf electroscope experiment **proves that light has particle-like prop
 ![|500](https://cdn.savemyexams.co.uk/cdn-cgi/image/w=1920,f=auto/uploads/2021/05/22.1-Photoelectric-Experiment-1.png)
 
 #### Wave Theory Contradiction
-Using the theory of light being a wave, we can expect that:
-
-1. Electrons will be released from the electroscope as energy builds up from any light hitting the plate.
-2. A brighter light source would mean electrons have more kinetic energy
-
-As a result, you'd expect that shining light of any wavelength would cause the gold leaf to fall, and a brighter light source would cause it to fall faster. However, this is **not what happens** - the gold leaf does not fall under even the brightest visible light sources. Electrons were only released from the electronscope when high-frequency light was used, e.g. ultraviolet light.
+Using the theory of light being a wave, we can expect that shining light of any wavelength onto the metal plate would cause the gold leaf to fall. However, this is **not what happens** - the gold leaf does not fall under even the brightest visible light sources. Electrons were only released from the electronscope when high-frequency light was used, e.g. ultraviolet light.
 
 ![|500](https://cdn.savemyexams.co.uk/cdn-cgi/image/w=1920,f=auto/uploads/2021/05/22.1-Photoelectric-Experiment-2.png)
 
@@ -23,9 +18,16 @@ This phenomenon can be explained by the following:
 
 1. The energy of an electromagnetic wave is directly proportional to its frequency.
 2. Electromagnetic waves travel in discrete "packets", called **photons**.
-3. Metals have a minimum energy threshold required to release electrons.
+3. Metals have a minimum energy threshold required per discrete photon to release electrons.
 
-### Photoelectric Equation
+This minimum energy threshold is known as the **work function**.
+
+> [!warning] Confusing names!
+> Despite its name, a work function is **not** a function - it is a property of metals, similar to atomic number or atomic mass for example.
+
+### Formulae
+
+#### Energy of a Photon Formula
 
 ---
 
@@ -38,3 +40,21 @@ $$\huge E=hf$$
 > - $E$ is the energy of a photon, in joules.
 > - $h$ is the **Planck constant**, approximately $6.63\times10^{-34}\ \textup{J\ s}$.
 > - $f$ frequency of the wave, in hertz.
+
+#### Photoelectric Effect Formula
+
+---
+
+$$\huge E_k = hf - hf_o$$
+
+---
+
+> [!info] Variable Key
+> 
+> - $E_k$ is the kinetic energy of the released photoelectron.
+> - $hf$ is the energy of a photon (from the [[School/S5/Physics/2. Particles and Waves/Photoelectric Effect#Energy of a Photon Formula\|above formula]]), in joules.
+> 	- $h$ is the Planck constant.
+> 	- $f$ is the frequency of the photon, in hertz.
+> - $hf_o$ is the <abbr title="The minimum energy required to remove an electron from a metal">work function</abbr>.
+> 	- $h$ is the Planck constant.
+> 	- $f_o$ is the <abbr title="The minimum frequency required to cause photoemission">threshold frequency</abbr>, in hertz.
