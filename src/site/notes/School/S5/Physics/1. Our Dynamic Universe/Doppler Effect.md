@@ -19,10 +19,10 @@ $$\huge{f_o = f_s(\frac{v}{v \pm v_s})}$$
 
 > [!info] Variable Key
 > 
-> - $f_o$ is frequency observed, in hertz.
-> - $f_s$ is source frequency, in hertz.
-> - $v$ is speed of the wave, in metres per second.
-> - $v_s$ is speed of the source, in metres per second.
+> - $f_o$ is the frequency observed, in hertz.
+> - $f_s$ is the source frequency, in hertz.
+> - $v$ is the speed of the wave, in metres per second.
+> - $v_s$ is the speed of the source, in metres per second.
 
 > [!important] Plus or Minus?
 > - If the source is moving **towards you**, $v_s$ is **subtracted**.
