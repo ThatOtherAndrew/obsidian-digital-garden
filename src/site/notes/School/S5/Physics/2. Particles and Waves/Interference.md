@@ -89,7 +89,7 @@ $$\huge d\sin\theta = m\lambda$$
 
 > [!info] Variable Key
 > 
-> - $d$ is slit separation (distance between slits), in any consistent unit of length.
+> - $d$ is the slit separation (distance between slits), in any consistent unit of length.
 > - $\theta$ is the angle from the central maximum.
 > - $m$ is the order number of the maximum.
 > - $\lambda$ is the wavelength of the wave, in any consistent unit of length.
