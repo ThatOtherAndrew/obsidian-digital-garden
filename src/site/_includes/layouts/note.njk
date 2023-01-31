@@ -1,11 +1,10 @@
 ---
-title: "/{{ page.fileSlug }}/"
 permalink: "notes/{{ page.fileSlug | slugify }}/"
 ---
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>{{ page.fileSlug }}</title>
+    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
     {%include "components/pageheader.njk"%}
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section">
@@ -23,13 +22,30 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 
     <div class="content cm-s-obsidian">
       {% if settings.dgShowInlineTitle === true %}
-        <h1>{{ page.fileSlug }}</h1>
+        <h1>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
       {% endif %}
-      {{ content | link | highlight | safe}}
-
-      {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true%}
-        {%include "components/sidebar.njk"%}
-      {% endif %}
+      <div class="header-meta">
+        {% if settings.dgShowTags === true and tags %}
+          <div class="header-tags">
+            {% for tag in tags %}
+              {% if tag != 'gardenEntry' and tag !='note' %}
+                <a class="tag" onclick="toggleTagSearch(this)">
+                  #{{tag}}
+                </a>
+              {% endif %}
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
+      {{ content | link | taggify | highlight | safe}}
     </div>
+
+    {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
+      {%include "components/sidebar.njk"%}
+    {% endif %}
+
+    {% if settings.dgLinkPreview === true %}
+      {%include "components/linkPreview.njk"%}
+    {% endif %}
   </body>
 </html>
