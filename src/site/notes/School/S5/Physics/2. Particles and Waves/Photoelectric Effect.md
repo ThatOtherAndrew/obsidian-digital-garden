@@ -39,7 +39,7 @@ $$\huge E=hf$$
 > 
 > - $E$ is the energy of a photon, in joules.
 > - $h$ is the **Planck constant**, approximately $6.63\times10^{-34}\ \textup{J\ s}$.
-> - $f$ frequency of the wave, in hertz.
+> - $f$ is the frequency of the wave, in hertz.
 
 #### Photoelectric Effect Formula
 
