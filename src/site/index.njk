@@ -19,14 +19,32 @@
       {% if settings.dgShowInlineTitle === true %}
         <h1>{{ noteTitle  }}</h1>
       {% endif %}
-      {%- for garden in collections.gardenEntry -%}
-        {{garden.templateContent | link | highlight | safe }}
-      {%- endfor -%}
 
-
-      {%if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true%}
-        {%include "components/sidebar.njk" %}
-      {%endif%}
+      <div class="header-meta">
+        {% if settings.dgShowTags === true and tags %}
+          <div class="header-tags">
+            {% for tag in tags %}
+              {% if tag != 'gardenEntry' and tag !='note' %}
+                <a class="tag" onclick="toggleTagSearch(this)">
+                  #{{tag}}
+                </a>
+              {% endif %}
+            {% endfor %}
+          </div>
+        {% endif %}
       </div>
+
+      {%- for garden in collections.gardenEntry -%}
+        {{garden.templateContent | link | taggify | highlight | safe }}
+      {%- endfor -%}
+    </div>
+
+    {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
+      {%include "components/sidebar.njk" %}
+    {%endif%}
+
+    {% if settings.dgLinkPreview === true %}
+      {%include "components/linkPreview.njk"%}
+    {% endif %}
     </body>
   </html>
