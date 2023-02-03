@@ -26,7 +26,7 @@ The refractive index of air is $1.0003$, which for Higher purposes is considered
 
 #### Relative Refractive Index
 
-A refractive index of a [[School/S5/Physics/2. Particles and Waves/Refraction#Medium\|medium]] can also be calculated relative to a medium the wave enters from. This can be less than 1 and can be calculated for any kind of wave.
+A [[School/S5/Physics/2. Particles and Waves/Refraction#Refractive Index\|refractive index]] of a [[School/S5/Physics/2. Particles and Waves/Refraction#Medium\|medium]] can also be calculated relative to a medium the wave enters from. This can be less than 1 and can be calculated for any kind of wave.
 
 #### Formula
 
@@ -49,7 +49,7 @@ $$\huge{n = \frac{v_1}{v_2} = \frac{\sin \theta_1}{\sin \theta_2}} = \frac{\lamb
 The critical angle is the angle at which an incident wave creates an angle of refraction **perpendicular to the normal** (i.e. an angle of refraction of $90^\circ$). This is the threshold at which **total internal reflection** can occur, as an angle of refraction greater than $90^\circ$ would prevent the wave from escaping its source [[School/S5/Physics/2. Particles and Waves/Refraction#Medium\|medium]]. This can only occur when the wave is travelling from a slower medium towards a faster medium.
 
 #### Formula
-The critical angle of a medium can be calculated from the refractive index, and vice versa. Since $\sin{90^\circ} = 1$, by substituting $\sin\theta_1$ we can get:
+The critical angle of a medium can be calculated from the [[School/S5/Physics/2. Particles and Waves/Refraction#Relative Refractive Index\|relative refractive index]], and vice versa. Since $\sin{90^\circ} = 1$, by substituting $\sin\theta_1$ we can get:
 
 ---
 
@@ -58,5 +58,5 @@ $$\huge{n = \frac{1}{\sin\theta_c}}$$
 ---
 
 > [!info] Variable Key
-> - $n$ is the [[School/S5/Physics/2. Particles and Waves/Refraction#Refractive Index\|refractive index]] of the [[School/S5/Physics/2. Particles and Waves/Refraction#Medium\|medium]].
+> - $n$ is the [[School/S5/Physics/2. Particles and Waves/Refraction#Relative Refractive Index\|relative refractive index]] of the [[School/S5/Physics/2. Particles and Waves/Refraction#Medium\|medium]].
 > - $v_1$ is the [[School/S5/Physics/2. Particles and Waves/Refraction#Critical Angle\|critical angle]] of the [[School/S5/Physics/2. Particles and Waves/Refraction#Medium\|medium]].
