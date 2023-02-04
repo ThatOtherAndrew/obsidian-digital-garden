@@ -40,8 +40,8 @@ $$\huge{n = \frac{v_1}{v_2} = \frac{\sin \theta_1}{\sin \theta_2}} = \frac{\lamb
 > - $n$ is the [[School/S5/Physics/2. Particles and Waves/Refraction#Refractive Index\|refractive index]] of the [[School/S5/Physics/2. Particles and Waves/Refraction#Medium\|medium]].
 > - $v_1$ is the velocity of the wave in the source [[School/S5/Physics/2. Particles and Waves/Refraction#Medium\|medium]], or in a vacuum.
 > - $v_2$ is the velocity of the wave after entering the [[School/S5/Physics/2. Particles and Waves/Refraction#Medium\|medium]].
-> - $\theta_1$ is the angle of incidence of the wave.
-> - $\theta_2$ is the angle of [[School/S5/Physics/2. Particles and Waves/Refraction#Definition\|refraction]] of the wave.
+> - $\theta_1$ is the angle from the wave to the <abbr title="the line perpendicular to the surface of the medium">normal</abbr> in the **faster medium** (e.g. in a vacuum).
+> - $\theta_2$ is the angle from the wave to the <abbr title="the line perpendicular to the surface of the medium">normal</abbr> in the **slower medium**
 > - $\lambda_1$ is the wavelenth of the wave in the source [[School/S5/Physics/2. Particles and Waves/Refraction#Medium\|medium]], or in a vacuum.
 > - $\lambda_2$ is the wavelength of the wave after entering the [[School/S5/Physics/2. Particles and Waves/Refraction#Medium\|medium]].
 
