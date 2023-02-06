@@ -4,7 +4,7 @@
 
 
 ### Definition
-A particle accelerator is **a device which uses a combination of electric and magnetic fields to propel charged particles to very high speeds.** Electric fields increase the magnitude of the velocity and magnetic fields change the direction of the velocity. **Both types of fields accelerate particles in different ways.**
+A particle accelerator is **a device which uses a combination of electric and magnetic fields to propel charged particles to very high speeds**. Electric fields increase the magnitude of the velocity and magnetic fields change the direction of the velocity. **Both types of fields accelerate particles in different ways**.
 
 There are three main types of particle accelerators: [[School/S5/Physics/2. Particles and Waves/Particle Accelerators#Linear Accelerator\|linear accelerators]], [[School/S5/Physics/2. Particles and Waves/Particle Accelerators#Cyclotron\|cyclotrons]] and [[School/S5/Physics/2. Particles and Waves/Particle Accelerators#Synchrotron\|synchrotrons]] - each of which works in a slightly different way. 
 
