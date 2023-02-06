@@ -21,7 +21,7 @@ Oratorios were performed in churches due to their religious nature, however they
 An overture is the **introduction** to an opera or oratorio, situated right at the beginning.
 
 #### Aria
-An aria is a solo song for voice accompanied by orchestra. Arias normally have a **memorable melody**, but this can be highly decorative and melodically embellished. **The music is more important than the text.**
+An aria is a solo song for voice accompanied by orchestra. Arias normally have a **memorable melody**, but this can be highly decorative and melodically embellished. **The music is more important than the text**.
 
 Traditionally, arias were an opportunity for the singer to show off their vocal skill, so they often have **long melodic phrases** with stretched-out **melismatic** passages.
 
