@@ -47,7 +47,7 @@ An electric field diagram shows the influence of charged objects on an electric 
 ### Voltage
 When a charged particle is in an electric field, it will experience a force which gives it the potential to move. When a charged particle moves in an electric field, its potential changes as well. This is called **potential difference (p.d.)** or **voltage**.
 
-Voltage is the **work done per coulomb of charge.**
+Voltage is the **work done per coulomb of charge**.
 
 #### Formula
 
