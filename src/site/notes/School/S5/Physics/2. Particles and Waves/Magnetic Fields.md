@@ -9,7 +9,7 @@ A magnet is a <abbr title="An elemental metal or metal alloy containing iron, co
 Unmagnetised ferromagnetic metals have atoms in random orientations, so the overall magnetic field of the metal gets cancelled out. They can be magnetised using another magnetic field, aligning the polarities of the atoms so they point in the same direction.
 
 ### Magnetic Field Diagrams
-A magnetic field diagram, similar to an [[School/S5/Physics/2. Particles and Waves/Electric Fields#Electric Field Diagrams\|electric field diagram]], uses field lines to **show the direction a north pole would point if placed at each position**. Unlike an [[School/S5/Physics/2. Particles and Waves/Electric Fields#Electric Field Diagrams\|electric field diagram]], a magnet's north and south poles must be the same strength, therefore they **must have the same number of field lines.**
+A magnetic field diagram, similar to an [[School/S5/Physics/2. Particles and Waves/Electric Fields#Electric Field Diagrams\|electric field diagram]], uses field lines to **show the direction a north pole would point if placed at each position**. Unlike an [[School/S5/Physics/2. Particles and Waves/Electric Fields#Electric Field Diagrams\|electric field diagram]], a magnet's north and south poles must be the same strength, therefore they **must have the same number of field lines**.
 
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 397.73704502657057 202.8937001945451" width="600" height="202.8937001945451" filter="invert(93%) hue-rotate(180deg)">
   <!-- svg-source:excalidraw -->
