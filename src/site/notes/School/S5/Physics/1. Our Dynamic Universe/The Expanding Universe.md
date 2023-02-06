@@ -22,7 +22,7 @@ A perfect black body is an object which absorbs and emits all parts of the elect
 
 ![](https://miro.medium.com/max/1400/1*ZAqd64ouH3o8yJCjfw53jg.jpeg)
 
-To summarise, **the hotter the object, the shorter the peak wavelength, and the higher the intensity.**
+To summarise, **the hotter the object, the shorter the peak wavelength, and the higher the intensity**.
 
 ### Dark Energy
 According to Hubble's Law, $v$ is directly proportional to $d$. However, in practice, observerations show that the further away a galaxy is, the more it is accelerating away from us. There must be something causing this acceleration, which we call **dark energy**.
