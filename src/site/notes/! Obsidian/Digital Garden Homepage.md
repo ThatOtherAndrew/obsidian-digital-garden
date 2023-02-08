@@ -36,4 +36,5 @@
 ## English
 
 #### Essays
-> 🗺 [[School/S5/English/Essays/The Great Gatsby Setting Essay\|The Great Gatsby - Setting]]
+> 🗺 [[School/S5/English/Essays/The Great Gatsby Setting Essay\|The Great Gatsby - Setting]]  
+> 🪧 [[School/S5/English/Essays/Translations - Act 2 Scene 2 Analysis\|Translations - Act 2 Scene 2 Analysis]]
