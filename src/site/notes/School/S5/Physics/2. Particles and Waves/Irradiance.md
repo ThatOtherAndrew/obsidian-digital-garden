@@ -30,7 +30,7 @@ Since $\Large{I = \frac{k}{d^2}}$, we know that $\Large{Id^2 = k}$ where $\Large
 
 ---
 
-$$\huge{{I_1}\ {d_1}^2\ =\ {I_2}\ {d_2}^2}$$
+$$\huge{I_1\ {d_1}^2\ =\ I_2\ {d_2}^2}$$
 
 ---
 
