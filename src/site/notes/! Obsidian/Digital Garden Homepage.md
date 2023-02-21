@@ -6,6 +6,9 @@
 ## Physics
 
 #### Our Dynamic Universe
+> [!warning]- Incomplete Section!
+> This section does not cover some topics in the course which I do not have notes on, or have not deemed to be of sufficient quality to be published online. Please do not base your revision solely on these notes.
+
 > ⏱️ [[School/S5/Physics/1. Our Dynamic Universe/Classical and Special Relativity\|Classical and Special Relativity]]  
 > 🔊 [[School/S5/Physics/1. Our Dynamic Universe/Doppler Effect\|The Doppler Effect]]  
 > 🌌 [[School/S5/Physics/1. Our Dynamic Universe/The Expanding Universe\|The Expanding Universe]]
@@ -19,6 +22,9 @@
 > 🌊 [[School/S5/Physics/2. Particles and Waves/Interference\|Interference]]  
 > 💡 [[School/S5/Physics/2. Particles and Waves/Photoelectric Effect\|The Photoelectric Effect]]  
 > 🌈 [[School/S5/Physics/2. Particles and Waves/Refraction\|Refraction]]
+
+#### Electricity
+> 🤘 [[School/S5/Physics/3. Electricity/AC and DC\|AC and DC]]
 
 ## Music
 
