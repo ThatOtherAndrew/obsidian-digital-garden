@@ -34,7 +34,7 @@ The <abbr title="Root Mean Squared">RMS</abbr> voltage of a <abbr title="shaped 
 
 ---
 
-$$\huge{V_{peak} = \sqrt{2}V_{rms}}$$
+$$\huge{V_{peak}\ =\ \sqrt{2}\ V_{rms}}$$
 
 ---
 
