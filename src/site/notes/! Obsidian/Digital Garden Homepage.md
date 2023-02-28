@@ -24,7 +24,9 @@
 > 🌈 [[School/S5/Physics/2. Particles and Waves/Refraction\|Refraction]]
 
 #### Electricity
-> 🤘 [[School/S5/Physics/3. Electricity/AC and DC\|AC and DC]]
+> 🤘 [[School/S5/Physics/3. Electricity/AC and DC\|AC and DC]]  
+> 🔁 [[School/S5/Physics/3. Electricity/Electrical Circuits\|Electrical Circuits]]  
+> ⚡ [[School/S5/Physics/3. Electricity/Internal Resistance\|Internal Resistance]]
 
 ## Music
 
