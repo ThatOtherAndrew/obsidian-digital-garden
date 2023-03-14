@@ -14,7 +14,7 @@
 > 🌌 [[School/S5/Physics/1. Our Dynamic Universe/The Expanding Universe\|The Expanding Universe]]
 
 #### Particles and Waves
-> 🔋 [[School/S5/Physics/2. Particles and Waves/Electric Fields\|Electric Fields]]  
+> ⚡ [[School/S5/Physics/2. Particles and Waves/Electric Fields\|Electric Fields]]  
 > 🧲 [[School/S5/Physics/2. Particles and Waves/Magnetic Fields\|Magnetic Fields]]  
 > 💥 [[School/S5/Physics/2. Particles and Waves/Particle Accelerators\|Particle Accelerators]]  
 > 🔬 [[School/S5/Physics/2. Particles and Waves/Standard Model\|The Standard Model]]  
@@ -26,7 +26,9 @@
 #### Electricity
 > 🤘 [[School/S5/Physics/3. Electricity/AC and DC\|AC and DC]]  
 > 🔁 [[School/S5/Physics/3. Electricity/Electrical Circuits\|Electrical Circuits]]  
-> ⚡ [[School/S5/Physics/3. Electricity/Internal Resistance\|Internal Resistance]]
+> 🛑 [[School/S5/Physics/3. Electricity/Internal Resistance\|Internal Resistance]]  
+> 🔋 [[School/S5/Physics/3. Electricity/Capacitors\|Capacitors]]  
+> 💻 [[School/S5/Physics/3. Electricity/Semiconductors\|Semiconductors]]
 
 ## Music
 
