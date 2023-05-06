@@ -45,9 +45,9 @@
 
 ## English
 
-#### Essays
 > 🗺 [[School/S5/English/Essays/The Great Gatsby Setting Essay\|The Great Gatsby - Setting]]  
 > 🪧 [[School/S5/English/Essays/Translations - Act 2 Scene 2 Analysis\|Translations - Act 2 Scene 2 Analysis]]  
+> 📜 [[School/S5/English/Critical Reading/Scottish Set Text Commonality Question - Shores\|Scottish Set Text Commonality Question - Shores]]  
 > 🎮 [[School/S5/English/Essays/Storytelling in Video Games Essay\|Higher Folio - Storytelling in Video Games]]  
 > 🐦 [[School/S5/English/Essays/Higher Creative Writing Folio Piece - Columba\|Higher Folio - Columba]]
 
