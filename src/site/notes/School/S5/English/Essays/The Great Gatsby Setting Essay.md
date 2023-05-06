@@ -1,10 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"english/the-great-gatsby-setting","permalink":"/english/the-great-gatsby-setting/","dgShowInlineTitle":false}
+{"dg-publish":true,"dg-permalink":"english/the-great-gatsby-setting","permalink":"/english/the-great-gatsby-setting/"}
 ---
 
-
-# *The Great Gatsby*'s First Chapter: Vetting the Setting
----
 
 *The Great Gatsby* by F. Scott Fitzgerald is a novel set in Long Island in the United States of America, during the Jazz Age. The book is narrated by the fictional character Nick Carraway, and dives into topics relating to wealth, social status, and outward appearances. Fitzgerald employs many ingenious techniques to effectively deliver the novel's setting to the reader, cluing them in to details as needed without revealing too much as to flatten their curiosity.
 
