@@ -5,7 +5,16 @@
 
 ## Physics
 
+### Advanced Higher
+
+#### Rotational Motion and Astrophysics
+
+> 🔁 [[School/S6/Physics/Linear and Angular Velocity\|Linear and Angular Velocity]]
+
+### Higher
+
 #### Our Dynamic Universe
+
 > [!warning]- Incomplete Section!
 > This section does not cover some topics in the course which I do not have notes on, or have not deemed to be of sufficient quality to be published online. Please do not base your revision solely on these notes.
 
