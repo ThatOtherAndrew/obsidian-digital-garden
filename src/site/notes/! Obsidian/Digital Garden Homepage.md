@@ -12,6 +12,10 @@
 > 📈 [[School/S6/Physics/Motion Graphs and Calculus\|Motion Graphs and Calculus]]  
 > 🔁 [[School/S6/Physics/Linear and Angular Velocity\|Linear and Angular Velocity]]
 
+#### Electromagnetism
+
+> ⚡ [[School/S6/Physics/Coulomb's Law\|Coulomb's Law]]
+
 ### Higher
 
 #### Our Dynamic Universe
