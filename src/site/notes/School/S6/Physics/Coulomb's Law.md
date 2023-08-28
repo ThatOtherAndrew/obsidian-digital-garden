@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"physics/coulombs-law","permalink":"/physics/coulombs-law/"}
 ---
 
-## Coulomb's Law
+## Formula
 
 ---
 $$\huge
