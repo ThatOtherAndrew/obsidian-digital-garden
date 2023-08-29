@@ -77,6 +77,8 @@ You can convert between **linear** and **angular** motion by **multiplying or di
 
 This force is known as the **radial force** or **centripetal force**, as the force vector always points towards the centre of the circle of rotation and is hence parallel to the radius. This force can be caused by friction, gravity, tension, an electromagnetic force, or any other such force.
 
+Using $\large F=ma$, we can calculate the centripetal force of an object with a known mass:
+
 > [!summary] Formula
 > $$\huge
 > {\color{red} F_c} = {\color{cyan} m} {\color{yellow} a_r}
