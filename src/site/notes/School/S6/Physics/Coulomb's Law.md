@@ -14,7 +14,7 @@ $$\huge
 $$
 ---
 
-> [!note] Variable Key
+> [!info] Variable Key
 > - $\large \color{red} F$ is **electrostatic force**, in newtons.
 > - $\large \color{cyan} Q_1$ and $\large \color{cyan} Q_1$ are the **charges of the respective particles**, in coulombs.
 > - $\large \color{yellow} \varepsilon_0$ is the **[[School/S6/Physics/Coulomb's Law#Vacuum Permittivity\|vacuum permittivity]]** constant.
