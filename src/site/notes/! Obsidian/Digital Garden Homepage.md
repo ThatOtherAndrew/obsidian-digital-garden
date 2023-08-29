@@ -3,10 +3,9 @@
 ---
 
 
+# Advanced Higher
+
 ## Physics
-
-### Advanced Higher
-
 #### Rotational Motion and Astrophysics
 
 > 📈 [[School/S6/Physics/Motion Graphs and Calculus\|Motion Graphs and Calculus]]  
@@ -16,8 +15,12 @@
 
 > ⚡ [[School/S6/Physics/Coulomb's Law\|Coulomb's Law]]
 
-### Higher
 
+---
+
+# Higher
+
+## Physics
 #### Our Dynamic Universe
 
 > [!warning]- Incomplete Section!
