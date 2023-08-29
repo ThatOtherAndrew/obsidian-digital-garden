@@ -52,7 +52,11 @@
 > $$\huge
 > {\color{red} a_r}
 > = {\color{cyan} r} {\color{yellow} \omega}^2
-> = \frac{{\color{violet} v}^2}{\color{cyan} r}
+> = \frac {
+> 	{\color{violet} v}^2
+> } {
+> 	\color{cyan} r
+> }
 > $$
 > > [!info] Variable Key
 > > - $\large \color{red} a_r$ is the **radial acceleration**, in metres per second squared.
