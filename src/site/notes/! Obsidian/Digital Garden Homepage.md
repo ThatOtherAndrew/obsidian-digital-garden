@@ -10,7 +10,7 @@
 #### Rotational Motion and Astrophysics
 
 > 📈 [[School/S6/Physics/Motion Graphs and Calculus\|Motion Graphs and Calculus]]  
-> 🔁 [[School/S6/Physics/Linear and Angular Velocity\|Linear and Angular Velocity]]
+> 🔁 [[School/S6/Physics/Angular Motion\|Angular Motion]]
 
 #### Electromagnetism
 
