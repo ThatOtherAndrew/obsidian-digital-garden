@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-permalink":"physics/angular-motion","permalink":"/physics/angular-motion/"}
 ---
 
-
 ## Basic Definitions
 
 ![Linear and Angular Velocity 2023-08-25 10.50.33.excalidraw.png|400](/img/user/!%20Obsidian/Excalidraw/Linear%20and%20Angular%20Velocity%202023-08-25%2010.50.33.excalidraw.png)
