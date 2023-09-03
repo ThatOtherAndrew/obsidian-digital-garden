@@ -75,6 +75,14 @@ The equations of motion **can be applied to angular motion** as well as linear m
 | Time (doesn't change!) | $\large t$ |    $\large t$     |
 
 You can convert between **linear** and **angular** motion by **multiplying or dividing the radius** as a factor. To think about this intuitively, this is because $\large c = 2\pi r$, and if the circumference is directly proportional to the radius, then velocity, acceleration, etc. must be directly proportional to the radius as well.
+
+> [!summary] Formulae
+> $$\huge \begin{align}
+> s &= r \theta \\
+> v &= r \omega \\
+> a &= r \alpha
+> \end{align} $$
+
 ## Centripetal Force
 [[School/S5/Physics/1. Our Dynamic Universe/Basics of Forces#Newton's Laws\|Newton's laws of motion]] state that an object cannot accelerate unless an unbalanced force acts upon it. In this case, a force which isn't parallel to the direction of motion is required to change the direction of an object's motion, i.e. to get it to turn.
 
