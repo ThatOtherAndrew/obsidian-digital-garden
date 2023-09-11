@@ -1,11 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden-homepage/","tags":["gardenEntry"],"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden-homepage/","title":"Andrew's Class Notes","tags":["gardenEntry"],"dgShowInlineTitle":false}
 ---
 
+> [!important]- Hall of Fame
+> Did you spot somebody do something nice for you or somebody else? Or maybe you want to read some of the great things other people have done to restore your faith in humanity a bit? Check out the [[School/Hall of Fame\|Hall of Fame]] - a small social experiment I'm running, and a way to recognise the nice things people do which may otherwise go unnoticed!
 
-# Advanced Higher
+<br>
 
-## Physics
+# Andrew's Class Notes
+
+---
+
+## Advanced Higher
+
+### Physics
 #### Rotational Motion and Astrophysics
 
 > 📈 [[School/S6/Physics/Motion Graphs and Calculus\|Motion Graphs and Calculus]]  
@@ -19,9 +27,9 @@
 
 ---
 
-# Higher
+## Higher
 
-## Physics
+### Physics
 #### Our Dynamic Universe
 
 > [!warning]- Incomplete Section!
@@ -48,7 +56,7 @@
 > 🔋 [[School/S5/Physics/3. Electricity/Capacitors\|Capacitors]]  
 > 💻 [[School/S5/Physics/3. Electricity/Semiconductors\|Semiconductors]]
 
-## Music
+### Music
 
 #### Class Notes
 > 🎼 [[School/S5/Music/Sonata Form\|Sonata Form]]  
@@ -61,7 +69,7 @@
 > ⛪ [[School/S5/Music/Essays/Dixit Dominus\|Dixit Dominus]]  
 > 🔍 [[School/S5/Music/Essays/Sonata in G Major\|Mozart's Piano Sonata in G Major]]
 
-## English
+### English
 
 > 🗺 [[School/S5/English/Essays/The Great Gatsby Setting Essay\|The Great Gatsby - Setting]]  
 > 🪧 [[School/S5/English/Essays/Translations - Act 2 Scene 2 Analysis\|Translations - Act 2 Scene 2 Analysis]]  
