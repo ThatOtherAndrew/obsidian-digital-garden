@@ -22,7 +22,8 @@
 
 #### Electromagnetism
 
-> ⚡ [[School/S6/Physics/Coulomb's Law\|Coulomb's Law]]
+> ⚡ [[School/S6/Physics/Coulomb's Law\|Coulomb's Law]]  
+> 🦾 [[School/S6/Physics/Electric Field Strength\|Electric Field Strength]]
 
 
 ---
