@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-permalink":"physics/coulombs-law","permalink":"/physics/coulombs-law/"}
 ---
 
+Coulomb's law is an **inverse-square law** which defines the force between two charged particles. It suggests that as the distance between two charged particles doubles, the force between them is four times weaker.
+
 ## Formula
 
 ---
@@ -9,7 +11,7 @@ $$\huge
 {\color{red} F} = \frac {
 	\color{cyan} Q_1\ Q_2
 } {
-	4\pi\ {\color{yellow} \varepsilon_0}\ {\color{violet}r}^2
+	4\pi\ {\color{yellow} \varepsilon_0}\ {\color{violet} r}^2
 }
 $$
 ---
