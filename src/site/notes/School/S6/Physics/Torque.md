@@ -15,7 +15,7 @@ Torque ( $\large \tau$ ) is the **tendency of a force to turn an object** around
 > > - $\large \color{yellow} r$ is the **distance** between the force and the centre of rotation, in metres.
 
 ## Moment of Inertia
-Moment of inertia ( $\large I$ ) is the tendency of an object to **resist change in angular motion** - the angular counterpart to inertia, hence it can be thought of as **"angular inertia"**. Linearly, inertia is entirely dependent on mass, however with moment of inertia, 
+Moment of inertia ( $\large I$ ) is the tendency of an object to **resist change in angular motion** - the angular counterpart to inertia, hence it can be thought of as **"angular inertia"**. Linearly, inertia is entirely dependent on mass, however with moment of inertia, the formula is more involved as shown below:
 
 > [!summary] Formula
 > $$\huge
