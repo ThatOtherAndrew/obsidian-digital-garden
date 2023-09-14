@@ -9,7 +9,19 @@
 
 # Hall of Fame
 
-**No nominations currently.**
+### November
+
+> [!important] Deniz Saraev <span style="opacity: 0.5">12/09/2023</span>
+> 
+> Lent me a pen for the day when I forgot mine at home
+> 
+> <sub style="opacity: 0.5">Nominated by Andrew Stroev on 14/09/2023</sub>
+
+> [!important] Hannah Mckeigue <span style="opacity: 0.5">07/09/2023</span>
+> 
+> Brought in [Cadbury chocolate fingers](https://www.cadbury.co.uk/products/brands/cadbury-dairy-milk-fingers/) to share out during maths class
+> 
+> <sub style="opacity: 0.5">Nominated by Andrew Stroev on 11/09/2023</sub>
 
 <div style="height: 70vh"></div>
 
