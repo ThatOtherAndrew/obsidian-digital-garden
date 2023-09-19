@@ -19,7 +19,7 @@
 > 📈 [[School/S6/Physics/Motion Graphs and Calculus\|Motion Graphs and Calculus]]  
 > 🔁 [[School/S6/Physics/Rotational Motion\|Rotational Motion]]  
 > 🛞 [[School/S6/Physics/Centripetal Force\|Centripetal Force]]  
-> 🔧 [[School/S6/Physics/Torque\|Torque]]
+> 🔧 [[School/S6/Physics/Torque and Moment of Inertia\|Torque and Moment of Inertia]]
 
 #### Electromagnetism
 
