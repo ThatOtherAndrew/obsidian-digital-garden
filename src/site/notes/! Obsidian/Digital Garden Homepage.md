@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/obsidian/digital-garden-homepage/","title":"Andrew's Class Notes","tags":["gardenEntry"],"dgShowInlineTitle":false}
 ---
 
-> [!important]- Hall of Fame
+> [!important]+ Hall of Fame
 > Did you spot somebody do something nice for you or somebody else? Or maybe you want to read some of the great things other people have done to restore your faith in humanity a bit? Check out the [[School/Hall of Fame\|Hall of Fame]] - a small social experiment I'm running, and a way to recognise the nice things people do which may otherwise go unnoticed!
 
 <br>
