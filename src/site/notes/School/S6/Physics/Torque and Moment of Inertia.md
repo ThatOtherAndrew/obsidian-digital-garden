@@ -48,7 +48,7 @@ Just as Newton's second law of motion states that $\large F = ma$, a similar log
 > [!question]- Moment of Inertia Proof
 > For the curious, this can also be used to explain why the [[School/S6/Physics/Torque and Moment of Inertia#Moment of Inertia\|moment of inertia]] is proportional to $\large {\color{yellow} r}^2$ and not $\large \color{yellow} r$, which may seem unintuitive. This can be done by substituting in the equations for [[School/S6/Physics/Torque and Moment of Inertia#Torque\|torque]] and [[School/S6/Physics/Rotational Motion#Angular Acceleration\|angular acceleration]], then Newton's second law. Notice how the two $\large \color{yellow} r$ terms multiply together, whereas the $\large \color{darkgrey} a$ terms cancel out:
 > 
-> $$\huge
+> $$\large
 > \begin{align}
 > {\color{red} \tau} &= {\color{limegreen} I} {\color{orange} \alpha} \\[10pt]
 > {\color{cyan} F} {\color{yellow} r} &= {\color{limegreen} I} \frac{\color{darkgrey} a}{\color{yellow} r} \\[10pt]
