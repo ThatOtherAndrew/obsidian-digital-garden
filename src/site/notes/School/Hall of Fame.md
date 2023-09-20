@@ -11,6 +11,12 @@
 
 ### November
 
+> [!important] Robert Simmers <span style="opacity: 0.5">19/09/2023</span>
+> 
+> Helped with German language learning on Duolingo
+> 
+> <sub style="opacity: 0.5">Nominated by Harry Hughes on 19/09/2023</sub>
+
 > [!important] Deniz Saraev <span style="opacity: 0.5">12/09/2023</span>
 > 
 > Lent me a pen for the day when I forgot mine at home
@@ -23,7 +29,7 @@
 > 
 > <sub style="opacity: 0.5">Nominated by Andrew Stroev on 11/09/2023</sub>
 
-<div style="height: 70vh"></div>
+<div style="height: 60vh"></div>
 
 ---
 
