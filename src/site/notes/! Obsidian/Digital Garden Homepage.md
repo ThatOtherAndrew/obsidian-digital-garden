@@ -49,7 +49,8 @@
 > ☢️ [[School/S5/Physics/2. Particles and Waves/Nuclear Reactions\|Nuclear Reactions]]  
 > 🌊 [[School/S5/Physics/2. Particles and Waves/Interference\|Interference]]  
 > 💡 [[School/S5/Physics/2. Particles and Waves/Photoelectric Effect\|The Photoelectric Effect]]  
-> 🌈 [[School/S5/Physics/2. Particles and Waves/Refraction\|Refraction]]
+> 🌈 [[School/S5/Physics/2. Particles and Waves/Refraction\|Refraction]]  
+> 🔆 [[School/S5/Physics/2. Particles and Waves/Irradiance\|Irradiance]]
 
 #### Electricity
 > 🤘 [[School/S5/Physics/3. Electricity/AC and DC\|AC and DC]]  
