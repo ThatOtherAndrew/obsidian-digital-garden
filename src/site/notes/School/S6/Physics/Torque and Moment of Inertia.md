@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"physics/torque","permalink":"/physics/torque/"}
+{"dg-publish":true,"dg-path":"Advanced Higher/Physics/Torque and Moment of Inertia.md","dg-permalink":"physics/torque","permalink":"/physics/torque/"}
 ---
 
 ## Torque
