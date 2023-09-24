@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"music/dixit-dominus-analysis","permalink":"/music/dixit-dominus-analysis/"}
+{"dg-publish":true,"dg-path":"Higher/Music/Essays/Dixit Dominus.md","dg-permalink":"music/dixit-dominus-analysis","permalink":"/music/dixit-dominus-analysis/"}
 ---
 
 
