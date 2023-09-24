@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"physics/nuclear-reactions","permalink":"/physics/nuclear-reactions/"}
+{"dg-publish":true,"dg-path":"Higher/Physics/2. Particles and Waves/Nuclear Reactions.md","dg-permalink":"physics/nuclear-reactions","permalink":"/physics/nuclear-reactions/"}
 ---
 
 
