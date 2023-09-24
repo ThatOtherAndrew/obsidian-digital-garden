@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"physics/centripetal-force","permalink":"/physics/centripetal-force/"}
+{"dg-publish":true,"dg-path":"Advanced Higher/Physics/Centripetal Force.md","dg-permalink":"physics/centripetal-force","permalink":"/physics/centripetal-force/"}
 ---
 
 [[School/S5/Physics/1. Our Dynamic Universe/Basics of Forces#Newton's Laws\|Newton's laws of motion]] state that an object cannot accelerate unless an unbalanced force acts upon it. In this case, a force which isn't parallel to the direction of motion is required to change the direction of an object's motion, i.e. to get it to turn.
