@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"hall-of-fame","permalink":"/hall-of-fame/","dgShowInlineTitle":false}
+{"dg-publish":true,"dg-permalink":"hall-of-fame","permalink":"/hall-of-fame/"}
 ---
 
 > [!question]- What is the Hall of Fame?
