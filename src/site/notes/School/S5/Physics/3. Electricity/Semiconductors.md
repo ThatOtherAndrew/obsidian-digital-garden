@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"physics/semiconductors","permalink":"/physics/semiconductors/"}
+{"dg-publish":true,"dg-path":"Higher/Physics/3. Electricity/Semiconductors.md","dg-permalink":"physics/semiconductors","permalink":"/physics/semiconductors/"}
 ---
 
 
