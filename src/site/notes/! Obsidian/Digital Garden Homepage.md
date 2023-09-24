@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"🏠 Home.md","permalink":"/home/","title":"Andrew's Class Notes","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","title":"🏠 Home","tags":["gardenEntry"]}
 ---
 
 > [!important]+ Hall of Fame
@@ -7,7 +7,7 @@
 
 <br>
 
-# Andrew's Class Notes
+# 🤓 Andrew's Class Notes
 
 ---
 
