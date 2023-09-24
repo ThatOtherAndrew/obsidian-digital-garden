@@ -16,15 +16,15 @@
 ### Physics
 #### Rotational Motion and Astrophysics
 
-> 📈 [[School/S6/Physics/Motion Graphs and Calculus\|Motion Graphs and Calculus]]  
-> 🔁 [[School/S6/Physics/Rotational Motion\|Rotational Motion]]  
-> 🛞 [[School/S6/Physics/Centripetal Force\|Centripetal Force]]  
-> 🔧 [[School/S6/Physics/Torque and Moment of Inertia\|Torque and Moment of Inertia]]
+> 📈 [[School/S6/Physics/Rotational Motion and Astrophysics/Motion Graphs and Calculus\|Motion Graphs and Calculus]]  
+> 🔁 [[School/S6/Physics/Rotational Motion and Astrophysics/Rotational Motion\|Rotational Motion]]  
+> 🛞 [[School/S6/Physics/Rotational Motion and Astrophysics/Centripetal Force\|Centripetal Force]]  
+> 🔧 [[School/S6/Physics/Rotational Motion and Astrophysics/Torque and Moment of Inertia\|Torque and Moment of Inertia]]
 
 #### Electromagnetism
 
-> ⚡ [[School/S6/Physics/Coulomb's Law\|Coulomb's Law]]  
-> 🦾 [[School/S6/Physics/Electric Field Strength\|Electric Field Strength]]
+> ⚡ [[School/S6/Physics/Electromagnetism/Coulomb's Law\|Coulomb's Law]]  
+> 🦾 [[School/S6/Physics/Electromagnetism/Electric Field Strength\|Electric Field Strength]]
 
 
 ---
@@ -37,27 +37,27 @@
 > [!warning]- Incomplete Section!
 > This section does not cover some topics in the course which I do not have notes on, or have not deemed to be of sufficient quality to be published online. Please do not base your revision solely on these notes.
 
-> ⏱️ [[School/S5/Physics/1. Our Dynamic Universe/Classical and Special Relativity\|Classical and Special Relativity]]  
-> 🔊 [[School/S5/Physics/1. Our Dynamic Universe/Doppler Effect\|The Doppler Effect]]  
-> 🌌 [[School/S5/Physics/1. Our Dynamic Universe/The Expanding Universe\|The Expanding Universe]]
+> ⏱️ [[School/S5/Physics/Our Dynamic Universe/Classical and Special Relativity\|Classical and Special Relativity]]  
+> 🔊 [[School/S5/Physics/Our Dynamic Universe/Doppler Effect\|The Doppler Effect]]  
+> 🌌 [[School/S5/Physics/Our Dynamic Universe/The Expanding Universe\|The Expanding Universe]]
 
 #### Particles and Waves
-> ⚡ [[School/S5/Physics/2. Particles and Waves/Electric Fields\|Electric Fields]]  
-> 🧲 [[School/S5/Physics/2. Particles and Waves/Magnetic Fields\|Magnetic Fields]]  
-> 💥 [[School/S5/Physics/2. Particles and Waves/Particle Accelerators\|Particle Accelerators]]  
-> 🔬 [[School/S5/Physics/2. Particles and Waves/Standard Model\|The Standard Model]]  
-> ☢️ [[School/S5/Physics/2. Particles and Waves/Nuclear Reactions\|Nuclear Reactions]]  
-> 🌊 [[School/S5/Physics/2. Particles and Waves/Interference\|Interference]]  
-> 💡 [[School/S5/Physics/2. Particles and Waves/Photoelectric Effect\|The Photoelectric Effect]]  
-> 🌈 [[School/S5/Physics/2. Particles and Waves/Refraction\|Refraction]]  
-> 🔆 [[School/S5/Physics/2. Particles and Waves/Irradiance\|Irradiance]]
+> ⚡ [[School/S5/Physics/Particles and Waves/Electric Fields\|Electric Fields]]  
+> 🧲 [[School/S5/Physics/Particles and Waves/Magnetic Fields\|Magnetic Fields]]  
+> 💥 [[School/S5/Physics/Particles and Waves/Particle Accelerators\|Particle Accelerators]]  
+> 🔬 [[School/S5/Physics/Particles and Waves/Standard Model\|The Standard Model]]  
+> ☢️ [[School/S5/Physics/Particles and Waves/Nuclear Reactions\|Nuclear Reactions]]  
+> 🌊 [[School/S5/Physics/Particles and Waves/Interference\|Interference]]  
+> 💡 [[School/S5/Physics/Particles and Waves/Photoelectric Effect\|The Photoelectric Effect]]  
+> 🌈 [[School/S5/Physics/Particles and Waves/Refraction\|Refraction]]  
+> 🔆 [[School/S5/Physics/Particles and Waves/Irradiance\|Irradiance]]
 
 #### Electricity
-> 🤘 [[School/S5/Physics/3. Electricity/AC and DC\|AC and DC]]  
-> 🔁 [[School/S5/Physics/3. Electricity/Electrical Circuits\|Electrical Circuits]]  
-> 🛑 [[School/S5/Physics/3. Electricity/Internal Resistance\|Internal Resistance]]  
-> 🔋 [[School/S5/Physics/3. Electricity/Capacitors\|Capacitors]]  
-> 💻 [[School/S5/Physics/3. Electricity/Semiconductors\|Semiconductors]]
+> 🤘 [[School/S5/Physics/Electricity/AC and DC\|AC and DC]]  
+> 🔁 [[School/S5/Physics/Electricity/Electrical Circuits\|Electrical Circuits]]  
+> 🛑 [[School/S5/Physics/Electricity/Internal Resistance\|Internal Resistance]]  
+> 🔋 [[School/S5/Physics/Electricity/Capacitors\|Capacitors]]  
+> 💻 [[School/S5/Physics/Electricity/Semiconductors\|Semiconductors]]
 
 ### Music
 
