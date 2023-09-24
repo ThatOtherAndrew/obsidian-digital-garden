@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/Physics/1. Our Dynamic Universe/Classical and Special Relativity.md","dg-permalink":"physics/relativity","permalink":"/physics/relativity/"}
+{"dg-publish":true,"dg-path":"Higher/Physics/1. Our Dynamic Universe/Classical and Special Relativity.md","dg-permalink":"physics/special-relativity","permalink":"/physics/special-relativity/"}
 ---
 
-
+## Classical Relativity
 ### Frames of Reference
 An **inertial frame of reference** is a snapshot of a part of spacetime, which is all travelling at a constant velocity.
 
@@ -14,6 +14,7 @@ In classical relativity, velocities can be added together to get the velocity th
 
 ![Relativity 2022-09-30 10.11.05.excalidraw.png|500](/img/user/!%20Obsidian/Excalidraw/Relativity%202022-09-30%2010.11.05.excalidraw.png)
 
+## Special Relativity
 ### Einstein's Postulates
 Einstein made two postulates when thinking about relativity, building off classical relativity:
 
