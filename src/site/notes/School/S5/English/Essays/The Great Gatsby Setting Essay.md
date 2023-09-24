@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"english/the-great-gatsby-setting","permalink":"/english/the-great-gatsby-setting/"}
+{"dg-publish":true,"dg-path":"Higher/English/Essays/The Great Gatsby Setting Essay.md","dg-permalink":"english/the-great-gatsby-setting","permalink":"/english/the-great-gatsby-setting/"}
 ---
 
 
