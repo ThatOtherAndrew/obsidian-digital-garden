@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"english/columba","permalink":"/english/columba/"}
+{"dg-publish":true,"dg-path":"Higher/English/Essays/Higher Creative Writing Folio Piece - Columba.md","dg-permalink":"english/columba","permalink":"/english/columba/"}
 ---
 
 
