@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden-homepage/","title":"Andrew's Class Notes","tags":["gardenEntry"],"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden-homepage/","title":"Andrew's Class Notes","tags":["gardenEntry"]}
 ---
 
 > [!important]+ Hall of Fame
