@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"physics/refraction","permalink":"/physics/refraction/"}
+{"dg-publish":true,"dg-path":"Higher/Physics/2. Particles and Waves/Refraction.md","dg-permalink":"physics/refraction","permalink":"/physics/refraction/"}
 ---
 
 
