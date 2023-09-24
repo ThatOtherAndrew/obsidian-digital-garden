@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"physics/particle-accelerators","permalink":"/physics/particle-accelerators/"}
+{"dg-publish":true,"dg-path":"Higher/Physics/2. Particles and Waves/Particle Accelerators.md","dg-permalink":"physics/particle-accelerators","permalink":"/physics/particle-accelerators/"}
 ---
 
 
