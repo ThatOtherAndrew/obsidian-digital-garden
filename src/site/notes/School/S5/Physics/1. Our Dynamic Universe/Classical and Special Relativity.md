@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"physics/relativity","permalink":"/physics/relativity/"}
+{"dg-publish":true,"dg-path":"Higher/Physics/1. Our Dynamic Universe/Classical and Special Relativity.md","dg-permalink":"physics/relativity","permalink":"/physics/relativity/"}
 ---
 
 
