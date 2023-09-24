@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"physics/capacitors","permalink":"/physics/capacitors/"}
+{"dg-publish":true,"dg-path":"Higher/Physics/3. Electricity/Capacitors.md","dg-permalink":"physics/capacitors","permalink":"/physics/capacitors/"}
 ---
 
 
