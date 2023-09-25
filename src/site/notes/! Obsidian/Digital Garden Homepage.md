@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","title":"🏠 Home","tags":["gardenEntry"],"created":"","updated":""}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","title":"🏠 Home","pinned":true,"tags":["gardenEntry"],"created":"","updated":""}
 ---
 
 > [!important]+ Hall of Fame
@@ -24,7 +24,7 @@
 #### Electromagnetism
 
 > ⚡ [[School/S6/Physics/Electromagnetism/Coulomb's Law\|Coulomb's Law]]  
-> 🦾 [[School/S6/Physics/Electromagnetism/Electric Field Strength\|Electric Field Strength]]
+> 🦾 [[School/S6/Physics/Electromagnetism/Electric Potential\|Electric Potential]]
 
 
 ---
