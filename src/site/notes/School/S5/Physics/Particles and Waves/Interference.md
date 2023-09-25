@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/Physics/Particles and Waves/Interference.md","dg-permalink":"physics/interference","permalink":"/physics/interference/"}
+{"dg-publish":true,"dg-path":"Higher/Physics/Particles and Waves/Interference.md","dg-permalink":"physics/interference","permalink":"/physics/interference/","created":"","updated":""}
 ---
 
 
