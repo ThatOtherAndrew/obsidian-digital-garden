@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/Music/Operas and Oratorios.md","dg-permalink":"music/operas-and-oratorios","permalink":"/music/operas-and-oratorios/"}
+{"dg-publish":true,"dg-path":"Higher/Music/Operas and Oratorios.md","dg-permalink":"music/operas-and-oratorios","permalink":"/music/operas-and-oratorios/","created":"","updated":""}
 ---
 
 
