@@ -30,11 +30,11 @@ Note how this formula assumes a **point mass** - a mass condensed onto an infini
 ## Unbalanced Torque
 Just as Newton's second law of motion states that $\large F = ma$, a similar logic can be applied to an unbalanced torque, by substituting the linear properties with their angular counterparts:
 
-| Linear                                                                                     | Angular                                                                                         |
-| ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| $\large \color{cyan} F$ Force                                                              | $\large \color{red} \tau$ [[School/S6/Physics/Rotational Motion and Astrophysics/Torque and Moment of Inertia#Torque\|Torque and Moment of Inertia#Torque]]                               |
-| $\large \color{violet} m$ Mass                                                             | $\large \color{limegreen} I$ [[School/S6/Physics/Rotational Motion and Astrophysics/Torque and Moment of Inertia#Moment of Inertia\|Torque and Moment of Inertia#Moment of Inertia]]                 |
-| $\large \color{darkgrey} a$ [[School/S6/Physics/Rotational Motion and Astrophysics/Rotational Motion#Linear Acceleration\|Linear Acceleration]] | $\large \color{orange} \alpha$ [[School/S6/Physics/Rotational Motion and Astrophysics/Rotational Motion#Angular Acceleration\|Angular Acceleration]] |
+| Linear                                                                                     | Angular                                                                                            |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| $\large \color{cyan} F$ Force                                                              | $\large \color{red} \tau$ [[School/S6/Physics/Rotational Motion and Astrophysics/Torque and Moment of Inertia#Torque\|Torque]]                          |
+| $\large \color{violet} m$ Mass                                                             | $\large \color{limegreen} I$ [[School/S6/Physics/Rotational Motion and Astrophysics/Torque and Moment of Inertia#Moment of Inertia\|Moment of Inertia]] |
+| $\large \color{darkgrey} a$ [[School/S6/Physics/Rotational Motion and Astrophysics/Rotational Motion#Linear Acceleration\|Linear Acceleration]] | $\large \color{orange} \alpha$ [[School/S6/Physics/Rotational Motion and Astrophysics/Rotational Motion#Angular Acceleration\|Angular Acceleration]]    |
 
 > [!summary] Formula
 > $$\huge
