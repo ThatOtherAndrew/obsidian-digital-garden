@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/English/Translations - Act 2 Scene 2 Analysis.md","dg-permalink":"english/translations-2-2","permalink":"/english/translations-2-2/"}
+{"dg-publish":true,"dg-path":"Higher/English/Translations - Act 2 Scene 2 Analysis.md","dg-permalink":"english/translations-2-2","permalink":"/english/translations-2-2/","created":"","updated":""}
 ---
 
 
