@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/Music/Essays/Sonata in G Major.md","dg-permalink":"music/sonata-analysis","permalink":"/music/sonata-analysis/"}
+{"dg-publish":true,"dg-path":"Higher/Music/Essays/Sonata in G Major.md","dg-permalink":"music/sonata-analysis","permalink":"/music/sonata-analysis/","created":"","updated":""}
 ---
 
 
