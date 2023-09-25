@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/Physics/Electricity/Electrical Circuits.md","dg-permalink":"physics/circuits","permalink":"/physics/circuits/"}
+{"dg-publish":true,"dg-path":"Higher/Physics/Electricity/Electrical Circuits.md","dg-permalink":"physics/circuits","permalink":"/physics/circuits/","created":"","updated":""}
 ---
 
 
