@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","title":"🏠 Home","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","title":"🏠 Home","tags":["gardenEntry"],"created":"","updated":""}
 ---
 
 > [!important]+ Hall of Fame
