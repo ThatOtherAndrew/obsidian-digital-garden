@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/Physics/Our Dynamic Universe/Classical and Special Relativity.md","dg-permalink":"physics/special-relativity","permalink":"/physics/special-relativity/"}
+{"dg-publish":true,"dg-path":"Higher/Physics/Our Dynamic Universe/Classical and Special Relativity.md","dg-permalink":"physics/special-relativity","permalink":"/physics/special-relativity/","created":"","updated":""}
 ---
 
 ## Classical Relativity
