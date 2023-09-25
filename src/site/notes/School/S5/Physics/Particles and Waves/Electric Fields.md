@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/Physics/Particles and Waves/Electric Fields.md","dg-permalink":"physics/electric-fields","permalink":"/physics/electric-fields/"}
+{"dg-publish":true,"dg-path":"Higher/Physics/Particles and Waves/Electric Fields.md","dg-permalink":"physics/electric-fields","permalink":"/physics/electric-fields/","created":"","updated":""}
 ---
 
 
