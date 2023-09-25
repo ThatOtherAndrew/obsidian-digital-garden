@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Advanced Higher/Physics/Electromagnetism/Electric Field Strength.md","dg-permalink":"physics/electric-field-strength","permalink":"/physics/electric-field-strength/"}
+{"dg-publish":true,"dg-path":"Advanced Higher/Physics/Electromagnetism/Electric Field Strength.md","dg-permalink":"physics/electric-field-strength","permalink":"/physics/electric-field-strength/","created":"","updated":""}
 ---
 
 ## Formula
