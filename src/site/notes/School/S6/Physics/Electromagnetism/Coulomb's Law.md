@@ -2,8 +2,8 @@
 {"dg-publish":true,"dg-path":"Advanced Higher/Physics/Electromagnetism/Coulomb's Law.md","dg-permalink":"physics/coulombs-law","permalink":"/physics/coulombs-law/","created":"","updated":""}
 ---
 
-> [!help] Not making sense?
-> Concepts and terms on this page are covered on the [[School/S6/Physics/Electromagnetism/Altitude Analogy\|Altitude Analogy]] page. Give it a read if you haven't already!
+> [!help] Confusing concepts?
+> Concepts and terms on this page are explored more intuitively in the [[School/S6/Physics/Electromagnetism/Altitude Analogy\|Altitude Analogy]] page. If you're confused like I was, give it a read if you haven't already!
 
 ## Electrostatic Force
 
