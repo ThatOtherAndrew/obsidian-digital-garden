@@ -36,3 +36,7 @@ We can think of [[School/S6/Physics/Electromagnetism/Electric Potential#Electric
 If we drew many of these field strength vectors and connected them up in a chain from tip to tail, the lines would represent the **path a positive test charge would take**, which wants to "roll down" to get to as low a potential it can. If this sounds familiar, good - because that is what **[[School/S5/Physics/Particles and Waves/Electric Fields#Electric Field Diagrams\|field lines]]** are! A birds-eye view of the map with the vectors drawn would look exactly like the 2-dimensional electric field diagrams you'll be familiar with.
 
 ![Altitude Analogy_1.excalidraw.png|700](/img/user/!%20Obsidian/Excalidraw/Altitude%20Analogy_1.excalidraw.png)
+
+## Electrostatic Force
+
+The electrostatic force is simply the "gravity" in the analogy - the force which pulls positive charges downwards towards a lower electric potential, and negative charges upwards towards a greater electric potential. The strength of this force can depend on factors such as [[School/S6/Physics/Electromagnetism/Coulomb's Law#Vacuum Permittivity\|permittivity]].
