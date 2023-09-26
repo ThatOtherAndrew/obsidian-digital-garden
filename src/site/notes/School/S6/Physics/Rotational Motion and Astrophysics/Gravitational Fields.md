@@ -20,7 +20,7 @@ The gravitational field strength can be calculated at a point, if the mass and f
 > > - $\large \color{yellow} m$ is the **mass of the object** being acted on, in kilograms.
 
 ## Gravitational Force
-We can calculate the **gravitational force between two masses** using **Newton's law of universal gravitation**, an **inverse-square law** which suggests that as the distance between two masses doubles, the force between them is four times weaker.
+Gravitational force is simply the proper name for **weight**, but is a more universally applicable term - especially when considering interplanetary scales. We can calculate the gravitational force between two masses using **Newton's law of universal gravitation**, an **inverse-square law** which suggests that as the distance between two masses doubles, the force between them is four times weaker.
 
 The equivalent for an [[School/S5/Physics/Particles and Waves/Electric Fields\|electric field]] is [[School/S6/Physics/Electromagnetism/Coulomb's Law\|Coulomb's Law]], which is used to calculate the [[School/S6/Physics/Electromagnetism/Coulomb's Law#Electrostatic Force\|electrostatic force]] between two charges.
 
