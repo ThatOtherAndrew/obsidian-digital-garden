@@ -4,6 +4,11 @@
 
 ## Electric Field Strength
 
+> [!note]- Using the Analogy
+> <sup>This explanation uses the [[School/S6/Physics/Electromagnetism/Altitude Analogy\|altitude analogy]] - give it a read if you haven't already!</sup>
+> 
+> #Todo
+
 Electric field strength is a **vector** which represents the **electrical force per unit of positive charge** - similar to how gravitational field strength is the weight per unit of mass. The electric field strength can be calculated at the point of a charged particle, if the charge and mass of the particle is known:
 
 > [!summary] Formula
@@ -39,6 +44,11 @@ Substituting $\large \color{cyan} F$ with [[School/S6/Physics/Electromagnetism/C
 > In this formula, $\large \color{yellow} Q$ refers to the charge of the particle which is **creating the field you're measuring** - any test charge that may be situated at the point you're trying to measure the electric field strength of doesn't matter!
 
 ## Electric Potential
+
+> [!note]- Using the Analogy
+> <sup>This explanation uses the [[School/S6/Physics/Electromagnetism/Altitude Analogy\|altitude analogy]] - give it a read if you haven't already!</sup>
+> 
+> #Todo
 
 The electric potential at a point (sometimes referred to **potential** within an appropriate context) is a **scalar** which represents **electric potential energy** - the electric counterpart to [[School/S4/Physics/Dynamics and Space/Energy, Work and Power#Gravitational potential energy\|gravitational potential energy]] - per unit of charge. This can be **positive or negative** depending on the polarity of the charge creating the [[School/S5/Physics/Particles and Waves/Electric Fields\|electric field]].
 
