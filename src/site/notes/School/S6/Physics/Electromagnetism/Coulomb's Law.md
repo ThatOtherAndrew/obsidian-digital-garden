@@ -49,6 +49,6 @@ $$\huge
 $$
 ---
 ## Vacuum Permittivity
-**Vacuum permittivity**, also known as **permittivity of free space** or the **electric constant**, is a constant which determines how easy it is for an electric field to "penetrate" a vacuum, and consequently how strongly charges influence each other.
+**Vacuum permittivity**, also known as **permittivity of free space** or the **electric constant**, is a constant which determines how easy it is for an electric field to "penetrate" a vacuum, and consequently how strongly charges influence each other. The greater the permittivity, the easier it is for charges to interact, and the less electrostatic force is therefore required.
 
 Permittivity is represented by the Greek letter epsilon, $\large \varepsilon$.
