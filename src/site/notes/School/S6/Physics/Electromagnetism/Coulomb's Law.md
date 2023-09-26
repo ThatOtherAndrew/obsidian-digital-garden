@@ -2,14 +2,14 @@
 {"dg-publish":true,"dg-path":"Advanced Higher/Physics/Electromagnetism/Coulomb's Law.md","dg-permalink":"physics/coulombs-law","permalink":"/physics/coulombs-law/","created":"","updated":""}
 ---
 
+> [!help] Not making sense?
+> Concepts and terms on this page are covered on the [[School/S6/Physics/Electromagnetism/Altitude Analogy\|Altitude Analogy]] page. Give it a read if you haven't already!
+
 ## Electrostatic Force
 
-> [!note]- Using the Analogy
-> <sup>This explanation uses the [[School/S6/Physics/Electromagnetism/Altitude Analogy\|altitude analogy]] - give it a read if you haven't already!</sup>
-> 
-> #Todo 
-
 Coulomb's law is an **inverse-square law** which defines the **electrostatic force** between two charged particles. It suggests that as the distance between two charged particles doubles, the force between them is four times weaker.
+
+The equivalent for [[School/S6/Physics/Rotational Motion and Astrophysics/Gravitational Fields\|gravitational fields]] is [[School/S6/Physics/Rotational Motion and Astrophysics/Gravitational Fields#Gravitational Force\|gravitational force]], calculated using Newton's law of universal gravitation.
 
 > [!summary] Formula
 > $$\huge
@@ -24,7 +24,7 @@ Coulomb's law is an **inverse-square law** which defines the **electrostatic for
 > > - $\large \color{red} F$ is **electrostatic force**, in newtons.
 > > - $\large \color{cyan} Q_1$ and $\large \color{cyan} Q_2$ are the **charges of the respective particles**, in coulombs.
 > > - $\large \color{yellow} \varepsilon_0$ is the **[[School/S6/Physics/Electromagnetism/Coulomb's Law#Vacuum Permittivity\|vacuum permittivity]]** constant.
-> > - $\large \color{violet} r$ is the **distance between the particles**, ⚠️ **in metres**.
+> > - $\large \color{violet} r$ is the **distance between the particles**, in metres.
 
 > [!question] Attract or repel?
 > If the calculated electrostatic force is **positive**, then the charged particles are **repelling** each other (since both $\large \color{cyan} Q_1$ and $\large \color{cyan} Q_2$ will have the same sign), and vice versa - if the electrostatic force is **negative**, then the charged particles are **attracting** each other.
@@ -53,11 +53,6 @@ $$\huge
 $$
 ---
 ## Vacuum Permittivity
-
-> [!note]- Using the Analogy
-> <sup>This explanation uses the [[School/S6/Physics/Electromagnetism/Altitude Analogy\|altitude analogy]] - give it a read if you haven't already!</sup>
-> 
-> #Todo 
 
 **Vacuum permittivity**, also known as **permittivity of free space** or the **electric constant**, is a constant which determines how easy it is for an electric field to "penetrate" a vacuum, and consequently how strongly charges influence each other. The greater the permittivity, the easier it is for charges to interact, and the less electrostatic force is therefore required.
 
