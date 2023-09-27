@@ -7,6 +7,8 @@
 > 
 > To share some of this intuition via this analogy, I'll try my best to re-explain below the altitude analogy which was explained to me. This does not have any direct relevance to the SQA Advanced Higher course, however in my opinion I consider this well worth a read.
 > 
+> This analogy applies to [[School/S6/Physics/Rotational Motion and Astrophysics/Gravitational Fields\|gravitational fields]] as well, however ~~I'm lazy~~ applying it yourself would be a good exercise to show your understanding. Just substitute the terms and concepts relevant to [[School/S5/Physics/Particles and Waves/Electric Fields\|electric fields]] with their gravitational field counterparts.
+> 
 > <sub style="opacity: 0.5">Massive thank you to chroma for their help with this topic!</sub>
 
 ### Electric Potential
