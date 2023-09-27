@@ -17,7 +17,7 @@ When we add charges to this map, they influence the electric potential. A positi
 
 If we were considering electric potential in a 2D plane, the resulting map would look something like this in 3D:
 
-![Altitude Analogy.excalidraw.png|700](/img/user/!%20Obsidian/Excalidraw/Altitude%20Analogy.excalidraw.png)
+![Altitude Analogy.excalidraw.png](/img/user/!%20Obsidian/Excalidraw/Altitude%20Analogy.excalidraw.png)
 
 To consider electrical potential along a 1D line, we can simply take a cross-section of this map, to get what would simply look like a graph of electrical potential (y-axis) against distance (x-axis). However, to consider electrical potential within a 3D space, that would require extrusion into a **fourth spacial dimension** - which would be a mathematically accurate model, however it would be very difficult to visualise. For the purposes of this explanation, let's stick to 3D maps representing 2D planes.
 
@@ -27,7 +27,7 @@ Now that we understand [[School/S6/Physics/Electromagnetism/Electric Potential#E
 
 Just as we can measure both altitude and difference in altitude using metres, we can measure both electric potential and potential difference using **volts** - despite the term of **voltage** only referring specifically to a **potential *difference***. This is a source of confusion for many!
 
-![Altitude Analogy_0.excalidraw.png|700](/img/user/!%20Obsidian/Excalidraw/Altitude%20Analogy_0.excalidraw.png)
+![Altitude Analogy_0.excalidraw.png](/img/user/!%20Obsidian/Excalidraw/Altitude%20Analogy_0.excalidraw.png)
 
 ### Field Strength
 
@@ -35,7 +35,7 @@ We can think of [[School/S6/Physics/Electromagnetism/Electric Potential#Electric
 
 If we drew many of these field strength vectors and connected them up in a chain from tip to tail, the lines would represent the **path a positive test charge would take**, which wants to "roll down" to get to as low a potential it can. If this sounds familiar, good - because that is what **[[School/S5/Physics/Particles and Waves/Electric Fields#Electric Field Diagrams\|field lines]]** are! A birds-eye view of the map with the vectors drawn would look exactly like the 2-dimensional electric field diagrams you'll be familiar with.
 
-![Altitude Analogy_1.excalidraw.png|700](/img/user/!%20Obsidian/Excalidraw/Altitude%20Analogy_1.excalidraw.png)
+![Altitude Analogy_1.excalidraw.png](/img/user/!%20Obsidian/Excalidraw/Altitude%20Analogy_1.excalidraw.png)
 
 ## Electrostatic Force
 
