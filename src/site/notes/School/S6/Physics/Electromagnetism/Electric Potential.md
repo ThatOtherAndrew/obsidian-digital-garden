@@ -45,9 +45,9 @@ Substituting $\large \color{cyan} F$ with [[School/S6/Physics/Electromagnetism/C
 
 ## Electric Potential
 
-The electric potential at a point (sometimes referred to **potential** within an appropriate context) is a **scalar** which represents **electric potential energy** - the electric counterpart to [[School/S4/Physics/Dynamics and Space/Energy, Work and Power#Gravitational potential energy\|gravitational potential energy]] - per unit of charge. This can be **positive or negative** depending on the polarity of the charge creating the [[School/S5/Physics/Particles and Waves/Electric Fields\|electric field]].
+The electric potential at a point (sometimes referred to **potential** within an appropriate context) is a **scalar** which represents **electric potential energy** (the electric counterpart to [[School/S4/Physics/Dynamics and Space/Energy, Work and Power#Gravitational potential energy\|gravitational potential energy]]) **per unit of charge**. This can be **positive or negative** depending on the polarity of the charge creating the [[School/S5/Physics/Particles and Waves/Electric Fields\|electric field]].
 
-The formal definition of electric potential is the energy required to move a **1 coulomb positive test charge** to that point from an infinitely far location, where the [[School/S6/Physics/Electromagnetism/Electric Potential#Electric Field Strength\|electric field strength]] would be zero. This helps to explain why the electric potential at a point increases when it approaches a positively charged particle, and not vice versa.
+The formal definition of electric potential at a point is the energy required to move a **1 coulomb positive test charge** to that point from an infinitely far location, where the [[School/S6/Physics/Electromagnetism/Electric Potential#Electric Field Strength\|electric field strength]] would be zero. This helps to explain why the electric potential at a point increases when it approaches a positively charged particle, and not vice versa.
 
 > [!summary] Formula
 > $$\huge
