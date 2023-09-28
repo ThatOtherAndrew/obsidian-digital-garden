@@ -27,7 +27,7 @@ The equivalent for an [[School/S5/Physics/Particles and Waves/Electric Fields\|e
 > [!summary] Formula
 > $$\huge
 > {\color{cyan} F} = \frac {
-> 	{\color{darkgrey} G}\ {\color{limegreen} m_1\ m_2}
+> 	{\color{darkgrey} G} {\color{limegreen} M m}
 > } {
 > 	{\color{violet} r}^2
 > }
@@ -36,5 +36,19 @@ The equivalent for an [[School/S5/Physics/Particles and Waves/Electric Fields\|e
 > > [!info] Variable Key
 > > - $\large \color{cyan} F$ is the **gravitational force** between the masses, in newtons.
 > > - $\large \color{darkgrey} G$ is the **gravitational constant**, approximately $6.67 \times 10^{-11}\ \textup{m}^3\ \textup{kg}^{-1}\ \textup{s}^{-2}$.
-> > - $\large \color{limegreen} m_1$ and $\large \color{limegreen} m_2$ are the **masses of the two objects**, in kilograms.
+> > - $\large \color{limegreen} M$ and $\large \color{limegreen} m$ are the **masses of the two objects**, in kilograms.
 > > - $\large \color{violet} r$ is the **distance between the masses**, in metres.
+
+## Gravitational Potential
+Gravitational potential at a point in a gravitational field is a **scalar** which represents **[[School/S4/Physics/Dynamics and Space/Energy, Work and Power#Gravitational potential energy\|gravitational potential energy]]** (the gravitational counterpart to electric potential energy) **per unit of mass**. The formal definition of gravitational potential at a point is the energy required to move a **1 kilogram test mass** to that point from an infinitely far location, where the [[School/S6/Physics/Rotational Motion and Astrophysics/Gravitational Fields#Gravitational Field Strength\|gravitational field strength]] would be zero. For this reason, gravitational potential is **always negative** - moving a mass in the same direction as it is being pulled by [[School/S6/Physics/Rotational Motion and Astrophysics/Gravitational Fields#Gravitational Force\|gravitational force]] is equivalent to negative work done.
+
+> [!summary] Formula
+> $$\huge
+> {\color{mediumpurple} V} = \frac{
+> 	{\color{darkgrey} G} {\color{orange} W}
+> } {
+> 	\color{limegreen} m
+> }
+> $$
+> > [!info] Variable Key
+> > - #Todo
