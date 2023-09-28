@@ -27,6 +27,9 @@
 > ⚡ [[School/S6/Physics/Electromagnetism/Coulomb's Law\|Coulomb's Law]]  
 > 🦾 [[School/S6/Physics/Electromagnetism/Electric Potential\|Electric Potential]]
 
+### Music
+
+> 🎵 [[School/S6/Music/Late Romantic Music Essay\|Late Romantic Music Essay]]  
 
 ---
 
