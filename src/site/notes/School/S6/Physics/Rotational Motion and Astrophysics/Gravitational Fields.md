@@ -42,11 +42,11 @@ The equivalent for an [[School/S5/Physics/Particles and Waves/Electric Fields\|e
 ## Gravitational Potential
 Gravitational potential at a point in a gravitational field is a **scalar** which represents **[[School/S4/Physics/Dynamics and Space/Energy, Work and Power#Gravitational potential energy\|gravitational potential energy]]** (the gravitational counterpart to electric potential energy) **per unit of mass**. The formal definition of gravitational potential at a point is the energy required to move a **1 kilogram test mass** to that point from an infinitely far location, where the [[School/S6/Physics/Rotational Motion and Astrophysics/Gravitational Fields#Gravitational Field Strength\|gravitational field strength]] would be zero. For this reason, gravitational potential is **always negative** - moving a mass in the same direction as it is being pulled by [[School/S6/Physics/Rotational Motion and Astrophysics/Gravitational Fields#Gravitational Force\|gravitational force]] is equivalent to negative work done.
 
-Gravitational potential is the **gravitational counterpart to [[School/S6/Physics/Electromagnetism/Electric Potential#Electric Potential\|electric potential]]**, and both use the symbol $\large \color{mediumpurple} V$.
+Gravitational potential is the **gravitational counterpart to [[School/S6/Physics/Electromagnetism/Electric Potential#Electric Potential\|electric potential]]**, and both use the symbol $\large \color{violet} V$.
 
 > [!summary] Formula
 > $$\huge
-> {\color{mediumpurple} V} = \frac{
+> {\color{violet} V} = \frac{
 > 	{\color{darkgrey} G} {\color{orange} W}
 > } {
 > 	\color{limegreen} m
@@ -54,7 +54,7 @@ Gravitational potential is the **gravitational counterpart to [[School/S6/Physic
 > $$
 > > [!info] Variable Key
 > > - #Todo
-> > - $\large \color{mediumpurple} V$ is the **gravitational potential** at a point, in joules per kilogram.
+> > - $\large \color{violet} V$ is the **gravitational potential** at a point, in joules per kilogram.
 > > - $\large \color{darkgrey} G$ is the **gravitational constant**, approximately $6.67 \times 10^{-11}\ \textup{m}^3\ \textup{kg}^{-1}\ \textup{s}^{-2}$.
 > > - $\large \color{orange} W$ is the **work done** bringing a test mass from infinity, in joules.
 > > - $\large \color{limegreen} m$ is the **mass** of the object brought to the point, in kilograms.
