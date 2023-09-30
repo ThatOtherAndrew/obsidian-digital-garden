@@ -49,18 +49,23 @@ The electric potential at a point (sometimes referred to **potential** within an
 
 The formal definition of electric potential at a point is the energy required to move a **1 coulomb positive test charge** to that point from an infinitely far location, where the [[School/S6/Physics/Electromagnetism/Electric Potential#Electric Field Strength\|electric field strength]] would be zero. This helps to explain why the electric potential at a point increases when it approaches a positively charged particle, and not vice versa.
 
-Electric potential is the **electric counterpart to [[School/S6/Physics/Rotational Motion and Astrophysics/Gravitational Fields#Gravitational Potential\|gravitational potential]]**, and both use the symbol $\large \color{mediumpurple} V$.
+Electric potential is the **electric counterpart to [[School/S6/Physics/Rotational Motion and Astrophysics/Gravitational Fields#Gravitational Potential\|gravitational potential]]**, and both use the symbol $\large \color{violet} V$.
 
 > [!summary] Formula
 > $$\huge
-> {\color{mediumpurple} V} = \frac{\color{orange} W}{\color{yellow} Q}
+> {\color{violet} V} = \frac{\color{orange} W}{\color{yellow} Q}
 > $$
 > > [!info] Variable Key
-> > - $\large \color{mediumpurple} V$ is the **electric potential** at a point, in joules per coulomb.
+> > - $\large \color{violet} V$ is the **electric potential** at a point, in joules per coulomb.
 > > - $\large \color{orange} W$ is the **work done** bringing a positive test charge from infinity, in joules.
 > > - $\large \color{yellow} Q$ is the **charge** of the particle brought to the point, in coulombs.
 
 > [!question] Wait, isn't this just voltage?
 > Does this look familiar from the Higher Physics course? While this is the same formula for **[[School/S5/Physics/Particles and Waves/Electric Fields#Voltage\|voltage]]** or **potential difference**, the term "voltage" can be confusing, since as the name "potential difference" suggests it describes only differences in electric potentials. This is why you'll never see it on an SQA Advanced Higher exam paper! Despite you having most likely used the term up until this point in physics, now would be a good time to stop and forget using the term altogether, and reframe what you knew about voltage in the context of **differences in [[School/S6/Physics/Electromagnetism/Electric Potential#Electric Potential\|electric potential]]**. Ah, the joy of SQA Physics :D
+
+### Electronvolts
+If we rearrange the formula for [[School/S6/Physics/Electromagnetism/Electric Potential#Electric Potential\|electric potential]], we get $\large {\color{orange} W} = {\color{violet} V} {\color{yellow} Q}$, which shows that <span style="color: orange">energy</span> can be expressed as <span style="color: violet">potential</span> multiplied by <span style="color: yellow">charge</span>. This is what the <strong><span style="color: yellow">electron</span><span style="color: violet">volt</span></strong> is - a unit of <span style="color: orange">energy</span> which represents the work done to **move an electron through a potential difference of 1 joule per coulomb**.
+
+The symbol for electronvolts is $\large \textup{eV}$.
 
 
