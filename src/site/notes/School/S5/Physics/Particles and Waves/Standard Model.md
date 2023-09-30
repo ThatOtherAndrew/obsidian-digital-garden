@@ -26,9 +26,7 @@ Neutrinos are [[School/S5/Physics/Particles and Waves/Standard Model#Leptons\|le
 
 Below is an example of **neutron decay**, where a neutron turns into a proton, an electron and an electron antineutrino:
 
-$$\huge
-{ #1_0}
-\textup{n} \rightarrow {}^1_0\textup{p} + {}^{\ 0}_\textup{-1}\textup{e} + \overline{\textup{v}}_e$$
+$$\huge {}^1_0\textup{n} \rightarrow {}^1_0\textup{p} + {}^{\ 0}_\textup{-1}\textup{e} + \overline{\textup{v}}_e$$
 
 Initially, physicists observed that neutrons decayed into protons and electrons, which conserves mass and charge. However, the total energy held by the proton and electron was observed to be less than the energy of the neutron. According to the law of [[School/S4/Physics/Dynamics and Space/Energy, Work and Power#Conservation of energy\|conservation of energy]] this isn't possible, and that energy has to go *somewhere* - leading to the existence of neutrinos first being theorised.
 
