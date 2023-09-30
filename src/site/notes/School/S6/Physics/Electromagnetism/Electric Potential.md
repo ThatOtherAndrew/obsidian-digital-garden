@@ -49,6 +49,8 @@ The electric potential at a point (sometimes referred to **potential** within an
 
 The formal definition of electric potential at a point is the energy required to move a **1 coulomb positive test charge** to that point from an infinitely far location, where the [[School/S6/Physics/Electromagnetism/Electric Potential#Electric Field Strength\|electric field strength]] would be zero. This helps to explain why the electric potential at a point increases when it approaches a positively charged particle, and not vice versa.
 
+Electric potential is the **electric counterpart to [[School/S6/Physics/Rotational Motion and Astrophysics/Gravitational Fields#Gravitational Potential\|gravitational potential]]**, and both use the symbol $\large \color{mediumpurple} V$.
+
 > [!summary] Formula
 > $$\huge
 > {\color{mediumpurple} V} = \frac{\color{orange} W}{\color{yellow} Q}
