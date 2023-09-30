@@ -53,7 +53,6 @@ Gravitational potential is the **gravitational counterpart to [[School/S6/Physic
 > }
 > $$
 > > [!info] Variable Key
-> > - #Todo
 > > - $\large \color{violet} V$ is the **gravitational potential** at a point, in joules per kilogram.
 > > - $\large \color{darkgrey} G$ is the **gravitational constant**, approximately $6.67 \times 10^{-11}\ \textup{m}^3\ \textup{kg}^{-1}\ \textup{s}^{-2}$.
 > > - $\large \color{orange} W$ is the **work done** bringing a test mass from infinity, in joules.
