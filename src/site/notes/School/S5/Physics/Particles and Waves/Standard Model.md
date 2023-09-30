@@ -2,20 +2,6 @@
 {"dg-publish":true,"dg-path":"Higher/Physics/Particles and Waves/Standard Model.md","dg-permalink":"physics/standard-model","permalink":"/physics/standard-model/","created":"","updated":""}
 ---
 
-
-> [!example]+ Index
-> - **[[School/S5/Physics/Particles and Waves/Standard Model#Fermions\|Fermions]]**
-> 	- [[School/S5/Physics/Particles and Waves/Standard Model#Quarks\|Quarks]]
-> 	- [[School/S5/Physics/Particles and Waves/Standard Model#Leptons\|Leptons]]
-> 		- [[School/S5/Physics/Particles and Waves/Standard Model#Neutrinos\|Neutrinos]]
-> - **[[School/S5/Physics/Particles and Waves/Standard Model#Bosons\|Bosons]]**
-> 	- [[School/S5/Physics/Particles and Waves/Standard Model#Gauge Bosons\|Gauge Bosons]]
-> 	- [[School/S5/Physics/Particles and Waves/Standard Model#Higgs Boson\|Higgs Boson]]
-> - **[[School/S5/Physics/Particles and Waves/Standard Model#Hadrons\|Hadrons]]**
-> 	- [[School/S5/Physics/Particles and Waves/Standard Model#Baryons\|Baryons]]
-> 	- [[School/S5/Physics/Particles and Waves/Standard Model#Mesons\|Mesons]]
-> - **[[School/S5/Physics/Particles and Waves/Standard Model#Antimatter\|Antimatter]]**
-
 ### Definition
 The Standard Model is a theory of the elementary particles, the most fundamental particles which cannot be broken down into other particles and are the building blocks of the universe. Elementary particles fall under one of two categories: [[School/S5/Physics/Particles and Waves/Standard Model#Fermions\|fermions]] and [[School/S5/Physics/Particles and Waves/Standard Model#Bosons\|bosons]]. There are multiple different interpretations and depictions of the Standard Model with slight variations.
 
