@@ -63,10 +63,10 @@ Just as [[School/S5/Physics/Our Dynamic Universe/Momentum\|linear momentum]] is 
 
 > [!summary] Formula
 > $$\huge
-> {\color{mediumpurple} L} = {\color{limegreen} I} {\color{salmon} \omega}
+> {\color{violet} L} = {\color{limegreen} I} {\color{salmon} \omega}
 > $$
 > > [!info] Variable Key
-> > - $\large \color{mediumpurple} L$ is **angular momentum**, in $\textup{kg m}^2 \textup{ s}^{-1}$.
+> > - $\large \color{violet} L$ is **angular momentum**, in $\textup{kg m}^2 \textup{ s}^{-1}$.
 > > - $\large \color{limegreen} I$ is the **[[School/S6/Physics/Rotational Motion and Astrophysics/Torque and Moment of Inertia#Moment of Inertia\|moment of inertia]]**, in kilograms per metre squared.
 > > - $\large \color{salmon} \omega$ is the **[[School/S6/Physics/Rotational Motion and Astrophysics/Rotational Motion#Angular Velocity\|angular velocity]]**, in radians per second.
 
@@ -78,7 +78,7 @@ This applies to [[School/S6/Physics/Rotational Motion and Astrophysics/Torque an
 > [!summary]
 > In the absence of external [[School/S6/Physics/Rotational Motion and Astrophysics/Torque and Moment of Inertia#Torque\|torques]], the **total [[School/S6/Physics/Rotational Motion and Astrophysics/Torque and Moment of Inertia#Angular Momentum\|angular momentum]]** of a system **remains constant**.
 
-In practice, this means that if the [[School/S6/Physics/Rotational Motion and Astrophysics/Torque and Moment of Inertia#Moment of Inertia\|moment of inertia]] of a rotating object decreases (e.g. by a mass being pulled closer to the centre), the [[School/S6/Physics/Rotational Motion and Astrophysics/Rotational Motion#Angular Velocity\|angular velocity]] must increase to keep $\large \color{mediumpurple} L$ constant, and vice versa.
+In practice, this means that if the [[School/S6/Physics/Rotational Motion and Astrophysics/Torque and Moment of Inertia#Moment of Inertia\|moment of inertia]] of a rotating object decreases (e.g. by a mass being pulled closer to the centre), the [[School/S6/Physics/Rotational Motion and Astrophysics/Rotational Motion#Angular Velocity\|angular velocity]] must increase to keep $\large \color{violet} L$ constant, and vice versa.
 
 ## Rotational Kinetic Energy
 Just as a linearly moving mass has kinetic energy, a rotating mass has kinetic energy as well - it just revolves around a point instead of travelling in a straight line. Using the formula we already know for kinetic energy, $\large E_k = \frac{1}{2}mv^2$, we can substitute the variables for their rotational counterparts to get the following formula:
