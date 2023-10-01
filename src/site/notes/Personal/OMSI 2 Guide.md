@@ -35,3 +35,58 @@ To pull away, you'll now need to engage <kbd>D</kbd> for Drive. There's also <kb
 
 #### <kbd>Num8</kbd> <kbd>Num5</kbd> <kbd>Num4</kbd> <kbd>Num6</kbd> - THROTTLE, BRAKE, LEFT AND RIGHT
 Your throttle is <kbd>Num8</kbd> on the numpad. Left is <kbd>Num4</kbd> and Right is <kbd>Num6</kbd>. By default <kbd>Num5</kbd> is steering wheel center and Num2 is <kbd>brake</kbd> but I'd recommend swapping <kbd>Num5</kbd> and <kbd>Num2</kbd> and enabling 'automatic steering wheel center' in the general settings menu as this will make your life much easier. If you hit brake while cruising, you'll turn on the retarder and the bus will start to slow down. Tap it again and it'll go full ABS, bringing you to a halt ASAP. 
+
+## Using the Control Panel
+Now I'll get onto the control panel. First option is to spawn a new bus. Second is to switch buses if you have multiple spawned. Third is to delete your current bus. Fourth is to teleport your bus to an entry point of the map (usually the terminus/interchange) fifth is to activate/deactivate the computer control. If you click on any NPC bus that's out and about and click yes to switch to it, you'll need to hit this to disable the computer that's driving it so that you can drive it. Other than that you won't need for touch that option. Fifth is important. This is your route selector. This loads your start and end point and ATA. (automatic timetable analysis). It will show you how long the route will take to drive in real life minutes in the preview menu. Once loaded, press <kbd>Shift</kbd> + <kbd>Y</kbd> to bring up the status menu - showing the current in game time, date, your speed, the name of the next stop and how delayed you are (a minus number means you're early). The 92E is your display selector, e.g. 25 city centre.
+
+After each route, you'll get a popup showing your delays and each stop you stopped at. This is a text file and can be saved if you wish.
+
+#### Useless Buttons
+Next is the SOS button which doesn't work. Then the tools button which does nothing, and the fuel button which also does nothing.
+
+#### Stop Indicator
+The final row is first the stop indicator button. This enables/disables the large floating indicators with the stop name on them. Really good maps will also show which routes stop there.
+
+### Time
+Then there's the time button, basically Minecraft's  `/time set`. You can sync it to real world time if you want as well. Useful if you're early or late to start a route - you can't change the time while on a route though.
+
+Final three buttons on the control panel are weather, allows you to select in game conditions, e.g. rain or snow. Then input selector (if you have controller or steering wheel). And the last button is your driver file which shows how late you've been and how many pedestrians you've run over.
+
+## Miscellaneous
+
+#### Pausing
+To pause the game, press <kbd>P</kbd>.
+
+#### Turn Indicators
+Indicators are <kbd>Num7</kbd> for left and <kbd>Num9</kbd> for right. <kbd>Num.</kbd> is your indicator off switch. They'll generally switch themselves off as you go around corners but a lot of the time, especially land changes, smaller turns or pulling into/out of bus stops they'll won't go off by themselves so a manual switch is useful.
+
+#### Ticket Selling
+I don't personally bother with ticket selling but if you want to add quick maths to your simulation game then turn it on in the general settings. It's the easiest on British/American buses as the ticket types are in English instead of German or Spanish. Having the status menu open is useful as it will tell you exactly what kind of ticket they want and how much it costs and how much money they have given you - it won't tell you how much change to give though - you have to do the maths in your head.
+
+#### Passenger Complaints
+I haven't found a way to disable passengers complaining about you driving badly - but it's not too annoying, as it's only a thing on some maps.
+
+#### Next Stop Announcements
+Audiovisual next stop announcements are cool but are mostly only a thing on modern British buses (see: paid DLC buses) and only work on specific maps.
+
+#### CCTV and Mirrors
+CCTV and mirrors will only work when real-time reflections are enabled.
+
+#### Camera Modes
+There are four camera modes:
+- F1 is drivers cockpit
+- F2 is passenger view
+- F3 is follow camera 
+- F4 is 'ego perspective' 
+
+Ego perspective is a free camera allowing you to view anywhere in the map. Right-click to move the camera like with Google Street View.
+
+Use the <kbd>←</kbd> and <kbd>→</kbd> arrow keys to change perspectives in these four different modes - e.g. upstairs on a double decker in F2 mode.
+
+#### Mouse Controls
+- Holding the middle mouse button lets you pan across the screen.
+- Holding right mouse button is your zoom - push the mouse forwards or backwards while holding it.
+- Left mouse button is for selection, as with the vast majority of applications.
+- Scroll wheel does nothing except in menus.
+
+<sub>Jed, if you're reading this, you're no longer the only one with carpal tunnel now!</sub>
