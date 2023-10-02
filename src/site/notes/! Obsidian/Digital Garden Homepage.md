@@ -32,7 +32,8 @@
 ### Music
 
 > 🎵 [[School/S6/Music/Late Romantic Music Essay\|Late Romantic Music Essay]]  
-> 🎷 [[School/S6/Music/Cole Porter - 'Anything Goes' Comparison\|Cole Porter - 'Anything Goes' Comparison]]
+> 🎷 [[School/S6/Music/Cole Porter - 'Anything Goes' Comparison\|Cole Porter - 'Anything Goes' Comparison]]  
+> 🟡 [[School/S6/Music/Minimalism\|Minimalism]]
 
 ---
 
