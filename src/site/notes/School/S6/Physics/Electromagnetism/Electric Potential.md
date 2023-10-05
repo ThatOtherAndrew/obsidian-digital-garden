@@ -63,9 +63,11 @@ Electric potential is the **electric counterpart to [[School/S6/Physics/Rotation
 > [!question] Wait, isn't this just voltage?
 > Does this look familiar from the Higher Physics course? While this is the same formula for **[[School/S5/Physics/Particles and Waves/Electric Fields#Voltage\|voltage]]** or **potential difference**, the term "voltage" can be confusing, since as the name "potential difference" suggests it describes only differences in electric potentials. This is why you'll never see it on an SQA Advanced Higher exam paper! Despite you having most likely used the term up until this point in physics, now would be a good time to stop and forget using the term altogether, and reframe what you knew about voltage in the context of **differences in [[School/S6/Physics/Electromagnetism/Electric Potential#Electric Potential\|electric potential]]**. Ah, the joy of SQA Physics :D
 
-### Electronvolts
-If we rearrange the formula for [[School/S6/Physics/Electromagnetism/Electric Potential#Electric Potential\|electric potential]], we get $\large {\color{orange} W} = {\color{violet} V} {\color{yellow} Q}$, which shows that <span style="color: orange">energy</span> can be expressed as <span style="color: violet">potential</span> multiplied by <span style="color: yellow">charge</span>. This is what the <strong><span style="color: yellow">electron</span><span style="color: violet">volt</span></strong> is - a unit of <span style="color: orange">energy</span> which represents the work done to **move an electron through a potential difference of 1 joule per coulomb**.
 
-The symbol for electronvolts is $\large \textup{eV}$.
+
+### Electronvolts
+If we rearrange the formula for [[School/S6/Physics/Electromagnetism/Electric Potential#Electric Potential\|electric potential]], we get $\large {\color{orange} W} = {\color{violet} V} {\color{yellow} Q}$, which shows that <span style="color: orange">energy</span> can be expressed as <span style="color: violet">potential</span> multiplied by <span style="color: yellow">charge</span>. This is what the <strong><span style="color: yellow">electron</span><span style="color: violet">volt</span></strong> is - a unit of <span style="color: orange">energy</span> which represents the work done to **move an electron through a potential difference of 1 joule per coulomb**. The symbol for electronvolts is $\large \textup{eV}$.
+
+You should have already been introduced to [[School/S5/Physics/Particles and Waves/Electric Fields#The Electronvolt\|electronvolts at Higher level]], however hopefully this reintroduces them in a context which makes more intuitive sense and gives you a better understanding of the unit.
 
 
