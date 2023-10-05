@@ -57,3 +57,5 @@ Gravitational potential is the **gravitational counterpart to [[School/S6/Physic
 > > - $\large \color{darkgrey} G$ is the **gravitational constant**, approximately $6.67 \times 10^{-11}\ \textup{m}^3\ \textup{kg}^{-1}\ \textup{s}^{-2}$.
 > > - $\large \color{orange} W$ is the **work done** bringing a test mass from infinity, in joules.
 > > - $\large \color{limegreen} m$ is the **mass** of the object brought to the point, in kilograms.
+
+
