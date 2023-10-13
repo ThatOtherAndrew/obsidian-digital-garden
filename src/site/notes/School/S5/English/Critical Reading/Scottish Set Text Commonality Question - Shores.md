@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/English/Scottish Set Text Commonality Question - Shores.md","dg-permalink":"english/shores-commonality","permalink":"/english/shores-commonality/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Higher/English/Scottish Set Text Commonality Question - Shores.md","dg-permalink":"english/shores-commonality","permalink":"/english/shores-commonality/"}
 ---
 
 
