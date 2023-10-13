@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/Physics/Electricity/AC and DC.md","dg-permalink":"physics/ac-dc","permalink":"/physics/ac-dc/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Higher/Physics/Electricity/AC and DC.md","dg-permalink":"physics/ac-dc","permalink":"/physics/ac-dc/"}
 ---
 
 
