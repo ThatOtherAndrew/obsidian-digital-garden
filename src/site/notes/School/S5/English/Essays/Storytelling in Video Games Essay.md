@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/English/Storytelling in Video Games Essay.md","dg-permalink":"english/storytelling-in-video-games","permalink":"/english/storytelling-in-video-games/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Higher/English/Storytelling in Video Games Essay.md","dg-permalink":"english/storytelling-in-video-games","permalink":"/english/storytelling-in-video-games/"}
 ---
 
 
