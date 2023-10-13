@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Advanced Higher/Physics/Electromagnetism/Altitude Analogy.md","dg-permalink":"physics/altitude-analogy","permalink":"/physics/altitude-analogy/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Advanced Higher/Physics/Electromagnetism/Altitude Analogy.md","dg-permalink":"physics/altitude-analogy","permalink":"/physics/altitude-analogy/"}
 ---
 
 > [!tip]+ Electric shock?
