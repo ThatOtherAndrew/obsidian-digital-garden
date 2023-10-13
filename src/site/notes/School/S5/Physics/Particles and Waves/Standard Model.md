@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/Physics/Particles and Waves/Standard Model.md","dg-permalink":"physics/standard-model","permalink":"/physics/standard-model/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Higher/Physics/Particles and Waves/Standard Model.md","dg-permalink":"physics/standard-model","permalink":"/physics/standard-model/"}
 ---
 
 ### Definition
