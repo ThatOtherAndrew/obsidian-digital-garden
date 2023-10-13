@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/Music/Chamber Music.md","dg-permalink":"music/chamber-music","permalink":"/music/chamber-music/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Higher/Music/Chamber Music.md","dg-permalink":"music/chamber-music","permalink":"/music/chamber-music/"}
 ---
 
 
