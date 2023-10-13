@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"omsi","permalink":"/omsi/","hide":true,"hideInGraph":true,"created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"omsi","permalink":"/omsi/","hide":true,"hideInGraph":true}
 ---
 
 > [!info] Credits
