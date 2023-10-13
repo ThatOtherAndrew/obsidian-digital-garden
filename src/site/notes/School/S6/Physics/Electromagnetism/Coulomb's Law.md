@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Advanced Higher/Physics/Electromagnetism/Coulomb's Law.md","dg-permalink":"physics/coulombs-law","permalink":"/physics/coulombs-law/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Advanced Higher/Physics/Electromagnetism/Coulomb's Law.md","dg-permalink":"physics/coulombs-law","permalink":"/physics/coulombs-law/"}
 ---
 
 > [!help] Confusing concepts?
