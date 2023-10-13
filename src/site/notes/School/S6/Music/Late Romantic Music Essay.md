@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Advanced Higher/Music/Late Romantic Music Essay.md","dg-permalink":"music/late-romantic-music-essay","permalink":"/music/late-romantic-music-essay/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Advanced Higher/Music/Late Romantic Music Essay.md","dg-permalink":"music/late-romantic-music-essay","permalink":"/music/late-romantic-music-essay/"}
 ---
 
 During the late Romantic period, near the end of the 19th century and the start of the 20th century, composers had increasingly grandiose musical forces at their disposal, with the symphony orchestra growing to be the largest orchestra yet. A defining characteristic of a lot of late Romantic music can be described as the music being "extreme" - whether in orchestra size, dynamic range, playing techniques or performance difficulty. Two notable examples include Mahler's 8th Symphony (*"Symphony of a Thousand"*) and Debussy's *Gigues*.
