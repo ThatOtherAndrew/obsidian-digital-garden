@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/Physics/Particles and Waves/Magnetic Fields.md","dg-permalink":"physics/magnetic-fields","permalink":"/physics/magnetic-fields/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Higher/Physics/Particles and Waves/Magnetic Fields.md","dg-permalink":"physics/magnetic-fields","permalink":"/physics/magnetic-fields/"}
 ---
 
 
