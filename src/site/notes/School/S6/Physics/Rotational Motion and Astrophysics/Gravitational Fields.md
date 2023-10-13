@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Advanced Higher/Physics/Rotational Motion and Astrophysics/Gravitational Fields.md","dg-permalink":"physics/gravitational-fields","permalink":"/physics/gravitational-fields/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Advanced Higher/Physics/Rotational Motion and Astrophysics/Gravitational Fields.md","dg-permalink":"physics/gravitational-fields","permalink":"/physics/gravitational-fields/"}
 ---
 
 ## Definition
