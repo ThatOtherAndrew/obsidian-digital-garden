@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/Music/Classical Concerto.md","dg-permalink":"music/classical-concerto","permalink":"/music/classical-concerto/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Higher/Music/Classical Concerto.md","dg-permalink":"music/classical-concerto","permalink":"/music/classical-concerto/"}
 ---
 
 
