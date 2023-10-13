@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Advanced Higher/Music/Minimalism.md","dg-permalink":"music/minimalism","permalink":"/music/minimalism/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Advanced Higher/Music/Minimalism.md","dg-permalink":"music/minimalism","permalink":"/music/minimalism/"}
 ---
 
 ## Definition
