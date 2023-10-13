@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/Physics/Particles and Waves/Photoelectric Effect.md","dg-permalink":"physics/photoelectric-effect","permalink":"/physics/photoelectric-effect/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Higher/Physics/Particles and Waves/Photoelectric Effect.md","dg-permalink":"physics/photoelectric-effect","permalink":"/physics/photoelectric-effect/"}
 ---
 
 
