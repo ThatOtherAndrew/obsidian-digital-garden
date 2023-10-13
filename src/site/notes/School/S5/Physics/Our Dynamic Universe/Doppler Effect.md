@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/Physics/Our Dynamic Universe/Doppler Effect.md","dg-permalink":"physics/doppler-effect","permalink":"/physics/doppler-effect/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Higher/Physics/Our Dynamic Universe/Doppler Effect.md","dg-permalink":"physics/doppler-effect","permalink":"/physics/doppler-effect/"}
 ---
 
 
