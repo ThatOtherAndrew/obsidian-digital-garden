@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/Physics/Our Dynamic Universe/The Expanding Universe.md","dg-permalink":"physics/the-expanding-universe","permalink":"/physics/the-expanding-universe/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Higher/Physics/Our Dynamic Universe/The Expanding Universe.md","dg-permalink":"physics/the-expanding-universe","permalink":"/physics/the-expanding-universe/"}
 ---
 
 
