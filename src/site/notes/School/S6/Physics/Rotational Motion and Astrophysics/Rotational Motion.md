@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Advanced Higher/Physics/Rotational Motion and Astrophysics/Rotational Motion.md","dg-permalink":"physics/rotational-motion","permalink":"/physics/rotational-motion/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Advanced Higher/Physics/Rotational Motion and Astrophysics/Rotational Motion.md","dg-permalink":"physics/rotational-motion","permalink":"/physics/rotational-motion/"}
 ---
 
 ## Basic Definitions
