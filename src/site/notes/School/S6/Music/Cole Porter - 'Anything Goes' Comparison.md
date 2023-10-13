@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Advanced Higher/Music/Cole Porter - 'Anything Goes' Comparison.md","dg-permalink":"music/anything-goes","permalink":"/music/anything-goes/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Advanced Higher/Music/Cole Porter - 'Anything Goes' Comparison.md","dg-permalink":"music/anything-goes","permalink":"/music/anything-goes/"}
 ---
 
 *Anything Goes* by Cole Porter is the eponymous song of a musical he wrote in 1934. Later on in the 1950s, Frank Sinatra recorded the song for his album *Songs for Swingin' Lovers!*, which was shortly followed by Ella Fitzgerald's version for the (very imaginatively named) album *Ella Fitzgerald Sings the Cole Porter Songbook*. Despite both recordings being the same song composed by Cole Porter, they have significant differences in a variety of aspects, incluidng style, structure, harmony, instrumentation and timbre.
