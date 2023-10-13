@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Advanced Higher/Physics/Electromagnetism/Electric Potential.md","dg-permalink":"physics/electric-potential","permalink":"/physics/electric-potential/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Advanced Higher/Physics/Electromagnetism/Electric Potential.md","dg-permalink":"physics/electric-potential","permalink":"/physics/electric-potential/"}
 ---
 
 > [!help] Confusing concepts?
