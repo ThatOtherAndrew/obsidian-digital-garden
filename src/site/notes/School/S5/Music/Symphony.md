@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/Music/Symphony.md","dg-permalink":"music/symphony","permalink":"/music/symphony/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Higher/Music/Symphony.md","dg-permalink":"music/symphony","permalink":"/music/symphony/"}
 ---
 
 
