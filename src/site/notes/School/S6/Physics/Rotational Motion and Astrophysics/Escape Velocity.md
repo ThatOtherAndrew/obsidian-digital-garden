@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Advanced Higher/Physics/Rotational Motion and Astrophysics/Escape Velocity.md","dg-permalink":"physics/escape-velocity","permalink":"/physics/escape-velocity/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Advanced Higher/Physics/Rotational Motion and Astrophysics/Escape Velocity.md","dg-permalink":"physics/escape-velocity","permalink":"/physics/escape-velocity/"}
 ---
 
 ## Potential Wells
