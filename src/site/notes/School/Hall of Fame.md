@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Hall of Fame.md","dg-permalink":"hall-of-fame","permalink":"/hall-of-fame/","title":"🏆 Hall of Fame","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Hall of Fame.md","dg-permalink":"hall-of-fame","permalink":"/hall-of-fame/","title":"🏆 Hall of Fame"}
 ---
 
 > [!question]- What is the Hall of Fame?
