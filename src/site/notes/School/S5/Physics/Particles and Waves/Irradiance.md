@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/Physics/Particles and Waves/Irradiance.md","dg-permalink":"physics/irradiance","permalink":"/physics/irradiance/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Higher/Physics/Particles and Waves/Irradiance.md","dg-permalink":"physics/irradiance","permalink":"/physics/irradiance/"}
 ---
 
 
