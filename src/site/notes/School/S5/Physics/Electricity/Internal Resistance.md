@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Higher/Physics/Electricity/Internal Resistance.md","dg-permalink":"physics/internal-resistance","permalink":"/physics/internal-resistance/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Higher/Physics/Electricity/Internal Resistance.md","dg-permalink":"physics/internal-resistance","permalink":"/physics/internal-resistance/"}
 ---
 
 
