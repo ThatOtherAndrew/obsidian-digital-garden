@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Advanced Higher/Physics/Rotational Motion and Astrophysics/General Relativity.md","dg-permalink":"physics/general-relativity","permalink":"/physics/general-relativity/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Advanced Higher/Physics/Rotational Motion and Astrophysics/General Relativity.md","dg-permalink":"physics/general-relativity","permalink":"/physics/general-relativity/"}
 ---
+
+> [!quote]
+> > Spacetime tells matter how to move; matter tells spacetime how to curve.
+> 
+> <i style="opacity: 0.5">— John Wheeler</i>
 
 ## Equivalence Principle
 
