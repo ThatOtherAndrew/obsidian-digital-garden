@@ -9,7 +9,7 @@
 
 # Hall of Fame
 
-### November
+### September
 
 > [!important] Robert Simmers <span style="opacity: 0.5">19/09/2023</span>
 > 
