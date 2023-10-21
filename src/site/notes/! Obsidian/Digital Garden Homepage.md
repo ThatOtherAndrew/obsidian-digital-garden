@@ -18,11 +18,12 @@
 
 > 📈 [[School/S6/Physics/Rotational Motion and Astrophysics/Motion Graphs and Calculus\|Motion Graphs and Calculus]]  
 > 🔁 [[School/S6/Physics/Rotational Motion and Astrophysics/Rotational Motion\|Rotational Motion]]  
-> 🛞 [[School/S6/Physics/Rotational Motion and Astrophysics/Centripetal Force\|Centripetal Force]]  
+> 🌀 [[School/S6/Physics/Rotational Motion and Astrophysics/Centripetal Force\|Centripetal Force]]  
 > 🔧 [[School/S6/Physics/Rotational Motion and Astrophysics/Torque and Moment of Inertia\|Torque and Moment of Inertia]]  
 > 🌐 [[School/S6/Physics/Rotational Motion and Astrophysics/Gravitational Fields\|Gravitational Fields]]  
 > 🚀 [[School/S6/Physics/Rotational Motion and Astrophysics/Escape Velocity\|Escape Velocity]]  
-> 💫 [[School/S6/Physics/Rotational Motion and Astrophysics/General Relativity\|General Relativity]]
+> 💫 [[School/S6/Physics/Rotational Motion and Astrophysics/General Relativity\|General Relativity]]  
+> 🕳️ [[School/S6/Physics/Rotational Motion and Astrophysics/Black Holes\|Black Holes]]
 
 #### Electromagnetism
 
