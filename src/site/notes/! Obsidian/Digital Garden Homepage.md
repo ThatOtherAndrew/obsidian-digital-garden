@@ -29,7 +29,8 @@
 
 > 🏔️ [[School/S6/Physics/Electromagnetism/Altitude Analogy\|Altitude Analogy]]  
 > ⚡ [[School/S6/Physics/Electromagnetism/Coulomb's Law\|Coulomb's Law]]  
-> 🦾 [[School/S6/Physics/Electromagnetism/Electric Potential\|Electric Potential]]
+> 🦾 [[School/S6/Physics/Electromagnetism/Electric Potential\|Electric Potential]]  
+> 🧲 [[School/S6/Physics/Electromagnetism/Magnets and Induction\|Magnets and Induction]]
 
 ### Music
 
