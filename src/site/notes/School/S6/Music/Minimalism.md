@@ -4,7 +4,7 @@
 
 ## Definition
 
-Minimalism is a type of music which is made up of **limited musical material** to create **complex and emergent textures**. Notable examples of minimalist composers include [Steve Reich](https://en.wikipedia.org/wiki/Steve_Reich) and [John Adams](https://en.wikipedia.org/wiki/John_Adams_(composer). To accomplish this, minimalist composers utilise a variety of techniques:
+Minimalism is a type of music which is made up of **limited musical material** to create **complex and emergent textures**. Notable examples of minimalist composers include [Steve Reich](https://en.wikipedia.org/wiki/Steve_Reich) and [John Adams](https://en.wikipedia.org/wiki/John_Adams_(composer)). To accomplish this, minimalist composers utilise a variety of techniques:
 #### Ostinato
 A **continuously repeating musical pattern** - the building blocks of minimalist music.
 #### Note Addition
