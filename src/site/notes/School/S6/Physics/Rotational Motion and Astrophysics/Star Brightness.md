@@ -38,3 +38,18 @@ The formula to calculate [[School/S6/Physics/Rotational Motion and Astrophysics/
 > 
 > >[!tip]
 > > You can use any other unit of distance as long as you're consistent - at astronomical scales, metres become incredibly impractical and **astronomical units**, **light years** and **parsecs** become more reasonable.
+
+## Stefan-Boltzmann Law
+The **Stefan-Boltzmann law** relates the **[[School/S5/Physics/Particles and Waves/Irradiance\|irradiance]]** of a star to its **surface temperature**. It states that the irradiance of an **ideal [[School/S5/Physics/Our Dynamic Universe/The Expanding Universe#Black Body Radiation\|black body]]** is **directly proportional** to the **fourth power of its temperature**.
+
+Since stars can be considered approximate black bodies, we can use the Stefan-Boltzmann law to calculate the temperature of a star from its irradiance, or vice versa. This is very useful for getting a rough idea of the surface temperature of stars, which we obviously can't pop by for an afternoon visit.
+
+> [!summary] Formula
+> $$\huge
+> {\color{violet} I} = {\color{darkgrey} \sigma} {\color{limegreen} T}^4
+> $$
+> 
+> > [!info] Variable Key
+> > - $\large \color{violet} I$ is the **[[School/S5/Physics/Particles and Waves/Irradiance\|irradiance]]** of the star, in watts per square metre.
+> > - $\large \color{darkgrey} \sigma$ is the **Stefan-Boltzmann constant**, about $5.67 \times 10^{-8}\ \textup{W}\ \textup{m}^{-2}\ \textup{K}^{-4}$.
+> > - $\large \color{limegreen} T$ is the **surface temperature** of the star, in kelvins.
