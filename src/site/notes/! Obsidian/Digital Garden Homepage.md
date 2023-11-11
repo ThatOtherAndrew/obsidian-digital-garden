@@ -24,7 +24,8 @@
 > 🚀 [[School/S6/Physics/Rotational Motion and Astrophysics/Escape Velocity\|Escape Velocity]]  
 > 💫 [[School/S6/Physics/Rotational Motion and Astrophysics/General Relativity\|General Relativity]]  
 > 🕳️ [[School/S6/Physics/Rotational Motion and Astrophysics/Black Holes\|Black Holes]]  
-> 🌟 [[School/S6/Physics/Rotational Motion and Astrophysics/Star Brightness\|Star Brightness]]
+> 🌟 [[School/S6/Physics/Rotational Motion and Astrophysics/Star Brightness\|Star Brightness]]  
+> 💥 [[School/S6/Physics/Rotational Motion and Astrophysics/Star Lifecycle\|Star Lifecycle]]
 
 #### Electromagnetism
 
