@@ -21,10 +21,10 @@ Each particle in a ferromagnetic material has a **magnetic dipole** - meaning it
 > $$
 > 
 > > [!info] Variable Key
-> > - $\large \color{red} B$ is **electromagnetic induction** - the strength of a magnetic field.
+> > - $\large \color{red} B$ is **electromagnetic induction** (strength of a magnetic field), in teslas.
 > > - $\large \color{yellow} \mu_0$ is the **permeability of free space** constant.
-> > - $\large \color{cyan} I$ is the **current** through the wire.
-> > - $\large \color{violet} r$ is the **distance** from the wire.
+> > - $\large \color{cyan} I$ is the **current** through the wire, in amperes.
+> > - $\large \color{violet} r$ is the **distance** from the wire, in metres.
 
 ## Solenoids
 A solenoid is simply a fancy term for a **coil of wire**. When a [[School/S5/Physics/Electricity/AC and DC#Direct Current\|direct current]] passes through the coil, it produces a magnetic field which behaves **similar to a permanent magnet**.
