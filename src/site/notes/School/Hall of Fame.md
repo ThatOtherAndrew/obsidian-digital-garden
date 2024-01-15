@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Hall of Fame.md","dg-permalink":"hall-of-fame","permalink":"/hall-of-fame/","title":"🏆 Hall of Fame"}
+{"dg-publish":true,"dg-path":"Hall of Fame.md","dg-permalink":"hall-of-fame","permalink":"/hall-of-fame/","title":"Andrew's Class Notes: 🏆 Hall of Fame"}
 ---
 
 > [!question]- What is the Hall of Fame?
@@ -9,7 +9,15 @@
 
 # Hall of Fame
 
-### September
+### January 2024
+
+> [!important] Andrew Stroev <span style="opacity: 0.5">14/01/2024</span>
+> 
+> Helped me when I was injured
+> 
+> <sub style="opacity: 0.5">Nominated by Deniz Saraev on 15/01/2024</sub>
+
+### September 2023
 
 > [!important] Robert Simmers <span style="opacity: 0.5">19/09/2023</span>
 > 
