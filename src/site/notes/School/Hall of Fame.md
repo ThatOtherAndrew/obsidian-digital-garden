@@ -11,6 +11,12 @@
 
 ### January 2024
 
+> [!important] Finlay Cadger <span style="opacity: 0.5">26/01/2024</span>
+> 
+> Saved a cat from being run over
+> 
+> <sub style="opacity: 0.5">Nominated by Alexander Stroev on 26/01/2024</sub>
+
 > [!important] Andrew Stroev <span style="opacity: 0.5">14/01/2024</span>
 > 
 > Helped me when I was injured
