@@ -9,6 +9,14 @@
 
 # Hall of Fame
 
+### February 2024
+
+> [!important] Morag Brown <span style="opacity: 0.5">22/02/2024</span>
+> 
+> Dragged me ~~forcefully~~ away from school for an evening which gave me a much-needed mental reboot
+> 
+> <sub style="opacity: 0.5">Nominated by Andrew Stroev on 27/02/2024</sub>
+
 ### January 2024
 
 > [!important] Finlay Cadger <span style="opacity: 0.5">26/01/2024</span>
