@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","title":"🏠 Home","pinned":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","title":"Andrew's Class Notes: 🏠 Home","pinned":true,"tags":["gardenEntry"]}
 ---
 
 > [!important]+ Hall of Fame
@@ -33,6 +33,14 @@
 > ⚡ [[School/S6/Physics/Electromagnetism/Coulomb's Law\|Coulomb's Law]]  
 > 🦾 [[School/S6/Physics/Electromagnetism/Electric Potential\|Electric Potential]]  
 > 🧲 [[School/S6/Physics/Electromagnetism/Magnets and Induction\|Magnets and Induction]]
+
+> [!help]+ Penny for your thoughts?
+> 
+> As I'm struggling with my school workload currently, I'm missing a significant amount of information for the **Electromagnetism** topic (e.g. [reactance](https://en.wikipedia.org/wiki/Electrical_reactance)), as well as the entirety of the **Quanta and Waves** topic.
+> 
+> If you have some good quality notes you'd be willing to contribute, please **send them my way** and I'd be more than happy to transcribe / transfer your notes to this site (with credit, of course)!
+> 
+> \- Andrew (that other one) :>
 
 ### Music
 
