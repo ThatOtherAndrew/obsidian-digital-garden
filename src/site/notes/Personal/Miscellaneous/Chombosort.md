@@ -10,7 +10,7 @@
 > <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/a-Oy0upXT_4?si=KhGR_3t1vub98jM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Lena Raine: Resurrections (from Celeste)
-```
+```sh
 # Setup
 dreamsynth t5 unmutebass unmutecym unmutesnare darkmode
 
