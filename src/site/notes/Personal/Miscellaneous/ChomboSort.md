@@ -12,10 +12,10 @@
 ### Lena Raine: Resurrections (from Celeste)
 ```sh
 # Setup
-dreamsynth t5 unmutebass unmutecym unmutesnare darkmode
+rhodes t5 unmutebass unmutecym unmutesnare darkmode
 
 # Percussion
-cym21 sn0000210001002100
+cym21 sn0000210002102100
 
 # Progression
 A.Aminmaj7 ~A.Aminmaj7 G.Cmaj ~G.Cmaj Fmaj7 ~Fmaj7 Emaj ~Emaj
